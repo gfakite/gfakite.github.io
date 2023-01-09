@@ -6,17 +6,14 @@
     <description>Recent content in Posts on 2wmj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 03 Jan 2023 09:13:07 +0000</lastBuildDate><atom:link href="https://2wmj.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 14:13:07 +0000</lastBuildDate><atom:link href="https://2wmj.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction et plan</title>
       <link>https://2wmj.github.io/posts/2023-01-01-introduction-et-plan/</link>
       <pubDate>Sun, 01 Jan 2023 13:13:07 +0000</pubDate>
       
       <guid>https://2wmj.github.io/posts/2023-01-01-introduction-et-plan/</guid>
-      <description>Modeste assemblage de pages sans prétentions aucune.
-Construction illustrée d&amp;rsquo;un cerf-volant de type révolution. Cerf-volant &amp;ldquo;pilotable&amp;rdquo; 4 lignes (quad lines kite).
-2 lignes versus 4 lignes A l&amp;rsquo;inverse d&amp;rsquo;un cerf-volant 2 lignes Delta, le 4 lignes Révolution peut faire du vol stationnaire, de la marche arrière, etc. Plan Réalisation basée sur le plan Essentials de Spencer Watson:
-PDF: Essentials S Source: watty.us Ajustement Réalisation &amp;ldquo;simplifiée&amp;rdquo; sur un morceau d&amp;rsquo;icarex de 3m x 1,50m 2 voiles d&amp;rsquo;un seul tenant sur un morceau de tissus.</description>
+      <description>L&amp;#39;introduction est un petit discours préliminaire placé en tête d’un ouvrage</description>
     </item>
     
     <item>
@@ -25,25 +22,34 @@ PDF: Essentials S Source: watty.us Ajustement Réalisation &amp;ldquo;simplifié
       <pubDate>Mon, 02 Jan 2023 11:12:07 +0000</pubDate>
       
       <guid>https://2wmj.github.io/posts/2023-01-02-outils-et-fournitures/</guid>
-      <description>Liste des outils Machine à coudre
-Point droit 3 points zigzag 1 règle plate d&amp;rsquo;un mètre
-1 paire de ciseaux
-1 crayon à papier
-1 fer à souder (500W min) avec panne en pointe
-Ou un honteux bidouillage bricolage: gros clou, mèche cotton, pot en verre et pétrole désaromatisé 1 surface plane
-du temps et beaucoup de patience
-Facultatif:
-Une scie à métaux (lame carbone ou pas)
-Si besoin de recouper une barre en carbone</description>
+      <description>Un outil est un objet physique utilisé par un être vivant directement, ou par l&amp;#39;intermédiaire d&amp;#39;une machine, afin d&amp;#39;exercer une action le plus souvent mécanique, ou thermique, sur un élément d&amp;#39;environnement à traiter</description>
     </item>
     
     <item>
-      <title>Découpe de la voile et renforts</title>
-      <link>https://2wmj.github.io/posts/2023-01-03-decoupe-de-la-voile-et-renforts/</link>
+      <title>Découpe de la voile et bord d&#39;attaque</title>
+      <link>https://2wmj.github.io/posts/2023-01-03-decoupe-de-la-voile-et-bord-attaque/</link>
       <pubDate>Tue, 03 Jan 2023 09:13:07 +0000</pubDate>
       
-      <guid>https://2wmj.github.io/posts/2023-01-03-decoupe-de-la-voile-et-renforts/</guid>
-      <description>Découpe de la voile Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum consequat nibh, eu euismod risus tristique sed. Donec ac iaculis libero. In hac habitasse platea dictumst. Nam nulla arcu, varius quis vulputate sed, lacinia malesuada ligula. Sed bibendum facilisis mauris, vel varius eros ullamcorper vel. Praesent sapien mi, venenatis quis sagittis eu, ultrices sit amet ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fermentum cursus nisi, non placerat ante condimentum et.</description>
+      <guid>https://2wmj.github.io/posts/2023-01-03-decoupe-de-la-voile-et-bord-attaque/</guid>
+      <description>Le découpage est un procédé de fabrication de pièces qui consiste à diviser un sous-produit en plusieurs parties</description>
+    </item>
+    
+    <item>
+      <title>Découpe de la voile et bord d&#39;attaque</title>
+      <link>https://2wmj.github.io/posts/2023-01-04-assemblage-et-couture/</link>
+      <pubDate>Wed, 04 Jan 2023 09:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/posts/2023-01-04-assemblage-et-couture/</guid>
+      <description>Une couture est l&amp;#39;assemblage de deux ou plusieurs pièces à l&amp;#39;aide de fil à coudre, soit manuellement avec une aiguille, soit en utilisant une machine à coudre</description>
+    </item>
+    
+    <item>
+      <title>Le bridage</title>
+      <link>https://2wmj.github.io/posts/2023-01-05-bridage/</link>
+      <pubDate>Thu, 05 Jan 2023 14:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/posts/2023-01-05-bridage/</guid>
+      <description>Sur un cerf-volant, le bridage désigne le maintien de certaines parties par des fils</description>
     </item>
     
   </channel>
