@@ -2,47 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://2wmj.github.io/2023/01/introduction-et-plan/</loc>
-    <lastmod>2023-01-01T13:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/</loc>
+    <lastmod>2023-02-22T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/outils-et-fournitures/</loc>
-    <lastmod>2023-01-02T11:12:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/2023/02/construction-3-voile-tendue/</loc>
+    <lastmod>2023-02-22T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/voile-et-moustiquaire/</loc>
-    <lastmod>2023-01-03T09:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/tags/plan-v3/</loc>
+    <lastmod>2023-02-22T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/bord-dattaque/</loc>
-    <lastmod>2023-01-04T09:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/posts/</loc>
+    <lastmod>2023-02-22T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/renforts/</loc>
-    <lastmod>2023-01-05T00:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/tags/</loc>
+    <lastmod>2023-02-22T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/bord-de-fuite/</loc>
-    <lastmod>2023-01-06T01:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/tags/voile-tendue/</loc>
+    <lastmod>2023-02-22T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/collage-trous-et-embouts/</loc>
-    <lastmod>2023-01-07T02:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/tags/connecteur-t/</loc>
+    <lastmod>2023-02-01T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/point-de-tire-bas/</loc>
-    <lastmod>2023-01-08T04:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/2023/02/construction-2-connecteurs-en-t/</loc>
+    <lastmod>2023-02-01T20:05:20+01:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/2023/01/contr%C3%B4les-sur-la-voile/</loc>
-    <lastmod>2023-01-09T05:13:07+00:00</lastmod>
-  </url><url>
-    <loc>https://2wmj.github.io/2023/01/bridage/</loc>
-    <lastmod>2023-01-10T06:13:07+00:00</lastmod>
-  </url><url>
-    <loc>https://2wmj.github.io/2023/01/assemblage-final/</loc>
-    <lastmod>2023-01-11T05:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/tags/plan-v2/</loc>
+    <lastmod>2023-02-01T20:05:20+01:00</lastmod>
   </url><url>
     <loc>https://2wmj.github.io/2023/01/conseils-et-repentance/</loc>
     <lastmod>2023-01-12T05:13:07+00:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/</loc>
+    <loc>https://2wmj.github.io/tags/technique/</loc>
     <lastmod>2023-01-12T05:13:07+00:00</lastmod>
   </url><url>
-    <loc>https://2wmj.github.io/posts/</loc>
-    <lastmod>2023-01-12T05:13:07+00:00</lastmod>
+    <loc>https://2wmj.github.io/series/construction-#1/</loc>
+    <lastmod>2023-01-11T05:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/tags/plan-v1/</loc>
+    <lastmod>2023-01-11T05:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/series/</loc>
+    <lastmod>2023-01-11T05:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/tags/tuto/</loc>
+    <lastmod>2023-01-11T05:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-assemblage-final/</loc>
+    <lastmod>2023-01-11T05:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-bridage/</loc>
+    <lastmod>2023-01-10T06:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-contr%C3%B4les-sur-la-voile/</loc>
+    <lastmod>2023-01-09T05:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-point-de-tire-bas/</loc>
+    <lastmod>2023-01-08T04:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-collage-trous-et-embouts/</loc>
+    <lastmod>2023-01-07T02:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-bord-de-fuite/</loc>
+    <lastmod>2023-01-06T01:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-renforts/</loc>
+    <lastmod>2023-01-05T00:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-bord-dattaque/</loc>
+    <lastmod>2023-01-04T09:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-voile-et-moustiquaire/</loc>
+    <lastmod>2023-01-03T09:13:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-outils-et-fournitures/</loc>
+    <lastmod>2023-01-02T11:12:07+00:00</lastmod>
+  </url><url>
+    <loc>https://2wmj.github.io/2023/01/tuto-introduction-et-plan/</loc>
+    <lastmod>2023-01-01T13:13:07+00:00</lastmod>
   </url><url>
     <loc>https://2wmj.github.io/about/</loc>
     <lastmod>2022-12-31T14:47:29+01:00</lastmod>
@@ -52,7 +88,5 @@
     <loc>https://2wmj.github.io/categories/</loc>
   </url><url>
     <loc>https://2wmj.github.io/search/</loc>
-  </url><url>
-    <loc>https://2wmj.github.io/tags/</loc>
   </url>
 </urlset>

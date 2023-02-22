@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tuto on 2wmj</title>
+    <link>https://2wmj.github.io/tags/tuto/</link>
+    <description>Recent content in tuto on 2wmj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 11 Jan 2023 05:13:07 +0000</lastBuildDate><atom:link href="https://2wmj.github.io/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuto: assemblage final</title>
+      <link>https://2wmj.github.io/2023/01/tuto-assemblage-final/</link>
+      <pubDate>Wed, 11 Jan 2023 05:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-assemblage-final/</guid>
+      <description>Montage et vérifications sur la voile avant le premier vol</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="alignement">Alignement</h2>
+<p>3 vérifications à effectuer sur le cerf-volant</p>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-11/03-controle-alignement-bridage-OK.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-11/03-controle-alignement-bridage-OK.jpg" alt="Contrôle de l&#39;alignement du bridage (suspendu via les points de tire haut) --&gt; alignement OK"/>
+    </div>
+    <a href="/img/2023-01-11/03-controle-alignement-bridage-OK.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Contrôle de l&#39;alignement du bridage (suspendu via les points de tire haut) --&gt; alignement OK</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-11/04-controle-alignement-bridage-KO.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-11/04-controle-alignement-bridage-KO.jpg" alt="Alignement KO, il y a un problème sur le bridage"/>
+    </div>
+    <a href="/img/2023-01-11/04-controle-alignement-bridage-KO.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Alignement KO, il y a un problème sur le bridage</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-11/05-controle-barre-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-11/05-controle-barre-verticale.jpg" alt="Alignement KO entre les barres et les renforts"/>
+    </div>
+    <a href="/img/2023-01-11/05-controle-barre-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Alignement KO entre les barres et les renforts</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-11/06-plis.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-11/06-plis.jpg" alt="Contrôle que la voile n&#39;a pas de plis"/>
+    </div>
+    <a href="/img/2023-01-11/06-plis.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Contrôle que la voile n&#39;a pas de plis</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="rendu-final">Rendu final</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-11/01-recto.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-11/01-recto.jpg" alt="Recto de la voile"/>
+    </div>
+    <a href="/img/2023-01-11/01-recto.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Recto de la voile</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-11/02-verso.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-11/02-verso.jpg" alt="Verso de la voile"/>
+    </div>
+    <a href="/img/2023-01-11/02-verso.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Verso de la voile</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<p>C&rsquo;est bon ce cerf-volant 4 lignes peut voler</p>
+<p>Let&rsquo;s Go Fly a Kite !</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: bridage</title>
+      <link>https://2wmj.github.io/2023/01/tuto-bridage/</link>
+      <pubDate>Tue, 10 Jan 2023 06:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-bridage/</guid>
+      <description>Fait de maintenir une partie, une voile, avec des fils</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="plan">Plan</h2>
+<p>Le cerf-volant 4 lignes <em>Essentials</em> prévoit deux types de bridage. Pour cette réalisation, c&rsquo;est la version &ldquo;<em>traditionnel</em>&rdquo; qui sera exposée.</p>
+<ul>
+<li>PDF: <a href="/img/2023-01-10/01-traditional-bridle.pdf">Traditional bridle plan</a>
+<ul>
+<li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials">watty.us</a></li>
+</ul>
+</li>
+<li>PDF: <a href="/img/2023-01-10/02-3wind-french-bridle.pdf">3-Wind french bridle plan</a>
+<ul>
+<li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials">watty.us</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="mise-en-œuvre">Mise en œuvre</h2>
+<p>Pour la jonction avec la bride horizontale, attention au sens haut/bas de la bride verticale car les mesures diffèrent.</p>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-10/03-bride-horizontale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-10/03-bride-horizontale.jpg" alt="Bride horizontale"/>
+    </div>
+    <a href="/img/2023-01-10/03-bride-horizontale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Bride horizontale</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-10/04-bride-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-10/04-bride-verticale.jpg" alt="Bride verticale à réaliser deux fois"/>
+    </div>
+    <a href="/img/2023-01-10/04-bride-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Bride verticale à réaliser deux fois</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-10/05-detail-bridage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-10/05-detail-bridage.jpg" alt="La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)"/>
+    </div>
+    <a href="/img/2023-01-10/05-detail-bridage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-10/06-detail-bridage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-10/06-detail-bridage.jpg" alt="Premier passage"/>
+    </div>
+    <a href="/img/2023-01-10/06-detail-bridage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Premier passage</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-10/07-detail-bridage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-10/07-detail-bridage.jpg" alt="Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)"/>
+    </div>
+    <a href="/img/2023-01-10/07-detail-bridage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-10/08-detail-bridage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-10/08-detail-bridage.jpg" alt="Seconde passage"/>
+    </div>
+    <a href="/img/2023-01-10/08-detail-bridage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Seconde passage</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-10/09-detail-bridage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-10/09-detail-bridage.jpg" alt="Serrage en tirant sur le point de tire (bride verticale)"/>
+    </div>
+    <a href="/img/2023-01-10/09-detail-bridage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Serrage en tirant sur le point de tire (bride verticale)</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: contrôles sur la voile</title>
+      <link>https://2wmj.github.io/2023/01/tuto-contr%C3%B4les-sur-la-voile/</link>
+      <pubDate>Mon, 09 Jan 2023 05:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-contr%C3%B4les-sur-la-voile/</guid>
+      <description>Quelques vérifications sur la qualité de fabrication</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="équilibrage">Équilibrage</h2>
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-09/01-horizontalite.jpg" alt="Voile suspendue par le centre: contrôle que la voile ne penche pas d&#39;un côté"/>
+    </div>
+    <a href="/img/2023-01-09/01-horizontalite.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Voile suspendue par le centre: contrôle que la voile ne penche pas d&#39;un côté</p>
+      </figcaption>
+  </figure>
+</div>
+
+<h2 id="piètre-photo-en-vrai-la-voile-est-plate">Piètre photo, en vrai la voile est plate</h2>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-09/02-plan.jpg" alt="Vérifications: dimensions et symétrie"/>
+    </div>
+    <a href="/img/2023-01-09/02-plan.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Vérifications: dimensions et symétrie</p>
+      </figcaption>
+  </figure>
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: point de tire bas</title>
+      <link>https://2wmj.github.io/2023/01/tuto-point-de-tire-bas/</link>
+      <pubDate>Sun, 08 Jan 2023 04:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-point-de-tire-bas/</guid>
+      <description>Bricolage sur les embouts inférieurs</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="focus-sur-les-embouts-situés-en-bas">Focus sur les embouts situés en bas</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/01-percage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/01-percage.jpg" alt="Perçage des embouts de barre"/>
+    </div>
+    <a href="/img/2023-01-08/01-percage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Perçage des embouts de barre</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/02-passage-gaine.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/02-passage-gaine.jpg" alt="Fil pour faire passer en force l&#39;élastique"/>
+    </div>
+    <a href="/img/2023-01-08/02-passage-gaine.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Fil pour faire passer en force l&#39;élastique</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/03-elastique-passe.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/03-elastique-passe.jpg" alt="L&#39;élastique est passé"/>
+    </div>
+    <a href="/img/2023-01-08/03-elastique-passe.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>L&#39;élastique est passé</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/04-renfort-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/04-renfort-bas.jpg" alt="Aparté: ajout d&#39;un renfort (2 couches dacron)"/>
+    </div>
+    <a href="/img/2023-01-08/04-renfort-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Aparté: ajout d&#39;un renfort (2 couches dacron)</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/05-bouchon-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/05-bouchon-bas.jpg" alt="Passage du 2ème élastique"/>
+    </div>
+    <a href="/img/2023-01-08/05-bouchon-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Passage du 2ème élastique</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/06-bouchon-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/06-bouchon-bas.jpg" alt="Les élastiques sont en place"/>
+    </div>
+    <a href="/img/2023-01-08/06-bouchon-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Les élastiques sont en place</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/07-bouchon-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/07-bouchon-bas.jpg" alt="Noeud de capucin avec le fil en dyneema/spectra"/>
+    </div>
+    <a href="/img/2023-01-08/07-bouchon-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Noeud de capucin avec le fil en dyneema/spectra</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/08-bouchon-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/08-bouchon-bas.jpg" alt="Finition sur quelques cm"/>
+    </div>
+    <a href="/img/2023-01-08/08-bouchon-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Finition sur quelques cm</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/09-bouchon-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/09-bouchon-bas.jpg" alt="On tire l&#39;élastique pour le rentrer"/>
+    </div>
+    <a href="/img/2023-01-08/09-bouchon-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>On tire l&#39;élastique pour le rentrer</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-08/10-bouchon-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-08/10-bouchon-bas.jpg" alt="Noeud invisible"/>
+    </div>
+    <a href="/img/2023-01-08/10-bouchon-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Noeud invisible</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: collage, trous et embouts</title>
+      <link>https://2wmj.github.io/2023/01/tuto-collage-trous-et-embouts/</link>
+      <pubDate>Sat, 07 Jan 2023 02:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-collage-trous-et-embouts/</guid>
+      <description>Assemblage de la barre centrale, trous dans le dacron et bride sur les embouts de barre</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="barre-centrale">Barre centrale</h2>
+<p>Élément à ajuster avant collage.</p>
+<p>Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités.</p>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/01-barre-centrale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/01-barre-centrale.jpg" alt="Détail des 5 barres du cerf-volant"/>
+    </div>
+    <a href="/img/2023-01-07/01-barre-centrale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Détail des 5 barres du cerf-volant</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/02-marquage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/02-marquage.jpg" alt="Marquage du milieu sur le raccord carbone plein"/>
+    </div>
+    <a href="/img/2023-01-07/02-marquage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Marquage du milieu sur le raccord carbone plein</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/03-collage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/03-collage.jpg" alt="Collage et immobilisation avec du scotch durant la polymérisation"/>
+    </div>
+    <a href="/img/2023-01-07/03-collage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Collage et immobilisation avec du scotch durant la polymérisation</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="trous-et-élastiques">Trous et élastiques</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/04-trous.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/04-trous.jpg" alt="Préparation pour trouer le dacron"/>
+    </div>
+    <a href="/img/2023-01-07/04-trous.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Préparation pour trouer le dacron</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/05-elastique.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/05-elastique.jpg" alt="Les nœuds et coutures sont côté verso"/>
+    </div>
+    <a href="/img/2023-01-07/05-elastique.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Les nœuds et coutures sont côté verso</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/06-trous.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/06-trous.jpg" alt="Trou au niveau de l&#39;attache de barre verticale"/>
+    </div>
+    <a href="/img/2023-01-07/06-trous.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Trou au niveau de l&#39;attache de barre verticale</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="bride-et-embouts-de-barre-verticale">Bride et embouts de barre verticale</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/07-fixation-barre-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/07-fixation-barre-verticale.jpg" alt="Mise en place de la bride"/>
+    </div>
+    <a href="/img/2023-01-07/07-fixation-barre-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Mise en place de la bride</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/08-fixation-barre-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/08-fixation-barre-verticale.jpg" alt="Passage dans la boucle"/>
+    </div>
+    <a href="/img/2023-01-07/08-fixation-barre-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Passage dans la boucle</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/09-fixation-barre-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/09-fixation-barre-verticale.jpg" alt="La boucle passe dans l&#39;embout"/>
+    </div>
+    <a href="/img/2023-01-07/09-fixation-barre-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>La boucle passe dans l&#39;embout</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/10-fixation-barre-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/10-fixation-barre-verticale.jpg" alt="On tire pour voir le nœud"/>
+    </div>
+    <a href="/img/2023-01-07/10-fixation-barre-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>On tire pour voir le nœud</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/11-fixation-barre-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/11-fixation-barre-verticale.jpg" alt="Nouveau nœud, on ajuste et on resserre"/>
+    </div>
+    <a href="/img/2023-01-07/11-fixation-barre-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Nouveau nœud, on ajuste et on resserre</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-07/12-renfort-central.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-07/12-renfort-central.jpg" alt="Trou au niveau du renfort central"/>
+    </div>
+    <a href="/img/2023-01-07/12-renfort-central.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Trou au niveau du renfort central</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: bord de fuite</title>
+      <link>https://2wmj.github.io/2023/01/tuto-bord-de-fuite/</link>
+      <pubDate>Fri, 06 Jan 2023 01:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-bord-de-fuite/</guid>
+      <description>Il est soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant 4 lignes, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="préparation-et-couture">Préparation et couture</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/01-bord-de-fuite.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/01-bord-de-fuite.jpg" alt="Bord de fuite"/>
+    </div>
+    <a href="/img/2023-01-06/01-bord-de-fuite.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Bord de fuite</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/02-double-face.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/02-double-face.jpg" alt="Double face en pointillé pour limiter un bourrage de fil et des dépôts de scotch sur l&#39;aiguille"/>
+    </div>
+    <a href="/img/2023-01-06/02-double-face.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Double face en pointillé pour limiter un bourrage de fil et des dépôts de scotch sur l&#39;aiguille</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/03-double-face.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/03-double-face.jpg" alt="Double face sur le recto"/>
+    </div>
+    <a href="/img/2023-01-06/03-double-face.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Double face sur le recto</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/04-avant-apres-collage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/04-avant-apres-collage.jpg" alt="Avant versus après pliage et collage"/>
+    </div>
+    <a href="/img/2023-01-06/04-avant-apres-collage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Avant versus après pliage et collage</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/05-pliage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/05-pliage.jpg" alt="Pliage du rebord de l&#39;extérieur vers l&#39;intérieur"/>
+    </div>
+    <a href="/img/2023-01-06/05-pliage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Pliage du rebord de l&#39;extérieur vers l&#39;intérieur</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/06-collage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/06-collage.jpg" alt="Collage du rebord vers l&#39;intérieur"/>
+    </div>
+    <a href="/img/2023-01-06/06-collage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Collage du rebord vers l&#39;intérieur</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/07-couture-bord-attaque.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/07-couture-bord-attaque.jpg" alt="Focus: couture du bord d&#39;attaque côté recto"/>
+    </div>
+    <a href="/img/2023-01-06/07-couture-bord-attaque.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Focus: couture du bord d&#39;attaque côté recto</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/08-couture-bord-attaque.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/08-couture-bord-attaque.jpg" alt="Focus: couture du bord d&#39;attaque côté verso"/>
+    </div>
+    <a href="/img/2023-01-06/08-couture-bord-attaque.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Focus: couture du bord d&#39;attaque côté verso</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="couture-du-renfort-de-coin">Couture du renfort de coin</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/09-pliage-coin.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/09-pliage-coin.jpg" alt="Marquage des plis sur le renfort de coin"/>
+    </div>
+    <a href="/img/2023-01-06/09-pliage-coin.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Marquage des plis sur le renfort de coin</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/10-pliage-coin.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/10-pliage-coin.jpg" alt="Renfort de coin semi-replié"/>
+    </div>
+    <a href="/img/2023-01-06/10-pliage-coin.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort de coin semi-replié</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/11-coin-replie.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/11-coin-replie.jpg" alt="Renfort de coin replié"/>
+    </div>
+    <a href="/img/2023-01-06/11-coin-replie.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort de coin replié</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/12-mise-en-place.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/12-mise-en-place.jpg" alt="Mise en place du coin"/>
+    </div>
+    <a href="/img/2023-01-06/12-mise-en-place.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Mise en place du coin</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/13-couture-coin.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/13-couture-coin.jpg" alt="Couture du coin"/>
+    </div>
+    <a href="/img/2023-01-06/13-couture-coin.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Couture du coin</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="autre-couture">Autre couture</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-06/14-finition.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-06/14-finition.jpg" alt="Finition: couture oubliée sur le renfort haut de barre verticale"/>
+    </div>
+    <a href="/img/2023-01-06/14-finition.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Finition: couture oubliée sur le renfort haut de barre verticale</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: renforts</title>
+      <link>https://2wmj.github.io/2023/01/tuto-renforts/</link>
+      <pubDate>Thu, 05 Jan 2023 00:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-renforts/</guid>
+      <description>Assemblage de pièces en dacron pour protéger la voile</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="les-deux-faces-de-la-voile">Les deux faces de la voile</h2>
+<p>Notion à prendre en compte pour le sens des pièces à coudre:</p>
+<ul>
+<li>
+<p>Recto = <strong>au vent</strong></p>
+<p><em>Au vent</em> signifie que la face de la voile du cerf-volant est du côté d&rsquo;où souffle le vent</p>
+</li>
+<li>
+<p>Verso = <strong>sous le vent</strong></p>
+<p>A l&rsquo;inverse <em>Sous le vent</em>, veut dire que la face de la voile est du côté opposé d&rsquo;où le vent souffle</p>
+</li>
+</ul>
+<h2 id="détail-des-renforts">Détail des renforts</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/01-renfort-central.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/01-renfort-central.jpg" alt="Renfort central en forme de T"/>
+    </div>
+    <a href="/img/2023-01-05/01-renfort-central.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort central en forme de T</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/02-renfort-pliure-barre.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/02-renfort-pliure-barre.jpg" alt="Renfort à l&#39;emplacement où se plie le cerf-volant après rangement"/>
+    </div>
+    <a href="/img/2023-01-05/02-renfort-pliure-barre.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort à l&#39;emplacement où se plie le cerf-volant après rangement</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/03-renfort-recto.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/03-renfort-recto.jpg" alt="Renfort côté recto, au niveau de la pliure de barre"/>
+    </div>
+    <a href="/img/2023-01-05/03-renfort-recto.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort côté recto, au niveau de la pliure de barre</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/04-renfort-verso.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/04-renfort-verso.jpg" alt="Renfort côté verso, au niveau de la pliure de barre"/>
+    </div>
+    <a href="/img/2023-01-05/04-renfort-verso.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort côté verso, au niveau de la pliure de barre</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/05-renfort-bas.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/05-renfort-bas.jpg" alt="Renfort du bas côté verso"/>
+    </div>
+    <a href="/img/2023-01-05/05-renfort-bas.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort du bas côté verso</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/06-renfort-barre-verticale.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/06-renfort-barre-verticale.jpg" alt="Renfort de barre verticale (haut de la voile)"/>
+    </div>
+    <a href="/img/2023-01-05/06-renfort-barre-verticale.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort de barre verticale (haut de la voile)</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/07-renfort-barres-recto.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/07-renfort-barres-recto.jpg" alt="Renfort de barre verticale (haut de la voile)"/>
+    </div>
+    <a href="/img/2023-01-05/07-renfort-barres-recto.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort de barre verticale (haut de la voile)</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/08-renfort-barres-verso.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/08-renfort-barres-verso.jpg" alt="Renfort de barre verticale"/>
+    </div>
+    <a href="/img/2023-01-05/08-renfort-barres-verso.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort de barre verticale</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/09-renfort-jonction.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/09-renfort-jonction.jpg" alt="Renfort jonction centrale"/>
+    </div>
+    <a href="/img/2023-01-05/09-renfort-jonction.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort jonction centrale</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-05/10-renfort-jonction.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-05/10-renfort-jonction.jpg" alt="Renfort jonction centrale"/>
+    </div>
+    <a href="/img/2023-01-05/10-renfort-jonction.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Renfort jonction centrale</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: bord d&#39;attaque</title>
+      <link>https://2wmj.github.io/2023/01/tuto-bord-dattaque/</link>
+      <pubDate>Wed, 04 Jan 2023 09:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-bord-dattaque/</guid>
+      <description>Partie avant d&amp;#39;un profil aérodynamique. Sur une voile de cerf-volant, il fait face au vent</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="préparation">Préparation</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-04/01-bord-attaque.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-04/01-bord-attaque.jpg" alt="Bord d&#39;attaque"/>
+    </div>
+    <a href="/img/2023-01-04/01-bord-attaque.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Bord d&#39;attaque</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-04/02-dacron.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-04/02-dacron.jpg" alt="Marquage de la pliure en écrasant le dacron"/>
+    </div>
+    <a href="/img/2023-01-04/02-dacron.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Marquage de la pliure en écrasant le dacron</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-04/03-pliage-coin.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-04/03-pliage-coin.jpg" alt="Pliage du coin"/>
+    </div>
+    <a href="/img/2023-01-04/03-pliage-coin.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Pliage du coin</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-04/04-ajustement-coin.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-04/04-ajustement-coin.jpg" alt="Ajustement sur le plan"/>
+    </div>
+    <a href="/img/2023-01-04/04-ajustement-coin.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Ajustement sur le plan</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="assemblage">Assemblage</h2>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-04/05-bord-dattaque.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-04/05-bord-dattaque.jpg" alt="Couture zigzag du bord d&#39;attaque"/>
+    </div>
+    <a href="/img/2023-01-04/05-bord-dattaque.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Couture zigzag du bord d&#39;attaque</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-04/06-resultat.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-04/06-resultat.jpg" alt="Résultat final"/>
+    </div>
+    <a href="/img/2023-01-04/06-resultat.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Résultat final</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: voile et moustiquaire</title>
+      <link>https://2wmj.github.io/2023/01/tuto-voile-et-moustiquaire/</link>
+      <pubDate>Tue, 03 Jan 2023 09:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-voile-et-moustiquaire/</guid>
+      <description>Une image vaut mieux qu&amp;#39;un long discours</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="découpage-de-la-voile">Découpage de la voile</h2>
+<p>Premières découpes suivies du premier collage (bien droit et sans plis)</p>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/01-traits.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/01-traits.jpg" alt="Traçage des traits à partir du plan"/>
+    </div>
+    <a href="/img/2023-01-03/01-traits.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Traçage des traits à partir du plan</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/02-decoupe-voile.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/02-decoupe-voile.jpg" alt="Découpe de la voile"/>
+    </div>
+    <a href="/img/2023-01-03/02-decoupe-voile.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Découpe de la voile</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/03-scotch-double-face.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/03-scotch-double-face.jpg" alt="Scotch double face"/>
+    </div>
+    <a href="/img/2023-01-03/03-scotch-double-face.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Scotch double face</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/04-collage.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/04-collage.jpg" alt="Collage de la moustiquaire"/>
+    </div>
+    <a href="/img/2023-01-03/04-collage.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Collage de la moustiquaire</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="première-couture">Première couture</h2>
+<p>On accompagne doucement le tissu avec la machine</p>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/05-couture-point-droit.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/05-couture-point-droit.jpg" alt="Couture point droit"/>
+    </div>
+    <a href="/img/2023-01-03/05-couture-point-droit.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Couture point droit</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/06-couture-point-droit.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/06-couture-point-droit.jpg" alt="Résultat de la première couture"/>
+    </div>
+    <a href="/img/2023-01-03/06-couture-point-droit.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Résultat de la première couture</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/07-zigzag.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/07-zigzag.jpg" alt="ZigZag sur le tissu retourné"/>
+    </div>
+    <a href="/img/2023-01-03/07-zigzag.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>ZigZag sur le tissu retourné</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+<h2 id="ajustement-et-découpe-de-la-moustiquaire">Ajustement et découpe de la moustiquaire</h2>
+<p>Vérification de l&rsquo;alignement sur le plan</p>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/08-scotch.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/08-scotch.jpg" alt="2 cm de scotch pour la moustiquaire"/>
+    </div>
+    <a href="/img/2023-01-03/08-scotch.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>2 cm de scotch pour la moustiquaire</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/2023-01-03/09-decoupe-moustiquaire.jpg');">
+      <img itemprop="thumbnail" src="/img/2023-01-03/09-decoupe-moustiquaire.jpg" alt="Préparation découpe de l&#39;excédent de moustiquaire"/>
+    </div>
+    <a href="/img/2023-01-03/09-decoupe-moustiquaire.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Préparation découpe de l&#39;excédent de moustiquaire</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+</div>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: outils et fournitures</title>
+      <link>https://2wmj.github.io/2023/01/tuto-outils-et-fournitures/</link>
+      <pubDate>Mon, 02 Jan 2023 11:12:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-outils-et-fournitures/</guid>
+      <description>Quelques outils et matières premières pour cette réalisation</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<h2 id="liste-des-outils">Liste des outils</h2>
+<ul>
+<li>
+<p>Machine à coudre</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Point droit</td>
+<td><img loading="lazy" src="/img/2023-01-02/01-droit.png" alt="Illustration: point droit"  />
+</td>
+</tr>
+<tr>
+<td>3 points zigzag</td>
+<td><img loading="lazy" src="/img/2023-01-02/02-zigzag.png" alt="Illustration: 3 points zigzag"  />
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p>1 règle plate 1 m</p>
+</li>
+<li>
+<p>2 paire de ciseaux</p>
+<ul>
+<li>une grande (longues découpes)</li>
+<li>une petite de broderie (finitions)</li>
+</ul>
+</li>
+<li>
+<p>1 pince à linge</p>
+</li>
+<li>
+<p>1 crayon à papier</p>
+</li>
+<li>
+<p>1 feutre</p>
+</li>
+<li>
+<p>Scotch de peintre</p>
+</li>
+<li>
+<p>Fil dyneema ou spectra fin (≈ 40 lbs, 3 m)</p>
+</li>
+<li>
+<p>1 petit forêt métal</p>
+</li>
+<li>
+<p>1 fer à souder (500W min) avec panne en pointe</p>
+<p>Ou un <del>honteux bidouillage</del> bricolage: aguille, mèche coton, pot en verre et pétrole désaromatisé
+<img loading="lazy" src="/img/2023-01-02/03-bricolage.jpg" alt="Bricolage lampe à pétrole"  />
+</p>
+</li>
+<li>
+<p>1 surface plane</p>
+</li>
+<li>
+<p>Obligatoire: du temps et beaucoup de patience</p>
+</li>
+</ul>
+<p>Si besoin de recouper une barre en carbone:</p>
+<ul>
+<li>Une scie à métaux (lame carbone ou sinon métaux)</li>
+</ul>
+<h2 id="les-fournitures">Les fournitures</h2>
+<p>
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-02/04-colis.jpg" alt="Long colis"/>
+    </div>
+    <a href="/img/2023-01-02/04-colis.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Long colis</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-02/05-fournitures.jpg" alt="Intérieur du colis: détail des fournitures"/>
+    </div>
+    <a href="/img/2023-01-02/05-fournitures.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Intérieur du colis: détail des fournitures</p>
+      </figcaption>
+  </figure>
+</div>
+</p>
+<h2 id="liste-des-pièces">Liste des pièces:</h2>
+<ul>
+<li>3 m x 1,50 m d&rsquo;Icarex PC31</li>
+<li>4 m de dacron noir, 5 cm de large</li>
+<li>3 m de gaze noire, 10 cm de large</li>
+<li>5 barres carbone (P200 SkyShark ou équivalent)</li>
+<li>2 raccords carbone plein 6,1 mm (spécial SkyShark en accord avec les barres)</li>
+<li>6 embouts 8mm</li>
+<li>1,5 m d&rsquo;élastique noir, diamètre 3 mm</li>
+<li>7 m de bridage gainé dyneema 90 kg</li>
+<li>1 bobine de fil à coudre (synthétique, fil 80)</li>
+<li>Facultatif: Bande de dacron ou de mylar &ndash;&gt; renfort au niveau des barres verticales</li>
+<li>Facultatif: Rondelles de maintien d&rsquo;élastique (pas trouvé) &ndash;&gt; <a href="https://watty.us/3d-printing/2022/3/13/bungee-washers">Bungee Washer</a></li>
+</ul>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-02/06-fournitures-legende.jpg" alt="Légende détaillée des fournitures"/>
+    </div>
+    <a href="/img/2023-01-02/06-fournitures-legende.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Légende détaillée des fournitures</p>
+      </figcaption>
+  </figure>
+</div>
+
+<h2 id="absents-des-photos">Absents des photos:</h2>
+<ul>
+<li>
+<p>Époxy bi-composant (pour coller les 2 raccords de carbone)</p>
+</li>
+<li>
+<p>Scotch double-face 6 mm</p>
+</li>
+<li>
+<p>Lacet plat 4 mm &ndash;&gt; pas de renfort kevlar sensible aux UV.</p>
+<p>Ex: recyclage d&rsquo;un cordon <em><strong>plat</strong></em> de maillot de bain</p>
+</li>
+<li>
+<p>1 sangle noire (≈ 1 cm de largeur x 4 cm de longueur)</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tuto: introduction et plan</title>
+      <link>https://2wmj.github.io/2023/01/tuto-introduction-et-plan/</link>
+      <pubDate>Sun, 01 Jan 2023 13:13:07 +0000</pubDate>
+      
+      <guid>https://2wmj.github.io/2023/01/tuto-introduction-et-plan/</guid>
+      <description>Modeste assemblage de pages, de textes et d&amp;#39;images. Travail d&amp;#39;amateur sans prétentions aucune</description>
+      <content:encoded><![CDATA[
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=https://2wmj.github.io/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<p>Construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type révolution. Ce modèle est de type <em>pilotable</em> à 4 lignes (quad lines kite).</p>
+<h2 id="2-lignes-versus-4-lignes">2 lignes versus 4 lignes</h2>
+<p>Contrairement à un classique cerf-volant 2 lignes <em>Delta</em>, le 4 lignes <em>Révolution</em> offre plus latitude de manœuvres aériennes: vol stationnaire, marche arrière, etc.</p>
+<p>
+<link rel="stylesheet" href=https://2wmj.github.io/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/01-pilotage.png" alt="2 lignes versus 4 lignes"/>
+    </div>
+    <a href="/img/2023-01-01/01-pilotage.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>2 lignes versus 4 lignes</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/02-poignees.png" alt="Nombre de points d&#39;attache sur les poignées"/>
+    </div>
+    <a href="/img/2023-01-01/02-poignees.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Nombre de points d&#39;attache sur les poignées</p>
+      </figcaption>
+  </figure>
+</div>
+</p>
+<h2 id="plan">Plan</h2>
+<p>Confection basée sur le plan <em>Essentials</em> de Spencer Watson:</p>
+<ul>
+<li>PDF: <a href="/img/2023-01-01/03-essentials.pdf">Essentials S</a></li>
+<li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials">watty.us</a></li>
+</ul>
+<h2 id="ajustement">Ajustement</h2>
+<p>Réalisation <em>simplifiée</em> sur un morceau d&rsquo;Icarex de 3 m x 1,50m</p>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/04-plan.png" alt="3 m = 2 voiles"/>
+    </div>
+    <a href="/img/2023-01-01/04-plan.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>3 m = 2 voiles</p>
+      </figcaption>
+  </figure>
+</div>
+
+<p>2 voiles d&rsquo;un seul tenant sur un morceau de tissu:</p>
+<ul>
+<li>Réalisation plus facile</li>
+<li>Moins de découpes &ndash;&gt; moins de coutures</li>
+<li>Voile homogène &ndash;&gt; pas de renfort au milieu (comme sur les cerfs-volants du commerce)</li>
+<li>2ème essai si la première voile est ratée</li>
+</ul>
+<h2 id="plan-de-découpe">Plan de découpe</h2>
+<p>Pas de découpe de panneaux pour cette réalisation.
+Les téméraires des motifs et panneaux peuvent se lancer:</p>
+<ul>
+<li>PDF: <a href="/img/2023-01-01/05-panels.pdf">Panel Templates</a></li>
+<li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials">watty.us</a></li>
+</ul>
+<p><em>Superposition des panneaux</em> &ndash;&gt; le rendu diffère si une couleur claire est sous une couleur sombre et inversement.</p>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/06-trame.png" alt="Orientation des panneaux"/>
+    </div>
+    <a href="/img/2023-01-01/06-trame.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Orientation des panneaux</p>
+      </figcaption>
+  </figure>
+</div>
+
+<h2 id="impression-du-plan-à-léchelle-11">Impression du plan à l&rsquo;échelle 1:1</h2>
+<p>Le plan est imprimable en format paysage sur 9 pages A3.</p>
+<p>
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/07-impression.png" alt="Taille 100%"/>
+    </div>
+    <a href="/img/2023-01-01/07-impression.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Taille 100%</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/08-impression.png" alt="Format A3 en paysage"/>
+    </div>
+    <a href="/img/2023-01-01/08-impression.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Format A3 en paysage</p>
+      </figcaption>
+  </figure>
+</div>
+</p>
+<h2 id="plan-complet-18-pages-a3">Plan complet: 18 pages A3</h2>
+<p>En appliquant un miroir horizontal sur le pdf, il est possible d&rsquo;avoir, le plan à l&rsquo;échelle 1:1 de la voile &ndash;&gt; <a href="https://www.google.com/search?q=flip+horizontally+pdf+online">flip horizontally pdf online</a></p>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/09-gauche-droite.png" alt="Assemblage"/>
+    </div>
+    <a href="/img/2023-01-01/09-gauche-droite.png" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>Assemblage</p>
+      </figcaption>
+  </figure>
+</div>
+
+<h2 id="contrôle-de-léchelle">Contrôle de l&rsquo;échelle</h2>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/2023-01-01/10-echelle.jpg" alt="10 inches = 25,4 cm"/>
+    </div>
+    <a href="/img/2023-01-01/10-echelle.jpg" itemprop="contentUrl"></a>
+      <figcaption>
+          <p>10 inches = 25,4 cm</p>
+      </figcaption>
+  </figure>
+</div>
+
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
