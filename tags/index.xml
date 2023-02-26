@@ -8,13 +8,21 @@
     <language>fr-fr</language>
     <lastBuildDate>Wed, 22 Feb 2023 20:05:20 +0100</lastBuildDate><atom:link href="https://2wmj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>airbow</title>
+      <link>https://2wmj.github.io/tags/airbow/</link>
+      <pubDate>Wed, 22 Feb 2023 20:05:20 +0100</pubDate>
+      
+      <guid>https://2wmj.github.io/tags/airbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plan V3</title>
       <link>https://2wmj.github.io/tags/plan-v3/</link>
       <pubDate>Wed, 22 Feb 2023 20:05:20 +0100</pubDate>
       
       <guid>https://2wmj.github.io/tags/plan-v3/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -24,17 +32,15 @@
       
       <guid>https://2wmj.github.io/tags/voile-tendue/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
-      <title>connecteur T</title>
-      <link>https://2wmj.github.io/tags/connecteur-t/</link>
+      <title>connecteur en T</title>
+      <link>https://2wmj.github.io/tags/connecteur-en-t/</link>
       <pubDate>Wed, 01 Feb 2023 20:05:20 +0100</pubDate>
       
-      <guid>https://2wmj.github.io/tags/connecteur-t/</guid>
+      <guid>https://2wmj.github.io/tags/connecteur-en-t/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -44,7 +50,6 @@
       
       <guid>https://2wmj.github.io/tags/plan-v2/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -54,7 +59,6 @@
       
       <guid>https://2wmj.github.io/tags/technique/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -64,7 +68,6 @@
       
       <guid>https://2wmj.github.io/tags/plan-v1/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -74,7 +77,6 @@
       
       <guid>https://2wmj.github.io/tags/tuto/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
   </channel>
