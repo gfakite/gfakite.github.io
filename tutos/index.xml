@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutos on Go fly a kite</title>
+    <link>https://gfakite.github.io/tutos/</link>
+    <description>Recent content in Tutos on Go fly a kite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 03 Mar 2023 12:56:00 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/tutos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content</title>
+      <link>https://gfakite.github.io/tutos/2023/03/content/</link>
+      <pubDate>Wed, 01 Mar 2023 18:22:58 +0000</pubDate>
+      
+      <guid>https://gfakite.github.io/tutos/2023/03/content/</guid>
+      <description>Lorem ipsum test</description>
+    </item>
+    
+  </channel>
+</rss>

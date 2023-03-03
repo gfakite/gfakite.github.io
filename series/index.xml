@@ -1,35 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Series on 2wmj</title>
-    <link>https://2wmj.github.io/series/</link>
-    <description>Recent content in Series on 2wmj</description>
+    <title>Series on Go fly a kite</title>
+    <link>https://gfakite.github.io/series/</link>
+    <description>Recent content in Series on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Feb 2023 20:05:20 +0100</lastBuildDate><atom:link href="https://2wmj.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Mar 2023 18:22:58 +0000</lastBuildDate><atom:link href="https://gfakite.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://gfakite.github.io/series/test/</link>
+      <pubDate>Wed, 01 Mar 2023 18:22:58 +0000</pubDate>
+      
+      <guid>https://gfakite.github.io/series/test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Construction #3</title>
-      <link>https://2wmj.github.io/series/construction-#3/</link>
-      <pubDate>Wed, 22 Feb 2023 20:05:20 +0100</pubDate>
+      <link>https://gfakite.github.io/series/construction-#3/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:01 +0100</pubDate>
       
-      <guid>https://2wmj.github.io/series/construction-#3/</guid>
+      <guid>https://gfakite.github.io/series/construction-#3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Construction #2</title>
-      <link>https://2wmj.github.io/series/construction-#2/</link>
-      <pubDate>Wed, 01 Feb 2023 20:05:20 +0100</pubDate>
+      <link>https://gfakite.github.io/series/construction-#2/</link>
+      <pubDate>Wed, 01 Feb 2023 00:01:01 +0100</pubDate>
       
-      <guid>https://2wmj.github.io/series/construction-#2/</guid>
+      <guid>https://gfakite.github.io/series/construction-#2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction</title>
+      <link>https://gfakite.github.io/series/construction/</link>
+      <pubDate>Thu, 12 Jan 2023 05:13:07 +0000</pubDate>
+      
+      <guid>https://gfakite.github.io/series/construction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Construction #1</title>
-      <link>https://2wmj.github.io/series/construction-#1/</link>
+      <link>https://gfakite.github.io/series/construction-#1/</link>
       <pubDate>Wed, 11 Jan 2023 05:13:07 +0000</pubDate>
       
-      <guid>https://2wmj.github.io/series/construction-#1/</guid>
+      <guid>https://gfakite.github.io/series/construction-#1/</guid>
       <description></description>
     </item>
     

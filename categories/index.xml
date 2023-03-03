@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on 2wmj</title>
-    <link>https://2wmj.github.io/categories/</link>
-    <description>Recent content in Categories on 2wmj</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://2wmj.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on Go fly a kite</title>
+    <link>https://gfakite.github.io/categories/</link>
+    <description>Recent content in Categories on Go fly a kite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Mar 2023 18:22:58 +0000</lastBuildDate><atom:link href="https://gfakite.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://gfakite.github.io/categories/test/</link>
+      <pubDate>Wed, 01 Mar 2023 18:22:58 +0000</pubDate>
+      
+      <guid>https://gfakite.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>construction</title>
+      <link>https://gfakite.github.io/categories/construction/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:01 +0100</pubDate>
+      
+      <guid>https://gfakite.github.io/categories/construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tuto</title>
+      <link>https://gfakite.github.io/categories/tuto/</link>
+      <pubDate>Wed, 11 Jan 2023 05:13:07 +0000</pubDate>
+      
+      <guid>https://gfakite.github.io/categories/tuto/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
