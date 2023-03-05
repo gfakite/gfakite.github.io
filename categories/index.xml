@@ -6,16 +6,7 @@
     <description>Recent content in Categories on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 01 Mar 2023 18:22:58 +0000</lastBuildDate><atom:link href="https://gfakite.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>https://gfakite.github.io/categories/test/</link>
-      <pubDate>Wed, 01 Mar 2023 18:22:58 +0000</pubDate>
-      
-      <guid>https://gfakite.github.io/categories/test/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:01 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>construction</title>
       <link>https://gfakite.github.io/categories/construction/</link>
@@ -23,6 +14,7 @@
       
       <guid>https://gfakite.github.io/categories/construction/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -32,6 +24,7 @@
       
       <guid>https://gfakite.github.io/categories/tuto/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
   </channel>
