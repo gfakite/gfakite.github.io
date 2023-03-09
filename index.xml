@@ -212,7 +212,7 @@ Exemple: bourrage de fil</p>
     </item>
     
     <item>
-      <title>Assemblage final 🔭</title>
+      <title>Assemblage final 🏁</title>
       <link>https://gfakite.github.io/2023/01/assemblage-final/</link>
       <pubDate>Wed, 11 Jan 2023 05:13:07 +0000</pubDate>
       
@@ -456,7 +456,7 @@ Exemple: bourrage de fil</p>
     </item>
     
     <item>
-      <title>Renforts</title>
+      <title>Renforts 🪡</title>
       <link>https://gfakite.github.io/2023/01/renforts/</link>
       <pubDate>Thu, 05 Jan 2023 00:13:07 +0000</pubDate>
       
@@ -509,7 +509,7 @@ Exemple: bourrage de fil</p>
     </item>
     
     <item>
-      <title>Bord d&#39;attaque</title>
+      <title>Bord d&#39;attaque 🧶</title>
       <link>https://gfakite.github.io/2023/01/bord-dattaque/</link>
       <pubDate>Wed, 04 Jan 2023 09:13:07 +0000</pubDate>
       
@@ -539,12 +539,12 @@ Exemple: bourrage de fil</p>
     </item>
     
     <item>
-      <title>Voile et moustiquaire</title>
+      <title>Voile et moustiquaire 🪚</title>
       <link>https://gfakite.github.io/2023/01/voile-et-moustiquaire/</link>
       <pubDate>Tue, 03 Jan 2023 09:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/2023/01/voile-et-moustiquaire/</guid>
-      <description>U&amp;#34;ne image vaut mieux qu&amp;#39;un long discours&amp;#34;</description>
+      <description>Une image vaut mieux qu&amp;#39;un long discours</description>
       <content:encoded><![CDATA[<h2 id="découpage-de-la-voile">Découpage de la voile</h2>
 <p>Premières découpes suivies du premier collage (bien droit et sans plis)</p>
 <p><img loading="lazy" src="/img/2023-01-03/01-traits.jpg" alt="Traçage des traits à partir du plan"  />
@@ -582,7 +582,7 @@ Exemple: bourrage de fil</p>
     </item>
     
     <item>
-      <title>Outils et fournitures</title>
+      <title>Outils et fournitures 🧵</title>
       <link>https://gfakite.github.io/2023/01/outils-et-fournitures/</link>
       <pubDate>Mon, 02 Jan 2023 19:24:52 +0000</pubDate>
       
@@ -602,12 +602,12 @@ Exemple: bourrage de fil</p>
 <tbody>
 <tr>
 <td>Point droit</td>
-<td><img loading="lazy" src="2023-01-02/01-droit.png" alt="Illustration: point droit"  />
+<td><img loading="lazy" src="/img/2023-01-02/01-droit.png" alt="Illustration: point droit"  />
 </td>
 </tr>
 <tr>
 <td>3 points zigzag</td>
-<td><img loading="lazy" src="2023-01-02/02-zigzag.png" alt="Illustration: 3 points zigzag"  />
+<td><img loading="lazy" src="/img/2023-01-02/02-zigzag.png" alt="Illustration: 3 points zigzag"  />
 </td>
 </tr>
 </tbody>
@@ -771,10 +771,18 @@ Les téméraires des motifs et panneaux peuvent se lancer:</p>
       <pubDate>Sat, 31 Dec 2022 14:47:29 +0100</pubDate>
       
       <guid>https://gfakite.github.io/about/</guid>
-      <description>Rien d&amp;rsquo;extravaguant
-Une poussière déréférencée perdue dans l&amp;rsquo;InterWebSpace</description>
-      <content:encoded><![CDATA[<p>Rien d&rsquo;extravaguant</p>
-<p>Une poussière déréférencée perdue dans l&rsquo;InterWebSpace</p>
+      <description>Rien d&amp;rsquo;extravaguant. Juste quelques contenus sur les cerf-volant 4 lignes pour comprendre:
+Comment en fabriquer un Partager des focus de construction Un site inconnu. Des contenus déréférencés. Une poussière perdue dans l&amp;rsquo;InterWebSpace.
+Sans prétention aucune
+Kite Doe</description>
+      <content:encoded><![CDATA[<p>Rien d&rsquo;extravaguant. Juste quelques contenus sur les cerf-volant 4 lignes pour comprendre:</p>
+<ul>
+<li>Comment en fabriquer un</li>
+<li>Partager des focus de construction</li>
+</ul>
+<p>Un site inconnu. Des contenus déréférencés. Une poussière perdue dans l&rsquo;InterWebSpace.</p>
+<p>Sans prétention aucune</p>
+<p>Kite Doe</p>
 ]]></content:encoded>
     </item>
     
