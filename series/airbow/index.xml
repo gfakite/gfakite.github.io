@@ -6,41 +6,43 @@
     <description>Recent content in AirBow on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 01 Mar 2023 00:00:01 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/series/airbow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:01 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/series/airbow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AirBow: projet N°3 🪁</title>
       <link>https://gfakite.github.io/posts/2023/03/airbow-projet-n3/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:01 +0100</pubDate>
+      <pubDate>Wed, 15 Mar 2023 00:00:01 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/03/airbow-projet-n3/</guid>
       <description>Cerf-volant à voile tendue --&amp;gt; AirBow</description>
-      <content:encoded><![CDATA[<p>Cerf-volant 4 lignes avec des panneaux de voile tendue inspiré du modèle Airbow <em>Benson</em>. Le tissu a une forme convexe face au vent. Ses volumes et sa forme lui confèrent un comportement de vol unique. Un AirBow peut faire des figures empruntées aux 2 lignes delta.</p>
-<p><img loading="lazy" src="/img/2023-03-01/01_miaribow.jpg#center" alt="AirBow: crédit photo: Jordi Morella"  />
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-15/01_miaribow.jpg#center" alt="AirBow (crédit photo: Jordi Morella"  />
 
-&ndash;&gt; AirBow en action (crédit: Jordi Morella).</p>
-<p><img loading="lazy" src="/img/2023-03-01/02_mi_airbow.gif#center" alt="Plan de la voile"  />
-
-Quelques mesures pour réaliser cette construction (crédit: Jordi Morella)</p>
+&ndash;&gt; AirBow (crédit photo: Jordi Morella)</p>
+<p>Cerf-volant 4 lignes avec des panneaux de voile tendue inspiré du modèle Airbow <em>Benson</em>. Le tissu a une forme convexe face au vent. Ses volumes et sa forme lui confèrent un comportement de vol unique. Un AirBow peut faire des figures empruntées aux 2 lignes delta.</p>
+<h2 id="mesures-pour-réaliser-cette-construction">Mesures pour réaliser cette construction</h2>
 <p>Pas de plan détaillé, juste des indications pour construire une voile en volume. Les ajustements et la construction sont délicats. Les 3 volumes verticaux sont la difficulté d&rsquo;une réalisation de cerf-volant de type <em>AirBow</em>.</p>
-<p><img loading="lazy" src="/img/2023-03-01/03_panneaux.gif#center" alt="Plan des panneaux"  />
+<p><img loading="lazy" src="/posts/2023-03-15/02_mi_airbow.gif#center" alt="Plan de la voile"  />
 
-Succinctes mesures des panneaux pour les découpes (crédit: Jordi Morella)</p>
-<p>4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, assemblage et découpe délicats.</p>
-<p><img loading="lazy" src="/img/2023-03-01/04_calcul-sphere.png#center" alt="Plan des panneaux"  />
+&ndash;&gt; Plan de la voile</p>
+<h2 id="panneaux">Panneaux</h2>
+<p>Succinctes mesures des panneaux pour les découpes. Il y a 4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, assemblage et découpe délicats</p>
+<p><img loading="lazy" src="/posts/2023-03-15/03_panneaux.gif#center" alt="Plan des panneaux"  />
 
-Application de la formule de sphère sur les mesures:</p>
+&ndash;&gt; Plan des panneaux</p>
+<h2 id="calcul-du-rayon">Calcul du rayon</h2>
+<p>Application de la formule de sphère sur les mesures:</p>
 <ul>
-<li>Grande section de 81,5 cm &ndash;&gt; rayon de 209,57 cm</li>
 <li>Petite section de 35 cm &ndash;&gt; rayon de 40,28 cm</li>
+<li>Grande section de 81,5 cm &ndash;&gt; rayon de 209,57 cm</li>
 </ul>
-<p><img loading="lazy" src="/img/2023-03-01/05_sphere.jpg#center" alt="Une ficelle et un pastel pour tracer les cercles"  />
+<p>Outils rudimentaires mais efficaces pour tracer les arcs de cercle (respectivement 40 cm et 2 m).</p>
+<p><img loading="lazy" src="/posts/2023-03-15/05_sphere.jpg#center" alt="Une ficelle et un pastel"  />
 
-&ndash;&gt; Une ficelle et un pastel pour tracer en courbe</p>
-<p>Outil rudimentaire mais efficace pour tracer les arcs de cercle (respectivement 40 cm et 2 m).</p>
-<p><img loading="lazy" src="/img/2023-03-01/06_voile-chiffon.jpg#center" alt="Voile chiffon (lire sans barres)"  />
-
-&ndash;&gt; Voile chiffon (lire sans barres)</p>
+&ndash;&gt; Une ficelle et un pastel</p>
+<h2 id="voile-chiffon">Voile chiffon</h2>
 <p>En l&rsquo;état, le style est timide. La suite avec un bridage, 10 barres et du vent.</p>
+<p><img loading="lazy" src="/posts/2023-03-15/06_voile-chiffon.jpg#center" alt="Voile sans barres"  />
+
+&ndash;&gt; Voile sans barres</p>
 ]]></content:encoded>
     </item>
     

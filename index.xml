@@ -10,18 +10,18 @@
     <item>
       <title>Subversion: tube carbone</title>
       <link>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</link>
-      <pubDate>Fri, 10 Mar 2023 12:28:28 +0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 00:00:01 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
       <description>Les tubes en carbone apportent rigididé et légèreté aux cerf-volants équipés</description>
       <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p><em>Sky shark, Exel composites, R-Tubes, Aero Stuff, No name, &hellip;</em> Les marques ne manquent pas pour installer des barres en carbone sur son cerf-volant. En associant les références aux marques, il y a beaucoup (<del>trop?</del>) de choix.</p>
-<p>Peu le savent et encore moins osent le dire ou l&rsquo;écrire, il est possible de substituer les barres de cerf-volant par des tubes de flèche en carbone. En vérifiant les diamètres (interne et externe) et la longueur, un <em>cerf-voliste</em> peut trouver son bohneur dans une archerie.</p>
+<p>Peu le savent et encore moins osent le dire ou l&rsquo;écrire, il est possible de substituer les barres classiques de cerf-volant par des tubes de flèche en carbone. En vérifiant les diamètres (interne et externe), la longueur et la mesure de rigidité (spine), un <em>cerf-voliste</em> peut trouver son bohneur dans une archerie.</p>
 <h2 id="avantages--inconvénients">Avantages / inconvénients</h2>
-<p>Les avantages à utiliser des tubes de flèche sont nombreux:</p>
+<p>Les avantages à utiliser des tubes de flèche sont:</p>
 <ul>
 <li>Le prix (5-6 € le tube et encore moins par 12)</li>
-<li>Le choix des tubes (longueur, rigidité, poids en fonction de la rigidité, etc.)</li>
+<li>Le choix des tubes (longueur, poids en fonction de la rigidité, etc.)</li>
 <li>La qualité des tubes (finition au top et tubes rectilignes)</li>
 <li>Le nombre d&rsquo;archerie en France (pour voir et palper en vrai les tubes)</li>
 <li>Les conseils en archerie (les vendeurs s&rsquo;y connaissent en carbone<strong>S</strong>)</li>
@@ -30,19 +30,19 @@
 <h2 id="equivalence-rigidité--spine">Equivalence rigidité / spine</h2>
 <p>Echanges sur les flèches et la notion de spine:</p>
 <ul>
-<li>En anglais &ndash;&gt; <strong>kitelife.com</strong>
+<li>Forum Anglais &ndash;&gt; <strong>kitelife.com</strong>
 <ul>
 <li><a href="https://kitelife.com/forum/topic/11172-arrowshafts-spine-deflection-vs-kite-rods/" target="_blank" rel="nofollow noopener noreferrer">Arrowshafts spine deflection vs Kite rods</a></li>
 </ul>
 </li>
-<li>En allemand &ndash;&gt; <strong>drachenforum.net</strong>
+<li>Forum Allemand &ndash;&gt; <strong>drachenforum.net</strong>
 <ul>
 <li><a href="https://www.drachenforum.net/thread/104141-pfeilsch%C3%A4fte-welche-wie-muffen-welche-kombination/?pageNo=2" target="_blank" rel="nofollow noopener noreferrer">Pfeilschäfte - Welche? - Wie muffen? - Welche Kombination?</a></li>
 </ul>
 </li>
 </ul>
 <h2 id="en-synthèse">En synthèse</h2>
-<p>Valeurs indicatives pour donner une tendance sur la valeur de spine:</p>
+<p>Données constructeur et valeurs indicatives de spine pour donner une tendance:</p>
 <table>
 <thead>
 <tr>
@@ -130,15 +130,23 @@
 </tr>
 </tbody>
 </table>
-<p>Une autre source donne une spine de 700 pour une barre <em>Skyshark P 90</em> et 400 pour du <em>P2X</em></p>
-<p>Les valeurs de spine <em>&ldquo;Sky shark&rdquo;</em> sont à prendre avec du recul avant de se lancer dans l&rsquo;achat d&rsquo;une série de 12 tubes</p>
-<h2 id="a-lessai">A l&rsquo;essai</h2>
+<p>D&rsquo;autres sources donnent une spine de 700 pour une barre <em>Skyshark P 90</em> et 400 pour du <em>P2X</em>. Les valeurs de spine <em>&ldquo;Sky shark&rdquo;</em> sont à tester avant de se lancer dans l&rsquo;achat d&rsquo;une série de 12 tubes de flèche</p>
+<h2 id="à-lessai">À l&rsquo;essai</h2>
 <p>Test en cours de tubes Easton Powerflight sur un bord d&rsquo;attaque:</p>
 <ul>
-<li>Diamètre interne: 0.246&quot;/6.2 mm</li>
-<li>Spine 500: 7.3 gr/pouce</li>
-<li>Longueur: 31&quot;/78,74 cm</li>
-<li>Description: tube économique mais de très bonne qualité pour le tir cible, 3-D, tir nature, ou la chasse&hellip; <em>ou le cerf-volant 4 lignes!</em></li>
+<li>
+<p>Diamètre interne: 0.246&quot;/6.2 mm</p>
+</li>
+<li>
+<p>Spine 500: 7.3 gr/pouce</p>
+</li>
+<li>
+<p>Longueur: 31&quot;/78,74 cm</p>
+</li>
+<li>
+<p>Description constructeur:</p>
+<p>Tube économique mais de très bonne qualité pour le tir cible, 3-D, tir nature, ou la chasse&hellip; (NDLR: Ou le cerf-volant 4 lignes!)</p>
+</li>
 </ul>
 
   
@@ -154,16 +162,16 @@
   >
     <a 
       
-        data-lightbox="image-/posts/2023-03-12/easton-powerflight-500.jpg"
+        data-lightbox="image-/posts/2023-03-16/easton-powerflight-500.jpg"
       
       
-        href="https://gfakite.github.io/posts/2023-03-12/easton-powerflight-500.jpg"
+        href="https://gfakite.github.io/posts/2023-03-16/easton-powerflight-500.jpg"
       
     
     >
   <img
       
-        src="https://gfakite.github.io/posts/2023-03-12/easton-powerflight-500.jpg"
+        src="https://gfakite.github.io/posts/2023-03-16/easton-powerflight-500.jpg"
       
         alt="Easton PowerFlight 500"
         
@@ -181,139 +189,139 @@
   
 </figure>
 
-
 ]]></content:encoded>
     </item>
     
     <item>
       <title>AirBow: projet N°3 🪁</title>
       <link>https://gfakite.github.io/posts/2023/03/airbow-projet-n3/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:01 +0100</pubDate>
+      <pubDate>Wed, 15 Mar 2023 00:00:01 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/03/airbow-projet-n3/</guid>
       <description>Cerf-volant à voile tendue --&amp;gt; AirBow</description>
-      <content:encoded><![CDATA[<p>Cerf-volant 4 lignes avec des panneaux de voile tendue inspiré du modèle Airbow <em>Benson</em>. Le tissu a une forme convexe face au vent. Ses volumes et sa forme lui confèrent un comportement de vol unique. Un AirBow peut faire des figures empruntées aux 2 lignes delta.</p>
-<p><img loading="lazy" src="/img/2023-03-01/01_miaribow.jpg#center" alt="AirBow: crédit photo: Jordi Morella"  />
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-15/01_miaribow.jpg#center" alt="AirBow (crédit photo: Jordi Morella"  />
 
-&ndash;&gt; AirBow en action (crédit: Jordi Morella).</p>
-<p><img loading="lazy" src="/img/2023-03-01/02_mi_airbow.gif#center" alt="Plan de la voile"  />
-
-Quelques mesures pour réaliser cette construction (crédit: Jordi Morella)</p>
+&ndash;&gt; AirBow (crédit photo: Jordi Morella)</p>
+<p>Cerf-volant 4 lignes avec des panneaux de voile tendue inspiré du modèle Airbow <em>Benson</em>. Le tissu a une forme convexe face au vent. Ses volumes et sa forme lui confèrent un comportement de vol unique. Un AirBow peut faire des figures empruntées aux 2 lignes delta.</p>
+<h2 id="mesures-pour-réaliser-cette-construction">Mesures pour réaliser cette construction</h2>
 <p>Pas de plan détaillé, juste des indications pour construire une voile en volume. Les ajustements et la construction sont délicats. Les 3 volumes verticaux sont la difficulté d&rsquo;une réalisation de cerf-volant de type <em>AirBow</em>.</p>
-<p><img loading="lazy" src="/img/2023-03-01/03_panneaux.gif#center" alt="Plan des panneaux"  />
+<p><img loading="lazy" src="/posts/2023-03-15/02_mi_airbow.gif#center" alt="Plan de la voile"  />
 
-Succinctes mesures des panneaux pour les découpes (crédit: Jordi Morella)</p>
-<p>4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, assemblage et découpe délicats.</p>
-<p><img loading="lazy" src="/img/2023-03-01/04_calcul-sphere.png#center" alt="Plan des panneaux"  />
+&ndash;&gt; Plan de la voile</p>
+<h2 id="panneaux">Panneaux</h2>
+<p>Succinctes mesures des panneaux pour les découpes. Il y a 4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, assemblage et découpe délicats</p>
+<p><img loading="lazy" src="/posts/2023-03-15/03_panneaux.gif#center" alt="Plan des panneaux"  />
 
-Application de la formule de sphère sur les mesures:</p>
+&ndash;&gt; Plan des panneaux</p>
+<h2 id="calcul-du-rayon">Calcul du rayon</h2>
+<p>Application de la formule de sphère sur les mesures:</p>
 <ul>
-<li>Grande section de 81,5 cm &ndash;&gt; rayon de 209,57 cm</li>
 <li>Petite section de 35 cm &ndash;&gt; rayon de 40,28 cm</li>
+<li>Grande section de 81,5 cm &ndash;&gt; rayon de 209,57 cm</li>
 </ul>
-<p><img loading="lazy" src="/img/2023-03-01/05_sphere.jpg#center" alt="Une ficelle et un pastel pour tracer les cercles"  />
+<p>Outils rudimentaires mais efficaces pour tracer les arcs de cercle (respectivement 40 cm et 2 m).</p>
+<p><img loading="lazy" src="/posts/2023-03-15/05_sphere.jpg#center" alt="Une ficelle et un pastel"  />
 
-&ndash;&gt; Une ficelle et un pastel pour tracer en courbe</p>
-<p>Outil rudimentaire mais efficace pour tracer les arcs de cercle (respectivement 40 cm et 2 m).</p>
-<p><img loading="lazy" src="/img/2023-03-01/06_voile-chiffon.jpg#center" alt="Voile chiffon (lire sans barres)"  />
-
-&ndash;&gt; Voile chiffon (lire sans barres)</p>
+&ndash;&gt; Une ficelle et un pastel</p>
+<h2 id="voile-chiffon">Voile chiffon</h2>
 <p>En l&rsquo;état, le style est timide. La suite avec un bridage, 10 barres et du vent.</p>
+<p><img loading="lazy" src="/posts/2023-03-15/06_voile-chiffon.jpg#center" alt="Voile sans barres"  />
+
+&ndash;&gt; Voile sans barres</p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>Connecteurs en T: Mister T 🚀</title>
       <link>https://gfakite.github.io/posts/2023/02/connecteurs-en-t-mister-t/</link>
-      <pubDate>Wed, 01 Feb 2023 00:01:01 +0100</pubDate>
+      <pubDate>Tue, 28 Feb 2023 00:01:01 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/02/connecteurs-en-t-mister-t/</guid>
       <description>Nouvelle forme de voile avec un autre système de liaison barre verticale//bord d&amp;#39;attaque</description>
       <content:encoded><![CDATA[<p>Construction en <em>icarex PC31</em> couleur gold</p>
 <h2 id="voile-basée-sur-un-nouveau-plan">Voile basée sur un nouveau plan</h2>
 <p>Plus de surface au centre et un peu moins sur les extrémités. La moustiquaire est légèrement plus haute au centre pour accentuer la portance au centre.</p>
-<p><img loading="lazy" src="/img/2023-02-01/01-voile-v2.jpg#center" alt="Nouvelle forme de voile"  />
+<p><img loading="lazy" src="/posts/2023-02-28/01-voile-v2.jpg#center" alt="Nouvelle forme de voile"  />
 
 &ndash;&gt; Nouvelle forme de voile</p>
 <h2 id="nouveau-système-de-fixation">Nouveau système de fixation</h2>
-<p>Fixation d&rsquo;un <em>connecteur en T</em> au le bord d&rsquo;attaque.</p>
-<p>Ajout d&rsquo;un couche de dacron avec couture <em>zigzag 2 points</em> pour renforcer la zone.
-Montage bien ajusté avec une barre de 8 mm et un bord d&rsquo;attaque de 5 cm.</p>
-<p><img loading="lazy" src="/img/2023-02-01/02-connecteur-t.jpg#center" alt="Détail d&amp;rsquo;un connecteur en T (note: en attente d&amp;rsquo;un jeu de barres pour le recouper)"  />
+<p>Fixation d&rsquo;un <em>connecteur en T</em> au le bord d&rsquo;attaque. Ajout d&rsquo;un couche de dacron avec couture <em>zigzag 2 points</em> pour renforcer la zone. Montage bien ajusté avec une barre de 8 mm et un bord d&rsquo;attaque de 5 cm</p>
+<p><img loading="lazy" src="/posts/2023-02-28/02-connecteur-t.jpg#center" alt="Connecteur en T"  />
 
-&ndash;&gt; Détail d&rsquo;un connecteur en T (note: en attente d&rsquo;un jeu de barres pour le recouper)</p>
+&ndash;&gt; Connecteur en T</p>
+<p>Note: en attente d&rsquo;un jeu de barres pour le recouper)</p>
 <blockquote>
-<p>Ce n&rsquo;est pas le titre qui honore l&rsquo;homme, mais l&rsquo;homme qui honore le titre.
-Nicolas Machiavel</p>
+<p>Ce n&rsquo;est pas le titre qui honore l&rsquo;homme, mais l&rsquo;homme qui honore le titre.</p>
+<p>Nicolas Machiavel</p>
 </blockquote>
 <p>Une machine à coudre de <em>qualité</em>, c&rsquo;est un détail qui fait la différence sur les finitions.</p>
-<p><img loading="lazy" src="/img/2023-02-01/03-detail-couture.jpg#center" alt="Détail des coutures sur un renfort du bas"  />
+<p><img loading="lazy" src="/posts/2023-02-28/03-detail-couture.jpg#center" alt="Coutures renfort bas"  />
 
-&ndash;&gt; Détail des coutures sur un renfort du bas</p>
+&ndash;&gt; Coutures renfort bas</p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>Conseils et repentance 🔍</title>
-      <link>https://gfakite.github.io/posts/2023/01/conseils-et-repentance/</link>
-      <pubDate>Thu, 12 Jan 2023 05:13:07 +0000</pubDate>
+      <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
+      <pubDate>Wed, 15 Feb 2023 05:13:07 +0000</pubDate>
       
-      <guid>https://gfakite.github.io/posts/2023/01/conseils-et-repentance/</guid>
+      <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
       <description>Quelques indications pour éviter des écueils de fabrication</description>
-      <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, Butterfly vole très correctement.</p>
-<p>En vol à 25 m du sol, un œil emmétrope aura du mal à voir les <em>imperfections cosmétiques</em> de la voile.</p>
-<p><img loading="lazy" src="/img/2023-01-12/00-butterfly.jpg#center" alt="Butterfly prêt au décollage, butterfly en vol, butterfly s&amp;rsquo;écrase"  />
+      <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, Butterfly vole très correctement</p>
+<p>En vol à 25 m du sol, un œil emmétrope aura du mal à voir les <em>imperfections cosmétiques</em> de la voile &ndash;&gt; Butterfly prêt au décollage, butterfly en vol, butterfly s&rsquo;écrase</p>
+<p><img loading="lazy" src="/posts/2023-02-15/00-butterfly.jpg#center" alt="Butterfly en vol hivernal"  />
 
-&ndash;&gt; Butterfly prêt au décollage, butterfly en vol, butterfly s&rsquo;écrase</p>
+&ndash;&gt; Butterfly en vol hivernal</p>
 <p>À garder en mémoire:</p>
 <blockquote>
 <p>Le mieux est le mortel ennemi du bien</p>
 </blockquote>
 <h2 id="1-points-droits-trop-serrés">1. Points droits trop serrés</h2>
-<p>Inutile de chercher la perfection avec des points trop rapprochés. Au-delà du risque de générer un bourrage de fil sur la machine à coudre, des points trop rapprochés fragilisent l&rsquo;Icarex.</p>
-<p><img loading="lazy" src="/img/2023-01-12/01-points-trop-serres.jpg#center" alt="Exemple: points droits trop resserrés au centre sur la gauche"  />
+<p>Inutile de chercher la perfection avec des points trop rapprochés. Au-delà du risque de générer un bourrage de fil sur la machine à coudre, des points trop rapprochés fragilisent l&rsquo;Icarex</p>
+<p><img loading="lazy" src="/posts/2023-02-15/01-points-trop-serres.jpg#center" alt="Au centre: points trop serrés"  />
 
-Exemple: points droits trop resserrés au centre sur la gauche</p>
+&ndash;&gt; Au centre: points trop serrés</p>
 <h3 id="solution">Solution</h3>
 <ul>
 <li>Espacer les points de 2 mm à 2,5 mm (comme sur la partie droite)</li>
 </ul>
 <h2 id="2-découpe-trop-ajustée">2. Découpe trop ajustée</h2>
-<p>Sur cet exemplaire, le tissu a été découpé trop tôt dans le process de construction. La jonction voile/moustiquaire a nécessité plus de tissu que prévu pour coudre le rebord. Résultat: ajout disgracieux de tissu avec des ondulations sur l&rsquo;Icarex et la gaze.</p>
-<p><img loading="lazy" src="/img/2023-01-12/02-tissus-trop-court_1.jpg#center" alt="Exemple: tissu coupé trop court"  />
+<p>Sur cet exemplaire, le tissu a été découpé trop tôt dans le process de construction. La jonction voile/moustiquaire a nécessité plus de tissu que prévu pour coudre le rebord. Résultat: ajout disgracieux de tissu avec des ondulations sur l&rsquo;Icarex et la gaze</p>
+<p><img loading="lazy" src="/posts/2023-02-15/02-tissus-trop-court_1.jpg#center" alt="Tissu coupé trop court"  />
 
-&ndash;&gt; Exemple: tissu coupé trop court</p>
-<p><img loading="lazy" src="/img/2023-01-12/02-tissus-trop-court_2.jpg#center" alt="Exemple: tissu coupé trop court"  />
+&ndash;&gt; Tissu coupé trop court</p>
+<p><img loading="lazy" src="/posts/2023-02-15/02-tissus-trop-court_2.jpg#center" alt="Encore trop court"  />
 
-&ndash;&gt; Exemple: tissu coupé trop court</p>
+&ndash;&gt; Encore trop court</p>
 <h3 id="solution-1">Solution</h3>
 <ul>
-<li>Découper avec une marge de sécurité pour pourvoir ajuster</li>
+<li>Découper avec une marge de sécurité pour pourvoir ajuster au fur et à mesure de la construction</li>
 </ul>
 <h2 id="3-erreur-de-mesure">3. Erreur de mesure</h2>
-<p>Le tissus a glissé &ndash;&gt; petite erreur d&rsquo;ajustement entre un renfort et le bord de fuite de la voile. Fonctionnel OK mais vilain.</p>
-<p><img loading="lazy" src="/img/2023-01-12/03-erreur-de-mesure.jpg#center" alt="Exemple: erreur de mesure sur le renfort de coin supérieur"  />
+<p>Le tissus a glissé &ndash;&gt; petite erreur d&rsquo;ajustement entre un renfort et le bord de fuite de la voile. Fonctionnel OK mais vilain</p>
+<p><img loading="lazy" src="/posts/2023-02-15/03-erreur-de-mesure.jpg#center" alt="Coin extérieur"  />
 
-&ndash;&gt; Exemple: erreur de mesure sur le renfort de coin supérieur</p>
+&ndash;&gt; Coin extérieur</p>
 <h3 id="solution-2">Solution</h3>
 <ul>
-<li>Faire des vérifications sur le plan échelle 1:1 tout au long de la confection afin de s&rsquo;assurer que les mesures et dimensions sont OK tout au long du process de construction.</li>
-<li>Immobiliser le tissu lors de l&rsquo;ajustement.</li>
+<li>Faire des vérifications sur le plan échelle 1:1 tout au long de la confection afin de s&rsquo;assurer que les mesures et dimensions sont OK tout au long du process de construction</li>
+<li>Immobiliser le tissu lors de l&rsquo;ajustement</li>
 </ul>
 <h2 id="4-trop-de-tension-sur-le-fil">4. Trop de tension sur le fil</h2>
-<p>Trop de tension sur le fil lors de la couture (point droit du bord de fuite). Le tissu Icarex a <em>rétréci au lavage</em>. Il en résulte une disymétrie disgracieuse sur le bas de la voile. Le bas du côté droit est plus court et la voile n&rsquo;est pas plate.</p>
-<p><img loading="lazy" src="/img/2023-01-12/04-trop-tension-fil.jpg#center" alt="Exemple: trop de tension sur le fil sur la partie droite"  />
+<p>Trop de tension sur le fil lors de la couture (point droit du bord de fuite). Le tissu Icarex a <em>rétréci au lavage</em>. Il en résulte une disymétrie disgracieuse sur le bas de la voile. Le bas du côté droit est plus court et la voile n&rsquo;est pas plate</p>
+<p><img loading="lazy" src="/posts/2023-02-15/04-trop-tension-fil.jpg#center" alt="Droite: trop de tension"  />
 
-&ndash;&gt; Exemple: trop de tension sur le fil sur la partie droite</p>
+&ndash;&gt; Droite: trop de tension</p>
 <h3 id="solution-3">Solution</h3>
 <ul>
 <li>Régler la tension du fil normal/medium</li>
 </ul>
 <h2 id="5-tissu-plissé">5. Tissu plissé</h2>
-<p>La machine qui avance trop vite, on tire un peu sur le tissu &hellip; et voilà de magnifiques plis.</p>
-<p><img loading="lazy" src="/img/2023-01-12/05-plis.jpg#center" alt="Exemple: de beaux plis"  />
+<p>La machine qui avance trop vite, on tire un peu sur le tissu &hellip; et voilà de magnifiques plis</p>
+<p><img loading="lazy" src="/posts/2023-02-15/05-plis.jpg#center" alt="Jolis plis"  />
 
-&ndash;&gt; Exemple: de beaux plis</p>
+&ndash;&gt; Jolis plis</p>
 <h3 id="solutions">Solutions</h3>
 <ul>
 <li>Accompagner le tissu avec la machine</li>
@@ -326,34 +334,34 @@ Exemple: points droits trop resserrés au centre sur la gauche</p>
 <li>Ce n&rsquo;est pas évident à appliquer</li>
 <li>C&rsquo;est générateur de bourrages de fil</li>
 </ol>
-<p><img loading="lazy" src="/img/2023-01-12/06-double-face_1.jpg#center" alt="Exemple: aperçu double face sur le rect"  />
+<p><img loading="lazy" src="/posts/2023-02-15/06-double-face_3.jpg#center" alt="Bourrage fil"  />
 
-&ndash;&gt; Exemple: aperçu double face sur le recto</p>
-<p><img loading="lazy" src="/img/2023-01-12/06-double-face_2.jpg#center" alt="Exemple: aperçu double face sur le rect"  />
+&ndash;&gt; Bourrage fil</p>
+<p><img loading="lazy" src="/posts/2023-02-15/06-double-face_1.jpg#center" alt="Double face sur le recto"  />
 
-&ndash;&gt; Exemple: aperçu double face sur le recto</p>
-<p><img loading="lazy" src="/img/2023-01-12/06-double-face_3.jpg#center" alt="Exemple: bourrage de fil"  />
+&ndash;&gt; Double face sur le recto</p>
+<p><img loading="lazy" src="/posts/2023-02-15/06-double-face_2.jpg#center" alt="Double face sur le recto"  />
 
-Exemple: bourrage de fil</p>
+&ndash;&gt; Double face sur le recto</p>
 <h3 id="solutions-1">Solutions</h3>
 <ul>
 <li>Mettre le moins de double face possible &ndash;&gt; appliqué en pointillé c&rsquo;est mieux qu&rsquo;en continu</li>
 <li>Trouver du double face 3 mm</li>
 </ul>
 <h2 id="7-marche-arrière">7. Marche arrière</h2>
-<p>Cocktail: double face + marche arrière = bourrage fil ou fil qui casse.</p>
-<p><img loading="lazy" src="/img/2023-01-12/07-bourrage-fil.jpg#center" alt="Exemple: bourrage de fil"  />
+<p>Cocktail: double face + marche arrière = bourrage fil ou fil qui casse</p>
+<p><img loading="lazy" src="/posts/2023-02-15/07-bourrage-fil.jpg#center" alt="Bourrage fil"  />
 
-&ndash;&gt; Exemple: bourrage de fil</p>
+&ndash;&gt; Bourrage fil</p>
 <h3 id="solution-4">Solution</h3>
 <ul>
 <li>Marche arrière à proscrire</li>
 </ul>
 <h2 id="8-trop-dépaisseurs">8. Trop d&rsquo;épaisseurs</h2>
 <p>Les renforts, c&rsquo;est bien. Trop d&rsquo;épaisseurs de dacron, c&rsquo;est l&rsquo;assurance de casser une aiguille, de rompre le fil ou pire, que la machine n&rsquo;arrive pas à piquer/coudre.</p>
-<p><img loading="lazy" src="/img/2023-01-12/08-trop-epaisseurs.jpg#center" alt="Exemple: trop d&amp;rsquo;épaisseurs à coudre"  />
+<p><img loading="lazy" src="/posts/2023-02-15/08-trop-epaisseurs.jpg#center" alt="Trop d&amp;rsquo;épaisseurs à coudre"  />
 
-&ndash;&gt; Exemple: trop d&rsquo;épaisseurs à coudre</p>
+&ndash;&gt; Trop d&rsquo;épaisseurs à coudre</p>
 <h3 id="solutions-2">Solutions</h3>
 <ul>
 <li>Option 1: s&rsquo;arrêter, revoir et refaire la zone à coudre avec moins de dacron</li>
@@ -369,65 +377,71 @@ Exemple: bourrage de fil</p>
 </ul>
 <h2 id="10-trop-de-passages">10. Trop de passages</h2>
 <p>Trop de passages sur une zone fragilise l&rsquo;Icarex.</p>
-<p><img loading="lazy" src="/img/2023-01-12/10-trop-de-passages.jpg#center" alt="Exemple: trop de passages"  />
+<p><img loading="lazy" src="/posts/2023-02-15/10-trop-de-passages.jpg#center" alt="Trop de passages"  />
 
-&ndash;&gt; Exemple: trop de passages</p>
+&ndash;&gt; Trop de passages</p>
 <h3 id="solution-5">Solution</h3>
 <ul>
 <li>Avant de se lancer, bien repérer le tracé à coudre</li>
 </ul>
 <h2 id="11-coutures-pas-droites">11. Coutures pas droites</h2>
 <p>Quelques vagues sur les points droits du bord de fuite.</p>
-<p><img loading="lazy" src="/img/2023-01-12/11-coutures-pas-droites.jpg#center" alt="Exemple: coutures en vagues"  />
+<p><img loading="lazy" src="/posts/2023-02-15/11-coutures-pas-droites.jpg#center" alt="Coutures en vagues"  />
 
-&ndash;&gt; Exemple: coutures en vagues</p>
+&ndash;&gt; Coutures en vagues</p>
 <h3 id="solution-6">Solution</h3>
 <ul>
 <li>Lorsque la machine à coudre est en fonctionnement, fixer les repères (vert) plutôt que l&rsquo;aiguille en mouvement (rouge)</li>
 </ul>
-<p><img loading="lazy" src="/img/2023-01-12/12-reperes.png#center" alt="Repères pour coudre droit &amp;ndash;&amp;gt; vert = OK"  />
+<p><img loading="lazy" src="/posts/2023-02-15/12-reperes.png#center" alt="Repère vert à suivre"  />
 
-&ndash;&gt; Repères pour coudre droit &ndash;&gt; vert = OK</p>
+&ndash;&gt; Repère vert à suivre</p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>Assemblage final 🏁</title>
       <link>https://gfakite.github.io/posts/2023/01/assemblage-final/</link>
-      <pubDate>Wed, 11 Jan 2023 05:13:07 +0000</pubDate>
+      <pubDate>Tue, 31 Jan 2023 05:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<h2 id="alignement">Alignement</h2>
 <p>3 vérifications à effectuer sur le cerf-volant:</p>
-<p><img loading="lazy" src="/img/2023-01-11/03-controle-alignement-bridage-OK.jpg#center" alt="Contrôle de l&amp;rsquo;alignement du bridage (suspendu via les points de tire haut) &amp;ndash;&amp;gt; alignement OK"  />
+<ol>
+<li>Contrôle de l&rsquo;alignement du bridage (suspendu via les points de tire du haut)</li>
+</ol>
+<p><img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#center" alt="Alignement OK = bridage conforme"  />
 
-&ndash;&gt; Contrôle de l&rsquo;alignement du bridage (suspendu via les points de tire haut) &ndash;&gt; alignement OK</p>
-<p><img loading="lazy" src="/img/2023-01-11/04-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO, il y a un problème sur le bridage"  />
+&ndash;&gt; Alignement OK = bridage conforme</p>
+<p><img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO (problème de bridage)"  />
 
-&ndash;&gt; Alignement KO, il y a un problème sur le bridage</p>
-<p><img loading="lazy" src="/img/2023-01-11/05-controle-barre-verticale.jpg#center" alt="Alignement KO entre les barres et les renforts"  />
+&ndash;&gt; Alignement KO (problème de bridage)</p>
+<ol start="2">
+<li>Alignement entre les barres et les renforts</li>
+</ol>
+<p><img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
 
-&ndash;&gt; Alignement KO entre les barres et les renforts</p>
-<p><img loading="lazy" src="/img/2023-01-11/06-plis.jpg#center" alt="Contrôle que la voile n&amp;rsquo;a pas de plis"  />
+&ndash;&gt; Alignement OK</p>
+<ol start="3">
+<li>Contrôle des plis sur la voile</li>
+</ol>
+<p><img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="Pas de plis visibles"  />
 
-&ndash;&gt; Contrôle que la voile n&rsquo;a pas de plis</p>
+&ndash;&gt; Pas de plis visibles</p>
 <h2 id="rendu-final">Rendu final</h2>
-<p><img loading="lazy" src="/img/2023-01-11/01-recto.jpg#center" alt="Recto de la voile"  />
+<p><img loading="lazy" src="/posts/2023-01-31/01-recto.jpg#center" alt="Recto et verso de la voile"  />
 
-&ndash;&gt; Recto de la voile</p>
-<p><img loading="lazy" src="/img/2023-01-11/02-verso.jpg#center" alt="Verso de la voile"  />
-
-&ndash;&gt; Verso de la voile</p>
+&ndash;&gt; Recto et verso de la voile</p>
 <p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler</p>
-<p>Let&rsquo;s Go Fly a Kite !</p>
+<p><a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>Bridage traditionnel 🪢</title>
       <link>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</link>
-      <pubDate>Tue, 10 Jan 2023 06:13:07 +0000</pubDate>
+      <pubDate>Sun, 29 Jan 2023 06:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</guid>
       <description>Fait de maintenir une partie, une voile, avec des fils</description>
@@ -447,25 +461,25 @@ Exemple: bourrage de fil</p>
 </ul>
 <h2 id="mise-en-œuvre">Mise en œuvre</h2>
 <p>Pour la jonction avec la bride horizontale, attention au sens haut/bas de la bride verticale car les mesures diffèrent.</p>
-<p><img loading="lazy" src="/img/2023-01-10/03-bride-horizontale.jpg#center" alt="Bride horizontale"  />
+<p><img loading="lazy" src="/posts/2023-01-29/03-bride-horizontale.jpg#center" alt="Bride horizontale"  />
 
 &ndash;&gt; Bride horizontale</p>
-<p><img loading="lazy" src="/img/2023-01-10/04-bride-verticale.jpg#center" alt="Bride verticale à réaliser deux fois"  />
+<p><img loading="lazy" src="/posts/2023-01-29/04-bride-verticale.jpg#center" alt="Bride verticale à réaliser deux fois"  />
 
 &ndash;&gt; Bride verticale à réaliser deux fois</p>
-<p><img loading="lazy" src="/img/2023-01-10/05-detail-bridage.jpg#center" alt="La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)"  />
+<p><img loading="lazy" src="/posts/2023-01-29/05-detail-bridage.jpg#center" alt="La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)"  />
 
 &ndash;&gt; La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)</p>
-<p><img loading="lazy" src="/img/2023-01-10/06-detail-bridage.jpg#center" alt="Premier passage"  />
+<p><img loading="lazy" src="/posts/2023-01-29/06-detail-bridage.jpg#center" alt="Premier passage"  />
 
 &ndash;&gt; Premier passage</p>
-<p><img loading="lazy" src="/img/2023-01-10/07-detail-bridage.jpg#center" alt="Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)"  />
+<p><img loading="lazy" src="/posts/2023-01-29/07-detail-bridage.jpg#center" alt="Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)"  />
 
 &ndash;&gt; Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)</p>
-<p><img loading="lazy" src="/img/2023-01-10/08-detail-bridage.jpg#center" alt="Seconde passage"  />
+<p><img loading="lazy" src="/posts/2023-01-29/08-detail-bridage.jpg#center" alt="Second passage"  />
 
-&ndash;&gt; Seconde passage</p>
-<p><img loading="lazy" src="/img/2023-01-10/09-detail-bridage.jpg#center" alt="Serrage en tirant sur le point de tire (bride verticale)"  />
+&ndash;&gt; Second passage</p>
+<p><img loading="lazy" src="/posts/2023-01-29/09-detail-bridage.jpg#center" alt="Serrage en tirant sur le point de tire (bride verticale)"  />
 
 &ndash;&gt; Serrage en tirant sur le point de tire (bride verticale)</p>
 ]]></content:encoded>
@@ -474,16 +488,16 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Controles sur la voile</title>
       <link>https://gfakite.github.io/posts/2023/01/controles-sur-la-voile/</link>
-      <pubDate>Mon, 09 Jan 2023 05:13:07 +0000</pubDate>
+      <pubDate>Fri, 27 Jan 2023 05:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/controles-sur-la-voile/</guid>
       <description>Quelques vérifications sur la qualité de fabrication</description>
       <content:encoded><![CDATA[<h2 id="équilibrage">Équilibrage</h2>
-<p><img loading="lazy" src="/img/2023-01-09/01-horizontalite.jpg#center" alt="Voile suspendue par le centre: contrôle que la voile ne penche pas d&amp;rsquo;un côté"  />
+<p><img loading="lazy" src="/posts/2023-01-27/01-horizontalite.jpg#center" alt="Voile suspendue par le centre: contrôle que la voile ne penche pas d&amp;rsquo;un côté"  />
 
 &ndash;&gt; Voile suspendue par le centre: contrôle que la voile ne penche pas d&rsquo;un côté</p>
 <h2 id="piètre-photo-en-vrai-la-voile-est-plate">Piètre photo, en vrai la voile est plate</h2>
-<p><img loading="lazy" src="/img/2023-01-09/02-plan.jpg#center" alt="Vérifications: dimensions et symétrie"  />
+<p><img loading="lazy" src="/posts/2023-01-27/02-plan.jpg#center" alt="Vérifications: dimensions et symétrie"  />
 
 &ndash;&gt; Vérifications: dimensions et symétrie</p>
 ]]></content:encoded>
@@ -492,39 +506,39 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Point de tire bas</title>
       <link>https://gfakite.github.io/posts/2023/01/point-de-tire-bas/</link>
-      <pubDate>Sun, 08 Jan 2023 04:13:07 +0000</pubDate>
+      <pubDate>Wed, 25 Jan 2023 04:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/point-de-tire-bas/</guid>
       <description>Bricolage sur les embouts inférieurs</description>
       <content:encoded><![CDATA[<h2 id="focus-sur-les-embouts-situés-en-bas">Focus sur les embouts situés en bas</h2>
-<p><img loading="lazy" src="/img/2023-01-08/01-percage.jpg#center" alt="Perçage des embouts de barre"  />
+<p><img loading="lazy" src="/posts/2023-01-25/01-percage.jpg#center" alt="Perçage des embouts de barre"  />
 
 &ndash;&gt; Perçage des embouts de barre</p>
-<p><img loading="lazy" src="/img/2023-01-08/02-passage-gaine.jpg#center" alt="Fil pour faire passer en force l&amp;rsquo;élastique"  />
+<p><img loading="lazy" src="/posts/2023-01-25/02-passage-gaine.jpg#center" alt="Fil pour faire passer en force l&amp;rsquo;élastique"  />
 
 &ndash;&gt; Fil pour faire passer en force l&rsquo;élastique</p>
-<p><img loading="lazy" src="/img/2023-01-08/03-elastique-passe.jpg#center" alt="L&amp;rsquo;élastique est passé"  />
+<p><img loading="lazy" src="/posts/2023-01-25/03-elastique-passe.jpg#center" alt="L&amp;rsquo;élastique est passé"  />
 
 &ndash;&gt; L&rsquo;élastique est passé</p>
-<p><img loading="lazy" src="/img/2023-01-08/04-renfort-bas.jpg#center" alt="Aparté: ajout d&amp;rsquo;un renfort (2 couches dacron)"  />
+<p><img loading="lazy" src="/posts/2023-01-25/04-renfort-bas.jpg#center" alt="Aparté: ajout d&amp;rsquo;un renfort (2 couches dacron)"  />
 
 &ndash;&gt; Aparté: ajout d&rsquo;un renfort (2 couches dacron)</p>
-<p><img loading="lazy" src="/img/2023-01-08/05-bouchon-bas.jpg#center" alt="Passage du 2ème élastique"  />
+<p><img loading="lazy" src="/posts/2023-01-25/05-bouchon-bas.jpg#center" alt="Passage du 2ème élastique"  />
 
 &ndash;&gt; Passage du 2ème élastique</p>
-<p><img loading="lazy" src="/img/2023-01-08/06-bouchon-bas.jpg#center" alt="Les élastiques sont en place"  />
+<p><img loading="lazy" src="/posts/2023-01-25/06-bouchon-bas.jpg#center" alt="Les élastiques sont en place"  />
 
 &ndash;&gt; Les élastiques sont en place</p>
-<p><img loading="lazy" src="/img/2023-01-08/07-bouchon-bas.jpg#center" alt="Noeud de capucin avec le fil en dyneema/spectra"  />
+<p><img loading="lazy" src="/posts/2023-01-25/07-bouchon-bas.jpg#center" alt="Noeud de capucin avec le fil en dyneema/spectra"  />
 
 &ndash;&gt; Noeud de capucin avec le fil en dyneema/spectra</p>
-<p><img loading="lazy" src="/img/2023-01-08/08-bouchon-bas.jpg#center" alt="Finition sur quelques cm"  />
+<p><img loading="lazy" src="/posts/2023-01-25/08-bouchon-bas.jpg#center" alt="Finition sur quelques cm"  />
 
 &ndash;&gt; Finition sur quelques cm</p>
-<p><img loading="lazy" src="/img/2023-01-08/09-bouchon-bas.jpg#center" alt="On tire l&amp;rsquo;élastique pour le rentrer"  />
+<p><img loading="lazy" src="/posts/2023-01-25/09-bouchon-bas.jpg#center" alt="On tire l&amp;rsquo;élastique pour le rentrer"  />
 
 &ndash;&gt; On tire l&rsquo;élastique pour le rentrer</p>
-<p><img loading="lazy" src="/img/2023-01-08/10-bouchon-bas.jpg#center" alt="Noeud invisible"  />
+<p><img loading="lazy" src="/posts/2023-01-25/10-bouchon-bas.jpg#center" alt="Noeud invisible"  />
 
 &ndash;&gt; Noeud invisible</p>
 ]]></content:encoded>
@@ -533,49 +547,48 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Collage, trous et embouts</title>
       <link>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</link>
-      <pubDate>Sat, 07 Jan 2023 02:13:07 +0000</pubDate>
+      <pubDate>Mon, 23 Jan 2023 02:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</guid>
       <description>Assemblage de la barre centrale, trous dans le dacron et bride sur les embouts de barre</description>
       <content:encoded><![CDATA[<h2 id="barre-centrale">Barre centrale</h2>
-<p>Élément à ajuster avant collage.</p>
-<p>Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités.</p>
-<p><img loading="lazy" src="/img/2023-01-07/01-barre-centrale.jpg#center" alt="Détail des 5 barres du cerf-volant"  />
+<p>Élément à ajuster avant collage des raccords. Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités</p>
+<p><img loading="lazy" src="/posts/2023-01-23/01-barre-centrale.jpg#center" alt="Détail des 5 barres du cerf-volant"  />
 
 &ndash;&gt; Détail des 5 barres du cerf-volant</p>
-<p><img loading="lazy" src="/img/2023-01-07/02-marquage.jpg#center" alt="Marquage du milieu sur le raccord carbone plein"  />
+<p><img loading="lazy" src="/posts/2023-01-23/02-marquage.jpg#center" alt="Marquage du milieu sur le raccord carbone plein"  />
 
 &ndash;&gt; Marquage du milieu sur le raccord carbone plein</p>
-<p><img loading="lazy" src="/img/2023-01-07/03-collage.jpg#center" alt="Collage et immobilisation avec du scotch durant la polymérisation"  />
+<p><img loading="lazy" src="/posts/2023-01-23/03-collage.jpg#center" alt="Collage et immobilisation avec du scotch durant la polymérisation"  />
 
 &ndash;&gt; Collage et immobilisation avec du scotch durant la polymérisation</p>
 <h2 id="trous-et-élastiques">Trous et élastiques</h2>
-<p><img loading="lazy" src="/img/2023-01-07/04-trous.jpg#center" alt="Préparation pour trouer le dacron"  />
+<p><img loading="lazy" src="/posts/2023-01-23/04-trous.jpg#center" alt="Préparation pour trouer le dacron"  />
 
 &ndash;&gt; Préparation pour trouer le dacron</p>
-<p><img loading="lazy" src="/img/2023-01-07/05-elastique.jpg#center" alt="Les nœuds et coutures sont côté verso"  />
+<p><img loading="lazy" src="/posts/2023-01-23/05-elastique.jpg#center" alt="Les nœuds et coutures sont côté verso"  />
 
 &ndash;&gt; Les nœuds et coutures sont côté verso</p>
-<p><img loading="lazy" src="/img/2023-01-07/06-trous.jpg#center" alt="Trou au niveau de l&amp;rsquo;attache de barre verticale"  />
+<p><img loading="lazy" src="/posts/2023-01-23/06-trous.jpg#center" alt="Trou au niveau de l&amp;rsquo;attache de barre verticale"  />
 
 &ndash;&gt; Trou au niveau de l&rsquo;attache de barre verticale</p>
 <h2 id="bride-et-embouts-de-barre-verticale">Bride et embouts de barre verticale</h2>
-<p><img loading="lazy" src="/img/2023-01-07/07-fixation-barre-verticale.jpg#center" alt="Mise en place de la bride"  />
+<p><img loading="lazy" src="/posts/2023-01-23/07-fixation-barre-verticale.jpg#center" alt="Mise en place de la bride"  />
 
 &ndash;&gt; Mise en place de la bride</p>
-<p><img loading="lazy" src="/img/2023-01-07/08-fixation-barre-verticale.jpg#center" alt="Passage dans la boucle"  />
+<p><img loading="lazy" src="/posts/2023-01-23/08-fixation-barre-verticale.jpg#center" alt="Passage dans la boucle"  />
 
 &ndash;&gt; Passage dans la boucle</p>
-<p><img loading="lazy" src="/img/2023-01-07/09-fixation-barre-verticale.jpg#center" alt="La boucle passe dans l&amp;rsquo;embout"  />
+<p><img loading="lazy" src="/posts/2023-01-23/09-fixation-barre-verticale.jpg#center" alt="La boucle passe dans l&amp;rsquo;embout"  />
 
 &ndash;&gt; La boucle passe dans l&rsquo;embout</p>
-<p><img loading="lazy" src="/img/2023-01-07/10-fixation-barre-verticale.jpg#center" alt="On tire pour voir le nœud"  />
+<p><img loading="lazy" src="/posts/2023-01-23/10-fixation-barre-verticale.jpg#center" alt="On tire pour voir le nœud"  />
 
 &ndash;&gt; On tire pour voir le nœud</p>
-<p><img loading="lazy" src="/img/2023-01-07/11-fixation-barre-verticale.jpg#center" alt="Nouveau nœud, on ajuste et on resserre"  />
+<p><img loading="lazy" src="/posts/2023-01-23/11-fixation-barre-verticale.jpg#center" alt="Nouveau nœud, on ajuste et on resserre"  />
 
 &ndash;&gt; Nouveau nœud, on ajuste et on resserre</p>
-<p><img loading="lazy" src="/img/2023-01-07/12-renfort-central.jpg#center" alt="Trou au niveau du renfort central"  />
+<p><img loading="lazy" src="/posts/2023-01-23/12-renfort-central.jpg#center" alt="Trou au niveau du renfort central"  />
 
 &ndash;&gt; Trou au niveau du renfort central</p>
 ]]></content:encoded>
@@ -584,53 +597,53 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Bord de fuite</title>
       <link>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</link>
-      <pubDate>Fri, 06 Jan 2023 01:13:07 +0000</pubDate>
+      <pubDate>Sat, 21 Jan 2023 01:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</guid>
       <description>Il est soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant 4 lignes, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
       <content:encoded><![CDATA[<h2 id="préparation-et-couture">Préparation et couture</h2>
-<p><img loading="lazy" src="/img/2023-01-06/01-bord-de-fuite.jpg#center" alt="Bord de fuite"  />
+<p><img loading="lazy" src="/posts/2023-01-21/01-bord-de-fuite.jpg#center" alt="Bord de fuite"  />
 
 &ndash;&gt; Bord de fuite</p>
-<p><img loading="lazy" src="/img/2023-01-06/02-double-face.jpg" alt="Double face en pointillé pour limiter un bourrage de fil et des dépôts de scotch sur l&amp;rsquo;aiguille"  />
+<p><img loading="lazy" src="/posts/2023-01-21/02-double-face.jpg" alt="Double face en pointillé pour limiter un bourrage de fil et des dépôts de scotch sur l&amp;rsquo;aiguille"  />
 
 &ndash;&gt; Double face en pointillé pour limiter un bourrage de fil et des dépôts de scotch sur l&rsquo;aiguille</p>
-<p><img loading="lazy" src="/img/2023-01-06/03-double-face.jpg#center" alt="Double face sur le recto"  />
+<p><img loading="lazy" src="/posts/2023-01-21/03-double-face.jpg#center" alt="Double face sur le recto"  />
 
 &ndash;&gt; Double face sur le recto</p>
-<p><img loading="lazy" src="/img/2023-01-06/04-avant-apres-collage.jpg" alt="Avant versus après pliage et collage"  />
+<p><img loading="lazy" src="/posts/2023-01-21/04-avant-apres-collage.jpg" alt="Avant versus après pliage et collage"  />
 #center
 &ndash;&gt; Avant versus après pliage et collage</p>
-<p><img loading="lazy" src="/img/2023-01-06/05-pliage.jpg#center" alt="Pliage du rebord de l&amp;rsquo;extérieur vers l&amp;rsquo;intérieur"  />
+<p><img loading="lazy" src="/posts/2023-01-21/05-pliage.jpg#center" alt="Pliage du rebord de l&amp;rsquo;extérieur vers l&amp;rsquo;intérieur"  />
 
 &ndash;&gt; Pliage du rebord de l&rsquo;extérieur vers l&rsquo;intérieur</p>
-<p><img loading="lazy" src="/img/2023-01-06/06-collage.jpg#center" alt="Collage du rebord vers l&amp;rsquo;intérieur"  />
+<p><img loading="lazy" src="/posts/2023-01-21/06-collage.jpg#center" alt="Collage du rebord vers l&amp;rsquo;intérieur"  />
 
 &ndash;&gt; Collage du rebord vers l&rsquo;intérieur</p>
-<p><img loading="lazy" src="/img/2023-01-06/07-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté recto"  />
+<p><img loading="lazy" src="/posts/2023-01-21/07-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté recto"  />
 
 &ndash;&gt; Focus: couture du bord d&rsquo;attaque côté recto</p>
-<p><img loading="lazy" src="/img/2023-01-06/08-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté verso"  />
+<p><img loading="lazy" src="/posts/2023-01-21/08-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté verso"  />
 
 &ndash;&gt; Focus: couture du bord d&rsquo;attaque côté verso</p>
 <h2 id="couture-du-renfort-de-coin">Couture du renfort de coin</h2>
-<p><img loading="lazy" src="/img/2023-01-06/09-pliage-coin.jpg#center" alt="Marquage des plis sur le renfort de coin"  />
+<p><img loading="lazy" src="/posts/2023-01-21/09-pliage-coin.jpg#center" alt="Marquage des plis sur le renfort de coin"  />
 
 &ndash;&gt; Marquage des plis sur le renfort de coin</p>
-<p><img loading="lazy" src="/img/2023-01-06/10-pliage-coin.jpg#center" alt="Renfort de coin semi-replié"  />
+<p><img loading="lazy" src="/posts/2023-01-21/10-pliage-coin.jpg#center" alt="Renfort de coin semi-replié"  />
 
 &ndash;&gt; Renfort de coin semi-replié</p>
-<p><img loading="lazy" src="/img/2023-01-06/11-coin-replie.jpg#center" alt="Renfort de coin replié"  />
+<p><img loading="lazy" src="/posts/2023-01-21/11-coin-replie.jpg#center" alt="Renfort de coin replié"  />
 
 &ndash;&gt; Renfort de coin replié</p>
-<p><img loading="lazy" src="/img/2023-01-06/12-mise-en-place.jpg#center" alt="Mise en place du coin"  />
+<p><img loading="lazy" src="/posts/2023-01-21/12-mise-en-place.jpg#center" alt="Mise en place du coin"  />
 
 &ndash;&gt; Mise en place du coin</p>
-<p><img loading="lazy" src="/img/2023-01-06/13-couture-coin.jpg#center" alt="Couture du coin"  />
+<p><img loading="lazy" src="/posts/2023-01-21/13-couture-coin.jpg#center" alt="Couture du coin"  />
 
 &ndash;&gt; Couture du coin</p>
 <h2 id="autre-couture">Autre couture</h2>
-<p><img loading="lazy" src="/img/2023-01-06/14-finition.jpg#center" alt="Finition: couture oubliée sur le renfort haut de barre verticale"  />
+<p><img loading="lazy" src="/posts/2023-01-21/14-finition.jpg#center" alt="Finition: couture oubliée sur le renfort haut de barre verticale"  />
 
 &ndash;&gt; Finition: couture oubliée sur le renfort haut de barre verticale</p>
 ]]></content:encoded>
@@ -639,7 +652,7 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Renforts 🪡</title>
       <link>https://gfakite.github.io/posts/2023/01/renforts/</link>
-      <pubDate>Thu, 05 Jan 2023 00:13:07 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 00:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/renforts/</guid>
       <description>Assemblage de pièces en dacron pour protéger la voile</description>
@@ -656,34 +669,34 @@ Exemple: bourrage de fil</p>
 </li>
 </ul>
 <h2 id="détail-des-renforts">Détail des renforts</h2>
-<p><img loading="lazy" src="/img/2023-01-05/01-renfort-central.jpg#center" alt="Renfort central en forme de T"  />
+<p><img loading="lazy" src="/posts/2023-01-19/01-renfort-central.jpg#center" alt="Renfort central en forme de T"  />
 
 &ndash;&gt; Renfort central en forme de T</p>
-<p><img loading="lazy" src="/img/2023-01-05/02-renfort-pliure-barre.jpg#center" alt="Renfort à l&amp;rsquo;emplacement où se plie le cerf-volant après rangement"  />
+<p><img loading="lazy" src="/posts/2023-01-19/02-renfort-pliure-barre.jpg#center" alt="Renfort à l&amp;rsquo;emplacement où se plie le cerf-volant après rangement"  />
 
 &ndash;&gt; Renfort à l&rsquo;emplacement où se plie le cerf-volant après rangement</p>
-<p><img loading="lazy" src="/img/2023-01-05/03-renfort-recto.jpg#center" alt="Renfort côté recto, au niveau de la pliure de barre"  />
+<p><img loading="lazy" src="/posts/2023-01-19/03-renfort-recto.jpg#center" alt="Renfort côté recto, au niveau de la pliure de barre"  />
 
 &ndash;&gt; Renfort côté <strong>recto</strong>, au niveau de la pliure de barre</p>
-<p><img loading="lazy" src="/img/2023-01-05/04-renfort-verso.jpg#center" alt="Renfort côté verso, au niveau de la pliure de barre"  />
+<p><img loading="lazy" src="/posts/2023-01-19/04-renfort-verso.jpg#center" alt="Renfort côté verso, au niveau de la pliure de barre"  />
 
 &ndash;&gt; Renfort côté <strong>verso</strong>, au niveau de la pliure de barre</p>
-<p><img loading="lazy" src="/img/2023-01-05/05-renfort-bas.jpg#center" alt="Renfort du bas côté verso"  />
+<p><img loading="lazy" src="/posts/2023-01-19/05-renfort-bas.jpg#center" alt="Renfort du bas côté verso"  />
 
 &ndash;&gt; Renfort du bas côté verso</p>
-<p><img loading="lazy" src="/img/2023-01-05/06-renfort-barre-verticale.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  />
+<p><img loading="lazy" src="/posts/2023-01-19/06-renfort-barre-verticale.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  />
 
 &ndash;&gt; Renfort de barre verticale (haut de la voile)</p>
-<p><img loading="lazy" src="/img/2023-01-05/07-renfort-barres-recto.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  />
+<p><img loading="lazy" src="/posts/2023-01-19/07-renfort-barres-recto.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  />
 
 &ndash;&gt; Renfort de barre verticale (haut de la voile)</p>
-<p><img loading="lazy" src="/img/2023-01-05/08-renfort-barres-verso.jpg#center" alt="Renfort de barre verticale"  />
+<p><img loading="lazy" src="/posts/2023-01-19/08-renfort-barres-verso.jpg#center" alt="Renfort de barre verticale"  />
 
 &ndash;&gt; Renfort de barre verticale</p>
-<p><img loading="lazy" src="/img/2023-01-05/09-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  />
+<p><img loading="lazy" src="/posts/2023-01-19/09-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  />
 
 &ndash;&gt; Renfort jonction centrale</p>
-<p><img loading="lazy" src="/img/2023-01-05/10-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  />
+<p><img loading="lazy" src="/posts/2023-01-19/10-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  />
 
 &ndash;&gt; Renfort jonction centrale</p>
 ]]></content:encoded>
@@ -692,28 +705,28 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Bord d&#39;attaque 🧶</title>
       <link>https://gfakite.github.io/posts/2023/01/bord-dattaque/</link>
-      <pubDate>Wed, 04 Jan 2023 09:13:07 +0000</pubDate>
+      <pubDate>Tue, 17 Jan 2023 18:43:17 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/bord-dattaque/</guid>
       <description>Partie avant d&amp;#39;un profil aérodynamique. Sur une voile de cerf-volant, il fait face au vent</description>
       <content:encoded><![CDATA[<h2 id="préparation">Préparation</h2>
-<p><img loading="lazy" src="/img/2023-01-04/01-bord-attaque.jpg#center" alt="Bord d&amp;rsquo;attaque"  />
+<p><img loading="lazy" src="/posts/2023-01-17/01-bord-attaque.jpg#center" alt="Bord d&amp;rsquo;attaque"  />
 
 &ndash;&gt; Bord d&rsquo;attaque</p>
-<p><img loading="lazy" src="/img/2023-01-04/02-dacron.jpg#center" alt="Marquage de la pliure en écrasant le dacron"  />
+<p><img loading="lazy" src="/posts/2023-01-17/02-dacron.jpg#center" alt="Marquage de la pliure en écrasant le dacron"  />
 
 &ndash;&gt; Marquage de la pliure en écrasant le dacron</p>
-<p><img loading="lazy" src="/img/2023-01-04/03-pliage-coin.jpg#center" alt="Pliage du coin"  />
+<p><img loading="lazy" src="/posts/2023-01-17/03-pliage-coin.jpg#center" alt="Pliage du coin"  />
 
 &ndash;&gt; Pliage du coin</p>
-<p><img loading="lazy" src="/img/2023-01-04/04-ajustement-coin.jpg#center" alt="Ajustement sur le plan"  />
+<p><img loading="lazy" src="/posts/2023-01-17/04-ajustement-coin.jpg#center" alt="Ajustement sur le plan"  />
 
 &ndash;&gt; Ajustement sur le plan</p>
 <h2 id="assemblage">Assemblage</h2>
-<p><img loading="lazy" src="/img/2023-01-04/05-bord-dattaque.jpg#center" alt="Couture zigzag du bord d&amp;rsquo;attaque"  />
+<p><img loading="lazy" src="/posts/2023-01-17/05-bord-dattaque.jpg#center" alt="Couture zigzag du bord d&amp;rsquo;attaque"  />
 
 &ndash;&gt; Couture zigzag du bord d&rsquo;attaque</p>
-<p><img loading="lazy" src="/img/2023-01-04/06-resultat.jpg#center" alt="Résultat final"  />
+<p><img loading="lazy" src="/posts/2023-01-17/06-resultat.jpg#center" alt="Résultat final"  />
 
 &ndash;&gt; Résultat final</p>
 ]]></content:encoded>
@@ -722,41 +735,41 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Voile et moustiquaire 🪚</title>
       <link>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</link>
-      <pubDate>Tue, 03 Jan 2023 09:13:07 +0000</pubDate>
+      <pubDate>Sun, 15 Jan 2023 19:03:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</guid>
       <description>Une image vaut mieux qu&amp;#39;un long discours</description>
       <content:encoded><![CDATA[<h2 id="découpage-de-la-voile">Découpage de la voile</h2>
 <p>Premières découpes suivies du premier collage (bien droit et sans plis)</p>
-<p><img loading="lazy" src="/img/2023-01-03/01-traits.jpg#center" alt="Traçage des traits à partir du plan"  />
+<p><img loading="lazy" src="/posts/2023-01-15/01-traits.jpg#center" alt="Traçage des traits à partir du plan"  />
 
 &ndash;&gt; Traçage des traits à partir du plan</p>
-<p><img loading="lazy" src="/img/2023-01-03/02-decoupe-voile.jpg#center" alt="Découpe de la voile en suivant les traits"  />
+<p><img loading="lazy" src="/posts/2023-01-15/02-decoupe-voile.jpg#center" alt="Découpe de la voile en suivant les traits"  />
 
 &ndash;&gt; Découpe de la voile en suivant les traits</p>
-<p><img loading="lazy" src="/img/2023-01-03/03-scotch-double-face.jpg#center" alt="Scotch double face"  />
+<p><img loading="lazy" src="/posts/2023-01-15/03-scotch-double-face.jpg#center" alt="Scotch double face"  />
 
 &ndash;&gt; Scotch double face</p>
-<p><img loading="lazy" src="/img/2023-01-03/04-collage.jpg#center" alt="Collage de la moustiquaire"  />
+<p><img loading="lazy" src="/posts/2023-01-15/04-collage.jpg#center" alt="Collage de la moustiquaire"  />
 
 &ndash;&gt; Collage de la moustiquaire</p>
 <h2 id="première-couture">Première couture</h2>
 <p>On accompagne doucement le tissu avec la machine</p>
-<p><img loading="lazy" src="/img/2023-01-03/05-couture-point-droit.jpg#center" alt="Couture point droit"  />
+<p><img loading="lazy" src="/posts/2023-01-15/05-couture-point-droit.jpg#center" alt="Couture point droit"  />
 
 &ndash;&gt; Couture point droit</p>
-<p><img loading="lazy" src="/img/2023-01-03/06-couture-point-droit.jpg#center" alt="Résultat de la première couture"  />
+<p><img loading="lazy" src="/posts/2023-01-15/06-couture-point-droit.jpg#center" alt="Résultat de la première couture"  />
 
 &ndash;&gt; Résultat de la première couture</p>
-<p><img loading="lazy" src="/img/2023-01-03/07-zigzag.jpg#center" alt="ZigZag sur le tissu retourné"  />
+<p><img loading="lazy" src="/posts/2023-01-15/07-zigzag.jpg#center" alt="ZigZag sur le tissu retourné"  />
 
 &ndash;&gt; ZigZag sur le tissu retourné</p>
 <h2 id="ajustement-et-découpe-de-la-moustiquaire">Ajustement et découpe de la moustiquaire</h2>
 <p>Vérification de l&rsquo;alignement sur le plan</p>
-<p><img loading="lazy" src="/img/2023-01-03/08-scotch.jpg#center" alt="2 cm de scotch pour la moustiquaire"  />
+<p><img loading="lazy" src="/posts/2023-01-15/08-scotch.jpg#center" alt="2 cm de scotch pour la moustiquaire"  />
 
 &ndash;&gt; 2 cm de scotch pour la moustiquaire</p>
-<p><img loading="lazy" src="/img/2023-01-03/09-decoupe-moustiquaire.jpg#center" alt="Préparation découpe de l&amp;rsquo;excédent de moustiquaire"  />
+<p><img loading="lazy" src="/posts/2023-01-15/09-decoupe-moustiquaire.jpg#center" alt="Préparation découpe de l&amp;rsquo;excédent de moustiquaire"  />
 
 &ndash;&gt; Préparation découpe de l&rsquo;excédent de moustiquaire</p>
 ]]></content:encoded>
@@ -765,7 +778,7 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Outils et fournitures 🧵</title>
       <link>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</link>
-      <pubDate>Mon, 02 Jan 2023 19:24:52 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 02:24:52 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</guid>
       <description>Quelques outils et maières premières pour cette réalisation</description>
@@ -783,12 +796,12 @@ Exemple: bourrage de fil</p>
 <tbody>
 <tr>
 <td>Point droit</td>
-<td><img loading="lazy" src="/img/2023-01-02/01-droit.png#center" alt="Illustration: point droit"  />
+<td><img loading="lazy" src="/posts/2023-01-13/01-droit.png#center" alt="Illustration: point droit"  />
 </td>
 </tr>
 <tr>
 <td>3 points zigzag</td>
-<td><img loading="lazy" src="/img/2023-01-02/02-zigzag.png#center" alt="Illustration: 3 points zigzag"  />
+<td><img loading="lazy" src="/posts/2023-01-13/02-zigzag.png#center" alt="Illustration: 3 points zigzag"  />
 </td>
 </tr>
 </tbody>
@@ -825,7 +838,7 @@ Exemple: bourrage de fil</p>
 <li>
 <p>1 fer à souder (500W min) avec panne en pointe</p>
 <p>Ou un <del>honteux bidouillage</del> bricolage: aguille, mèche coton, pot en verre et pétrole désaromatisé
-<img loading="lazy" src="/img/2023-01-02/03-bricolage.jpg#center" alt="Bricolage lampe à pétrole"  />
+<img loading="lazy" src="/posts/2023-01-13/03-bricolage.jpg#center" alt="Bricolage lampe à pétrole"  />
 </p>
 </li>
 <li>
@@ -840,10 +853,10 @@ Exemple: bourrage de fil</p>
 <li>Une scie à métaux (lame carbone ou sinon métaux)</li>
 </ul>
 <h2 id="les-fournitures">Les fournitures</h2>
-<p><img loading="lazy" src="/img/2023-01-02/04-colis.jpg#center" alt="Long colis"  />
+<p><img loading="lazy" src="/posts/2023-01-13/04-colis.jpg#center" alt="Long colis"  />
 
 &ndash;&gt; Long colis</p>
-<p><img loading="lazy" src="/img/2023-01-02/05-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/05-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
 
 &ndash;&gt; Intérieur du colis: détail des fournitures</p>
 <h2 id="liste-des-pièces">Liste des pièces:</h2>
@@ -860,7 +873,7 @@ Exemple: bourrage de fil</p>
 <li>Facultatif: Bande de dacron ou de mylar &ndash;&gt; renfort au niveau des barres verticales</li>
 <li>Facultatif: Rondelles de maintien d&rsquo;élastique (pas trouvé) &ndash;&gt; <a href="https://watty.us/3d-printing/2022/3/13/bungee-washers" target="_blank" rel="nofollow noopener noreferrer">Bungee Washer</a></li>
 </ul>
-<p><img loading="lazy" src="/img/2023-01-02/06-fournitures-legende.jpg#center" alt="Légende détaillée des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/06-fournitures-legende.jpg#center" alt="Légende détaillée des fournitures"  />
 
 &ndash;&gt; Légende détaillée des fournitures</p>
 <h2 id="absents-des-photos">Absents des photos:</h2>
@@ -885,28 +898,28 @@ Exemple: bourrage de fil</p>
     <item>
       <title>Introduction et plan 🗺</title>
       <link>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</link>
-      <pubDate>Sun, 01 Jan 2023 13:13:07 +0000</pubDate>
+      <pubDate>Wed, 11 Jan 2023 11:13:07 +0000</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</guid>
       <description>Modeste assemblage de pages, de textes et d&amp;#39;images. Travail d&amp;#39;amateur sans prétentions aucune</description>
       <content:encoded><![CDATA[<p>Construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type révolution. Ce modèle est de type <em>pilotable</em> à 4 lignes (quad lines kite)</p>
 <h2 id="2-lignes-versus-4-lignes">2 lignes versus 4 lignes</h2>
 <p>Contrairement à un classique cerf-volant 2 lignes <em>Delta</em>, le 4 lignes <em>Révolution</em> offre plus latitude de manœuvres aériennes: vol stationnaire, marche arrière, etc.</p>
-<p><img loading="lazy" src="/img/2023-01-01/01-pilotage.png#center" alt="2 lignes versus 4 ligne"  />
+<p><img loading="lazy" src="/posts/2023-01-11/01-pilotage.png#center" alt="2 lignes versus 4 ligne"  />
 
 &ndash;&gt; 2 lignes versus 4 ligne</p>
-<p><img loading="lazy" src="/img/2023-01-01/02-poignees.png#center" alt="Nombre de points d&amp;rsquo;attache sur les poignées"  />
+<p><img loading="lazy" src="/posts/2023-01-11/02-poignees.png#center" alt="Nombre de points d&amp;rsquo;attache sur les poignées"  />
 
 &ndash;&gt; Nombre de points d&rsquo;attache sur les poignées</p>
 <h2 id="plan">Plan</h2>
 <p>Confection basée sur le plan <em>Essentials</em> de Spencer Watson:</p>
 <ul>
-<li>PDF: <a href="/img/2023-01-01/03-essentials.pdf">Essentials S</a></li>
+<li>PDF: <a href="/posts/2023-01-11/03-essentials.pdf">Essentials S</a></li>
 <li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials" target="_blank" rel="nofollow noopener noreferrer">watty.us</a></li>
 </ul>
 <h2 id="ajustement">Ajustement</h2>
 <p>Réalisation <em>simplifiée</em> sur un morceau d&rsquo;Icarex de 3 m x 1,50m</p>
-<p><img loading="lazy" src="/img/2023-01-01/04-plan.png#center" alt="3 m = 2 voiles"  />
+<p><img loading="lazy" src="/posts/2023-01-11/04-plan.png#center" alt="3 m = 2 voiles"  />
 
 3 m = 2 voiles d&rsquo;un seul tenant sur un morceau de tissu:</p>
 <ul>
@@ -919,30 +932,108 @@ Exemple: bourrage de fil</p>
 <p>Pas de découpe de panneaux pour cette réalisation
 Les téméraires des motifs et panneaux peuvent se lancer:</p>
 <ul>
-<li>PDF: <a href="/img/2023-01-01/05-panels.pdf">Panel Templates</a></li>
+<li>PDF: <a href="/posts/2023-01-11/05-panels.pdf">Panel Templates</a></li>
 <li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials" target="_blank" rel="nofollow noopener noreferrer">watty.us</a></li>
 </ul>
 <p><em>Superposition des panneaux</em> &ndash;&gt; toujours mettre le tissu le plus sombre au-dessus du clair pour éviter d&rsquo;avoir une 3ème couleur (superposition clair sur foncé)</p>
-<p><img loading="lazy" src="/img/2023-01-01/06-trame.png#center" alt="Orientation des panneaux"  />
+<p><img loading="lazy" src="/posts/2023-01-11/06-trame.png#center" alt="Orientation des panneaux"  />
 
 &ndash;&gt; Orientation des panneaux</p>
 <h2 id="impression-du-plan-à-léchelle-11">Impression du plan à l&rsquo;échelle 1:1</h2>
 <p>Le plan est imprimable en format paysage sur 9 pages A3</p>
-<p><img loading="lazy" src="/img/2023-01-01/07-impression.png#center" alt="Taille 100%"  />
+<p><img loading="lazy" src="/posts/2023-01-11/07-impression.png#center" alt="Taille 100%"  />
 
 &ndash;&gt; Taille 100%</p>
-<p><img loading="lazy" src="/img/2023-01-01/08-impression.png#center" alt="Format A3 en paysage"  />
+<p><img loading="lazy" src="/posts/2023-01-11/08-impression.png#center" alt="Format A3 en paysage"  />
 
 &ndash;&gt; Format A3 en paysage</p>
 <h2 id="plan-complet-18-pages-a3">Plan complet: 18 pages A3</h2>
 <p>En appliquant un miroir horizontal sur le pdf, il est possible d&rsquo;avoir, le plan à l&rsquo;échelle 1:1 de la voile &ndash;&gt; <a href="https://www.google.com/search?q=flip&#43;horizontally&#43;pdf&#43;online" target="_blank" rel="nofollow noopener noreferrer">flip horizontally pdf online</a></p>
-<p><img loading="lazy" src="/img/2023-01-01/09-gauche-droite.png#center" alt="Assemblage"  />
+<p><img loading="lazy" src="/posts/2023-01-11/09-gauche-droite.png#center" alt="Assemblage"  />
 
 &ndash;&gt; Assemblage</p>
 <h2 id="contrôle-de-léchelle">Contrôle de l&rsquo;échelle</h2>
-<p><img loading="lazy" src="/img/2023-01-01/10-echelle.jpg#center" alt="10 inches = 25,4 cm"  />
+<p><img loading="lazy" src="/posts/2023-01-11/10-echelle.jpg#center" alt="10 inches = 25,4 cm"  />
 
 &ndash;&gt; 10 inches = 25,4 cm</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>https://gfakite.github.io/about/</link>
+      <pubDate>Sat, 31 Dec 2022 14:47:29 +0100</pubDate>
+      
+      <guid>https://gfakite.github.io/about/</guid>
+      <description>Rien d&amp;rsquo;extravaguant, juste quelques contenus pour comprendre comment en fabriquer un cerf-volant 4 lignes, partager des focus de construction, etc.
+Comédie musicale Mary Poppins Let&amp;rsquo;s Go Fly a Kite*
+Allusion à l&amp;rsquo;Acte II de Mary Poppins qu&amp;rsquo;on peut traduire en Laissons-le s&amp;rsquo;envoler (le cerf-volant). Source: wikipedia EN
+Éléments de contexte en français:
+Terrifiés par leur nouvelle gouvernante, les enfants s&amp;rsquo;enfuient dans le parc et retrouvent leur ami Bert, qui les encourage et qui aide Michael à diriger un cerf volant (Let&amp;rsquo;s Go Fly a Kite)</description>
+      <content:encoded><![CDATA[<p>Rien d&rsquo;extravaguant, juste quelques contenus pour comprendre comment en fabriquer un cerf-volant 4 lignes, partager des focus de construction, etc.</p>
+<h2 id="comédie-musicale-mary-poppins">Comédie musicale Mary Poppins</h2>
+<blockquote>
+<p>Let&rsquo;s Go Fly a Kite*</p>
+</blockquote>
+<p>Allusion à l&rsquo;<em>Acte II</em> de Mary Poppins qu&rsquo;on peut traduire en <em>Laissons-le s&rsquo;envoler</em> (le cerf-volant). Source: <a href="https://en.wikipedia.org/wiki/Let%27s_Go_Fly_a_Kite" target="_blank" rel="nofollow noopener noreferrer">wikipedia EN</a></p>
+<p>Éléments de contexte en français:</p>
+<blockquote>
+<p>Terrifiés par leur nouvelle gouvernante, les enfants s&rsquo;enfuient dans le parc et retrouvent leur ami Bert, qui les encourage et qui aide Michael à diriger un cerf volant (<em>Let&rsquo;s Go Fly a Kite</em>)</p>
+</blockquote>
+<p>Source: <a href="https://fr.wikipedia.org/wiki/Mary_Poppins_%28com%C3%A9die_musicale%29" target="_blank" rel="nofollow noopener noreferrer">wikipedia FR</a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/zNSler7jBWs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="traduction-littérale">Traduction littérale</h3>
+<p>En anglais, <em>&ldquo;Go fly a kite&rdquo;</em> prononcé avec une intonation condescendante se traduit en <em>&ldquo;Va jouer aux billes&rdquo;</em></p>
+<h2 id="en-synthèse">En synthèse</h2>
+<p>Un site inconnu avec des contenus déréférencés</p>
+<p>Une poussière perdue dans l&rsquo;InterWebSpace</p>
+<p>Sans prétention aucune</p>
+<p>Kite Doe</p>
+
+  
+
+
+
+
+
+<figure
+  class="floatright"
+  style="width: 100%;"
+  
+  >
+    <a 
+      
+        data-lightbox="image-about.jpg"
+      
+      
+        href="https://gfakite.github.io/about/about.jpg"
+      
+    
+    >
+  <img
+      
+        src="https://gfakite.github.io/about/about.jpg"
+      
+        alt="Butterfly en vol hivernal (vent ≥ 25 km/h, bord d’attaque P2X très raide…)"
+        
+        
+         />
+    </a>
+  
+  
+    <figcaption>
+      <span class="img--caption">
+        Butterfly en vol hivernal (vent ≥ 25 km/h, bord d’attaque P2X très raide…)
+        
+      </span>
+    </figcaption>
+  
+</figure>
+
 ]]></content:encoded>
     </item>
     
