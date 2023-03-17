@@ -18,15 +18,15 @@
 <p><em>Sky shark, Exel composites, R-Tubes, Aero Stuff, No name, &hellip;</em> Les marques ne manquent pas pour installer des barres en carbone sur son cerf-volant. En associant les références aux marques, il y a beaucoup (<del>trop?</del>) de choix.</p>
 <p>Peu le savent et encore moins osent le dire ou l&rsquo;écrire, il est possible de substituer les barres classiques de cerf-volant par des tubes de flèche en carbone. En vérifiant les diamètres (interne et externe), la longueur et la mesure de rigidité (spine), un <em>cerf-voliste</em> peut trouver son bohneur dans une archerie.</p>
 <h2 id="avantages--inconvénients">Avantages / inconvénients</h2>
-<p>Les avantages à utiliser des tubes de flèche sont:</p>
+<p>Les avantages à utiliser des tubes de flèche sont nombreux:</p>
 <ul>
 <li>Le prix (5-6 € le tube et encore moins par 12)</li>
 <li>Le choix des tubes (longueur, poids en fonction de la rigidité, etc.)</li>
 <li>La qualité des tubes (finition au top et tubes rectilignes)</li>
-<li>Le nombre d&rsquo;archerie en France (pour voir et palper en vrai les tubes)</li>
+<li>Le nombre d&rsquo;archerie en implantées en France (pour voir et palper en vrai les tubes)</li>
 <li>Les conseils en archerie (les vendeurs s&rsquo;y connaissent en carbone<strong>S</strong>)</li>
 </ul>
-<p>Le point délicat est de trouver une correspondance entre la rigidité d&rsquo;une barre de cerf-volant et la spine (mesure qui définit la rigidité) d&rsquo;un tube de flèche</p>
+<p>Le point délicat est de trouver la bonne correspondance entre la rigidité d&rsquo;une barre de cerf-volant et la spine (mesure qui définit la rigidité) d&rsquo;un tube de flèche</p>
 <h2 id="equivalence-rigidité--spine">Equivalence rigidité / spine</h2>
 <p>Echanges sur les flèches et la notion de spine:</p>
 <ul>
@@ -369,7 +369,11 @@
 <li>Option 3: coudre à la main</li>
 </ul>
 <h2 id="9-bridage-inversé">9. Bridage inversé</h2>
-<p>Les côtes du bridage sont à respecter scrupuleusement. De l&rsquo;à peu près ou inverser le sens du bridage, c&rsquo;est se garantir un comportement de vol douteux.</p>
+<p>Les côtes du bridage sont à respecter scrupuleusement. De l&rsquo;à-peu-près ou inverser le sens du bridage, c&rsquo;est se garantir un comportement de vol douteux.</p>
+<p><img loading="lazy" src="/posts/2023-02-15/09-controle-bridage.jpg#center" alt="Vérification bridage"  />
+
+&ndash;&gt; Vérification bridage</p>
+<p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="https://gfakite.github.io/posts/2023/01/assemblage-final/">Assemblage final</a></p>
 <h3 id="solutions-3">Solutions</h3>
 <ul>
 <li>Remesurer le bridage</li>
@@ -911,7 +915,7 @@
 <p><img loading="lazy" src="/posts/2023-01-11/02-poignees.png#center" alt="Nombre de points d&amp;rsquo;attache sur les poignées"  />
 
 &ndash;&gt; Nombre de points d&rsquo;attache sur les poignées</p>
-<h2 id="plan">Plan</h2>
+<h2 id="plan-de-la-voile">Plan de la voile</h2>
 <p>Confection basée sur le plan <em>Essentials</em> de Spencer Watson:</p>
 <ul>
 <li>PDF: <a href="/posts/2023-01-11/03-essentials.pdf">Essentials S</a></li>
@@ -939,6 +943,8 @@ Les téméraires des motifs et panneaux peuvent se lancer:</p>
 <p><img loading="lazy" src="/posts/2023-01-11/06-trame.png#center" alt="Orientation des panneaux"  />
 
 &ndash;&gt; Orientation des panneaux</p>
+<h2 id="plan-de-bridage">Plan de bridage</h2>
+<p>Etape détaillée ultérieurement dans la construction (confer page: <a href="https://gfakite.github.io/posts/2023/01/bridage-traditionnel/">Bridage traditionnel</a>)</p>
 <h2 id="impression-du-plan-à-léchelle-11">Impression du plan à l&rsquo;échelle 1:1</h2>
 <p>Le plan est imprimable en format paysage sur 9 pages A3</p>
 <p><img loading="lazy" src="/posts/2023-01-11/07-impression.png#center" alt="Taille 100%"  />
@@ -965,18 +971,18 @@ Les téméraires des motifs et panneaux peuvent se lancer:</p>
       <pubDate>Sat, 31 Dec 2022 14:47:29 +0100</pubDate>
       
       <guid>https://gfakite.github.io/about/</guid>
-      <description>Rien d&amp;rsquo;extravaguant, juste quelques contenus pour comprendre comment en fabriquer un cerf-volant 4 lignes, partager des focus de construction, etc.
-Comédie musicale Mary Poppins Let&amp;rsquo;s Go Fly a Kite*
-Allusion à l&amp;rsquo;Acte II de Mary Poppins qu&amp;rsquo;on peut traduire en Laissons-le s&amp;rsquo;envoler (le cerf-volant). Source: wikipedia EN
-Éléments de contexte en français:
+      <description>Rien d&amp;rsquo;extravaguant, juste quelques contenus pour comprendre comment en fabriquer un cerf-volant 4 lignes, partager des focus de construction, publier des courtes expériences de vol, etc.
+Comédie musicale Mary Poppins Let&amp;rsquo;s Go Fly a Kite
+Succincte allusion à l&amp;rsquo;Acte II de Mary Poppins qu&amp;rsquo;on peut traduire en &amp;ldquo;Laissons-le s&amp;rsquo;envoler&amp;rdquo; (le cerf-volant). Source: wikipedia EN
+Éléments de contexte de la comédie musicale:
 Terrifiés par leur nouvelle gouvernante, les enfants s&amp;rsquo;enfuient dans le parc et retrouvent leur ami Bert, qui les encourage et qui aide Michael à diriger un cerf volant (Let&amp;rsquo;s Go Fly a Kite)</description>
-      <content:encoded><![CDATA[<p>Rien d&rsquo;extravaguant, juste quelques contenus pour comprendre comment en fabriquer un cerf-volant 4 lignes, partager des focus de construction, etc.</p>
+      <content:encoded><![CDATA[<p>Rien d&rsquo;extravaguant, juste quelques contenus pour comprendre comment en fabriquer un cerf-volant 4 lignes, partager des focus de construction, publier des courtes expériences de vol, etc.</p>
 <h2 id="comédie-musicale-mary-poppins">Comédie musicale Mary Poppins</h2>
 <blockquote>
-<p>Let&rsquo;s Go Fly a Kite*</p>
+<p><em>Let&rsquo;s Go Fly a Kite</em></p>
 </blockquote>
-<p>Allusion à l&rsquo;<em>Acte II</em> de Mary Poppins qu&rsquo;on peut traduire en <em>Laissons-le s&rsquo;envoler</em> (le cerf-volant). Source: <a href="https://en.wikipedia.org/wiki/Let%27s_Go_Fly_a_Kite" target="_blank" rel="nofollow noopener noreferrer">wikipedia EN</a></p>
-<p>Éléments de contexte en français:</p>
+<p>Succincte allusion à l&rsquo;<em>Acte II</em> de Mary Poppins qu&rsquo;on peut traduire en &ldquo;<em>Laissons-le s&rsquo;envoler</em>&rdquo; (le cerf-volant). Source: <a href="https://en.wikipedia.org/wiki/Let%27s_Go_Fly_a_Kite" target="_blank" rel="nofollow noopener noreferrer">wikipedia EN</a></p>
+<p>Éléments de contexte de la comédie musicale:</p>
 <blockquote>
 <p>Terrifiés par leur nouvelle gouvernante, les enfants s&rsquo;enfuient dans le parc et retrouvent leur ami Bert, qui les encourage et qui aide Michael à diriger un cerf volant (<em>Let&rsquo;s Go Fly a Kite</em>)</p>
 </blockquote>
@@ -988,11 +994,12 @@ Terrifiés par leur nouvelle gouvernante, les enfants s&amp;rsquo;enfuient dans 
 
 <h3 id="traduction-littérale">Traduction littérale</h3>
 <p>En anglais, <em>&ldquo;Go fly a kite&rdquo;</em> prononcé avec une intonation condescendante se traduit en <em>&ldquo;Va jouer aux billes&rdquo;</em></p>
+<h2 id="famille-doe">Famille Doe</h2>
+<p>Kite Doe est clin d&rsquo;oeil à <a href="https://fr.wikipedia.org/wiki/John_Doe" target="_blank" rel="nofollow noopener noreferrer">John Doe</a></p>
 <h2 id="en-synthèse">En synthèse</h2>
 <p>Un site inconnu avec des contenus déréférencés</p>
 <p>Une poussière perdue dans l&rsquo;InterWebSpace</p>
 <p>Sans prétention aucune</p>
-<p>Kite Doe</p>
 
   
 
