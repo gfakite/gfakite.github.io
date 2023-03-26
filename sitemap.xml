@@ -3,47 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gfakite.github.io/tags/airbow/</loc>
-    <lastmod>2023-03-20T00:00:01+01:00</lastmod>
+    <lastmod>2023-03-26T08:00:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gfakite.github.io/series/airbow/</loc>
-    <lastmod>2023-03-20T00:00:01+01:00</lastmod>
+    <lastmod>2023-03-26T08:00:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gfakite.github.io/categories/airbow/</loc>
-    <lastmod>2023-03-20T00:00:01+01:00</lastmod>
+    <lastmod>2023-03-26T08:00:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/posts/2023/03/airbow-suite-du-chantier/</loc>
+    <lastmod>2023-03-26T08:00:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/posts/</loc>
+    <lastmod>2023-03-26T08:00:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/tags/voile-tendue/</loc>
+    <lastmod>2023-03-26T08:00:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gfakite.github.io/posts/2023/03/airbow-videocassette/</loc>
     <lastmod>2023-03-20T00:00:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/posts/</loc>
-    <lastmod>2023-03-20T00:00:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/tags/</loc>
-    <lastmod>2023-03-20T00:00:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/archives/</loc>
-    <lastmod>2023-03-17T12:55:51+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/categories/</loc>
-    <lastmod>2023-03-17T12:55:51+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/series/</loc>
-    <lastmod>2023-03-17T12:55:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -59,16 +49,6 @@
   </url><url>
     <loc>https://gfakite.github.io/posts/2023/03/airbow-projet-n3/</loc>
     <lastmod>2023-03-15T00:00:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/tags/voile-tendue/</loc>
-    <lastmod>2023-03-15T00:00:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/</loc>
-    <lastmod>2023-03-03T12:55:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -192,12 +172,38 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gfakite.github.io/about/</loc>
-    <lastmod>2022-12-31T14:47:29+01:00</lastmod>
+    <loc>https://gfakite.github.io/categories/</loc>
+    <lastmod>2023-01-05T13:01:29+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/series/</loc>
+    <lastmod>2023-01-04T05:01:29+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gfakite.github.io/search/</loc>
+    <lastmod>2023-01-03T00:23:29+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/tags/</loc>
+    <lastmod>2023-01-02T14:47:29+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/archives/</loc>
+    <lastmod>2023-01-01T14:47:29+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/</loc>
+    <lastmod>2023-01-01T05:01:29+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/about/</loc>
+    <lastmod>2022-12-31T14:47:29+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
