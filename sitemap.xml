@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gfakite.github.io/series/butterfly/</loc>
+    <lastmod>2023-04-15T12:13:07+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/categories/butterfly/</loc>
+    <lastmod>2023-04-15T12:13:07+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/tags/construction/</loc>
+    <lastmod>2023-04-15T12:13:07+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/posts/</loc>
+    <lastmod>2023-04-15T12:13:07+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/tags/technique/</loc>
+    <lastmod>2023-04-15T12:13:07+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/posts/2023/04/ventilation-essentials-v/</loc>
+    <lastmod>2023-04-15T12:13:07+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://gfakite.github.io/tags/airbow/</loc>
     <lastmod>2023-03-26T08:00:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,11 +52,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gfakite.github.io/posts/</loc>
-    <lastmod>2023-03-26T08:00:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://gfakite.github.io/tags/voile-tendue/</loc>
     <lastmod>2023-03-26T08:00:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,6 +59,16 @@
   </url><url>
     <loc>https://gfakite.github.io/posts/2023/03/airbow-videocassette/</loc>
     <lastmod>2023-03-20T00:00:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/series/mister-t/</loc>
+    <lastmod>2023-03-16T00:00:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/categories/mister-t/</loc>
+    <lastmod>2023-03-16T00:00:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -62,37 +97,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gfakite.github.io/series/mister-t/</loc>
-    <lastmod>2023-02-28T00:01:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/categories/mister-t/</loc>
-    <lastmod>2023-02-28T00:01:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/series/butterfly/</loc>
-    <lastmod>2023-02-15T05:13:07+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/categories/butterfly/</loc>
-    <lastmod>2023-02-15T05:13:07+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</loc>
-    <lastmod>2023-02-15T05:13:07+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/tags/construction/</loc>
-    <lastmod>2023-02-15T05:13:07+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/tags/technique/</loc>
     <lastmod>2023-02-15T05:13:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
