@@ -6,11 +6,11 @@
     <description>Recent content in tuto on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0000</lastBuildDate><atom:link href="https://gfakite.github.io/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assemblage final</title>
       <link>https://gfakite.github.io/posts/2023/01/assemblage-final/</link>
-      <pubDate>Tue, 31 Jan 2023 05:13:07 +0000</pubDate>
+      <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
@@ -49,7 +49,7 @@
     <item>
       <title>Bridage traditionnel</title>
       <link>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</link>
-      <pubDate>Sun, 29 Jan 2023 06:13:07 +0000</pubDate>
+      <pubDate>Sun, 29 Jan 2023 06:13:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</guid>
       <description>Fait de maintenir une partie, une voile, avec des fils</description>
@@ -155,12 +155,12 @@
     <item>
       <title>Collage, trous et embouts</title>
       <link>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</link>
-      <pubDate>Mon, 23 Jan 2023 02:13:07 +0000</pubDate>
+      <pubDate>Mon, 23 Jan 2023 15:23:05 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</guid>
-      <description>Assemblage de la barre centrale, trous dans le dacron et bride sur les embouts de barre</description>
+      <description>Assemblage de barre du bord d&amp;#39;attaque, trous dans le dacron et bride sur les embouts de barre</description>
       <content:encoded><![CDATA[<h2 id="barre-centrale">Barre centrale</h2>
-<p>Élément à ajuster avant collage des raccords. Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités</p>
+<p>Élément à ajuster avant collage des raccords internes de la barre du bord d&rsquo;attaque. Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités</p>
 <p><img loading="lazy" src="/posts/2023-01-23/01-barre-centrale.jpg#center" alt="Détail des 5 barres du cerf-volant"  />
 
 &ndash;&gt; Détail des 5 barres du cerf-volant</p>
@@ -205,7 +205,7 @@
     <item>
       <title>Bord de fuite</title>
       <link>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</link>
-      <pubDate>Sat, 21 Jan 2023 01:13:07 +0000</pubDate>
+      <pubDate>Sat, 21 Jan 2023 01:13:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</guid>
       <description>Il est soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant 4 lignes, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
@@ -260,7 +260,7 @@
     <item>
       <title>Renforts</title>
       <link>https://gfakite.github.io/posts/2023/01/renforts/</link>
-      <pubDate>Thu, 19 Jan 2023 00:13:07 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 12:13:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/renforts/</guid>
       <description>Assemblage de pièces en dacron pour protéger la voile</description>
@@ -313,7 +313,7 @@
     <item>
       <title>Bord d&#39;attaque</title>
       <link>https://gfakite.github.io/posts/2023/01/bord-dattaque/</link>
-      <pubDate>Tue, 17 Jan 2023 18:43:17 +0000</pubDate>
+      <pubDate>Tue, 17 Jan 2023 19:43:17 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/bord-dattaque/</guid>
       <description>Partie avant d&amp;#39;un profil aérodynamique. Sur une voile de cerf-volant, il fait face au vent</description>
@@ -343,7 +343,7 @@
     <item>
       <title>Voile et moustiquaire</title>
       <link>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</link>
-      <pubDate>Sun, 15 Jan 2023 19:03:07 +0000</pubDate>
+      <pubDate>Sun, 15 Jan 2023 09:53:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</guid>
       <description>Une image vaut mieux qu&amp;#39;un long discours</description>
@@ -386,7 +386,7 @@
     <item>
       <title>Outils et fournitures</title>
       <link>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</link>
-      <pubDate>Fri, 13 Jan 2023 02:24:52 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 02:24:52 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</guid>
       <description>Quelques outils et maières premières pour cette réalisation</description>
@@ -506,7 +506,7 @@
     <item>
       <title>Introduction et plan</title>
       <link>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</link>
-      <pubDate>Wed, 11 Jan 2023 11:13:07 +0000</pubDate>
+      <pubDate>Wed, 11 Jan 2023 11:08:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</guid>
       <description>Modeste assemblage de pages, de textes et d&amp;#39;images. Travail d&amp;#39;amateur sans prétentions aucune</description>
