@@ -6,7 +6,95 @@
     <description>Recent content in posts on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 15 Apr 2023 22:38:03 +0200</lastBuildDate><atom:link href="https://gfakite.github.io/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 05:13:07 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Revo</title>
+      <link>https://gfakite.github.io/posts/2023/05/mini-revo/</link>
+      <pubDate>Thu, 11 May 2023 05:13:07 +0100</pubDate>
+      
+      <guid>https://gfakite.github.io/posts/2023/05/mini-revo/</guid>
+      <description>Un cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
+      <content:encoded><![CDATA[<p>Petit Révolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan <em>Revo 1.5</em> d&rsquo;<em>Yves Ganne</em> (Source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
+<p>Exercice de style, en miniature, pour satisfaire une demande insistante. Il est prévu et assumé que cette taille nécessite beaucoup de vent pour s&rsquo;exprimer. A l&rsquo;inverse d&rsquo;un Revo 1.5, ce <em>modèle réduit</em> a du potentiel pour être versatile (limite instable) en vol.</p>
+<h1 id="caractéristiques-communes">Caractéristiques communes</h1>
+<p>Mini Revo partage les points suivants avec un cerf-volant 4 lignes 1.5:</p>
+<ul>
+<li>Voile en Icarex</li>
+<li>Bord d&rsquo;attaque courbe en Icarex avec renforts en Dacron</li>
+<li>Moustiquaire en filet/mesh (72 g/m², polyester)</li>
+<li>Renforts Mylar sur le bas</li>
+<li>Bord de fuite avec ourlet double rempli piqué 3 points ZigZag</li>
+</ul>
+<h1 id="différences">Différences</h1>
+<p>Mini Revo fait l&rsquo;objet d&rsquo;ajustements par rapport à un exemplaire au standard 1.5:</p>
+<table>
+<thead>
+<tr>
+<th>Zone</th>
+<th>Mini Revo</th>
+<th>Revo standard 1.5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Barre de bord d&rsquo;attaque</td>
+<td>Jonc fibre de verre 4 mm</td>
+<td>Tube carbone 8 mm</td>
+</tr>
+<tr>
+<td>Barre verticale</td>
+<td>Jonc fibre de verre 2,5 mm</td>
+<td>Tube carbone 8 mm</td>
+</tr>
+<tr>
+<td>Fixation &ndash;&gt; voile / barre</td>
+<td>Sangle cousues et scratch</td>
+<td>Elastique</td>
+</tr>
+<tr>
+<td>Fixation &ndash;&gt; barre / bridage</td>
+<td>Sangles cousues</td>
+<td>Bouchons 4 lignes 8 mm</td>
+</tr>
+</tbody>
+</table>
+<h1 id="bridage">Bridage</h1>
+<p>Pour satisfaire les exigences d&rsquo;utilisation, deux bridages sont prévus sur Mini Revo:</p>
+<ul>
+<li>
+<p>&ldquo;<em>Traditionnel</em>&rdquo; 4 lignes</p>
+</li>
+<li>
+<p>4-2 &ndash;&gt; bridage pour piloter un 4 lignes avec 2 lignes</p>
+<p>Source: <a href="http://www.ciel-libre.nnx.com/brid4-2.htm" target="_blank" rel="nofollow noopener noreferrer">ciel-libre.nnx.com</a></p>
+</li>
+</ul>
+<h1 id="détail-du-bridage-4-2">Détail du bridage <em>&ldquo;4-2&rdquo;</em></h1>
+<p>Les 4 points de fixation du bridage sur la voile sont: <strong>B1</strong>, <strong>B2</strong>, <strong>B3</strong> et <strong>B4</strong>
+<strong>C</strong> est un anneau de 12 mm (ou une petite poulie) pour assurer un coulissement entre <strong>G, C</strong> et <strong>D</strong></p>
+<p><img loading="lazy" src="/posts/2023-05-11/01-bridage-4-2.gif#center" alt="Bridage 4-2"  />
+
+&ndash;&gt; Bridage 4-2</p>
+<h2 id="mesures">Mesures</h2>
+<ul>
+<li><strong>B1-C</strong> &ndash;&gt; <strong>B2-C</strong>: 141 cm</li>
+<li><strong>B'3-B0</strong> &ndash;&gt; <strong>B'4-B0</strong>: 115 cm</li>
+<li><strong>G &ndash;&gt; C &ndash;&gt; D</strong>: 275 cm</li>
+<li><strong>B0 &ndash;&gt; C</strong>: 10 cm
+À ajuster pour que <strong>B'3-G</strong> et <strong>B'4-G</strong> soient légèrement tendues</li>
+<li><strong>B'3-G</strong> &ndash;&gt; <strong>B'4-D</strong>: 257 cm (symétrie à respecter)</li>
+</ul>
+<h2 id="réglages-et-actions-sur-les-lignes">Réglages et actions sur les lignes</h2>
+<ul>
+<li><strong>B'3-G</strong> et <strong>B'4-D</strong> influent sur l&rsquo;incidence de l&rsquo;aile quand on tire sur la ligne <strong>G</strong>auche ou <strong>D</strong>roite</li>
+<li>Selon la force du vent, <strong>B'3-G</strong> et <strong>B'4-D</strong> sont à ajuster de +/- de 3 cm (modification incidence voile)</li>
+<li>Action de tirer sur les lignes <strong>G</strong>auche et <strong>D</strong>roite &ndash;&gt; fait sortir le cerf-volant de virage ou d&rsquo;une vrille (comme pour un combattant)</li>
+<li>Tirer rapidement sur les deux lignes permet de faire: un stop, une marche arrière en descente ou un atterissage &ldquo;<em>normal</em>&rdquo;</li>
+<li>Si le cerf-volant tombe côté &ldquo;<em>bord d&rsquo;attaque</em>&rdquo; (sur le nez), tirer sur un fil pour le faire pivoter en &ldquo;<em>marche arrière</em>&rdquo; (base du pilotage au sol / procédure de décollage sur un 4 lignes)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Essentials Vented</title>
       <link>https://gfakite.github.io/posts/2023/04/essentials-vented/</link>
