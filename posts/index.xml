@@ -15,7 +15,10 @@
       <guid>https://gfakite.github.io/posts/2023/05/mini-revo/</guid>
       <description>Un cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
       <content:encoded><![CDATA[<p>Petit Révolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan <em>Revo 1.5</em> d&rsquo;<em>Yves Ganne</em> (Source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
-<p>Exercice de style, en miniature, pour satisfaire une demande insistante. Il est prévu et assumé que cette taille nécessite beaucoup de vent pour s&rsquo;exprimer. A l&rsquo;inverse d&rsquo;un Revo 1.5, ce <em>modèle réduit</em> a du potentiel pour être versatile (limite instable) en vol.</p>
+<p>Exercice de style, en miniature, pour satisfaire une demande insistante. Il est prévu et assumé que cette taille nécessite beaucoup de vent pour s&rsquo;exprimer. A l&rsquo;inverse d&rsquo;un Revo 1.5, ce modèle réduit a du potentiel pour être versatile (limite instable) en vol.</p>
+<p><img loading="lazy" src="/posts/2023-05-11/01-mini-revo.jpg#center" alt="Mini Revo avec sa mini housse"  />
+
+&ndash;&gt; Mini Revo avec sa mini housse</p>
 <h1 id="caractéristiques-communes">Caractéristiques communes</h1>
 <p>Mini Revo partage les points suivants avec un cerf-volant 4 lignes 1.5:</p>
 <ul>
@@ -62,7 +65,7 @@
 <p>Pour satisfaire les exigences d&rsquo;utilisation, deux bridages sont prévus sur Mini Revo:</p>
 <ul>
 <li>
-<p>&ldquo;<em>Traditionnel</em>&rdquo; 4 lignes</p>
+<p>Traditionnel 4 lignes</p>
 </li>
 <li>
 <p>4-2 &ndash;&gt; bridage pour piloter un 4 lignes avec 2 lignes</p>
@@ -71,26 +74,43 @@
 </ul>
 <h1 id="détail-du-bridage-4-2">Détail du bridage <em>&ldquo;4-2&rdquo;</em></h1>
 <p>Les 4 points de fixation du bridage sur la voile sont: <strong>B1</strong>, <strong>B2</strong>, <strong>B3</strong> et <strong>B4</strong></p>
-<p><strong>C</strong> est un anneau de 12 mm (ou une petite poulie) pour assurer un coulissement entre <strong>G, C</strong> et <strong>D</strong></p>
-<p><img loading="lazy" src="/posts/2023-05-11/01-bridage-4-2.gif#center" alt="Bridage 4-2"  />
+<p><strong>C</strong> est un anneau de 12 mm dans lequel passe le bridage de <strong>G</strong> vers <strong>D</strong> (coulissement via <strong>C</strong>)</p>
+<p><img loading="lazy" src="/posts/2023-05-11/02-bridage-4-2.png#center" alt="Bridage 4-2"  />
 
 &ndash;&gt; Bridage 4-2</p>
 <h2 id="mesures">Mesures</h2>
+<p>Les mesures sont pour un Révolution 1.5 (taille standard):</p>
 <ul>
-<li><strong>B1-C</strong> &ndash;&gt; <strong>B2-C</strong>: 141 cm</li>
-<li><strong>B'3-B0</strong> &ndash;&gt; <strong>B'4-B0</strong>: 115 cm</li>
-<li><strong>G &ndash;&gt; C &ndash;&gt; D</strong>: 275 cm</li>
-<li><strong>B0 &ndash;&gt; C</strong>: 10 cm
-À ajuster pour que <strong>B'3-G</strong> et <strong>B'4-G</strong> soient légèrement tendues</li>
-<li><strong>B'3-G</strong> &ndash;&gt; <strong>B'4-D</strong>: 257 cm (symétrie à respecter)</li>
+<li>
+<p><strong>B1-C</strong> &ndash;&gt; <strong>B2-C</strong>: 141 cm</p>
+</li>
+<li>
+<p><strong>B'3-B0</strong> &ndash;&gt; <strong>B'4-B0</strong>: 115 cm</p>
+</li>
+<li>
+<p><strong>G &ndash;&gt; C &ndash;&gt; D</strong>: 275 cm</p>
+</li>
+<li>
+<p><strong>B0 &ndash;&gt; C</strong>: 10 cm</p>
+<p>À ajuster pour que <strong>B'3-G</strong> et <strong>B'4-G</strong> soient légèrement tendues</p>
+</li>
+<li>
+<p><strong>B'3-G</strong> &ndash;&gt; <strong>B'4-D</strong>: 257 cm (symétrie à respecter)</p>
+</li>
 </ul>
 <h2 id="réglages-et-actions-sur-les-lignes">Réglages et actions sur les lignes</h2>
 <ul>
 <li><strong>B'3-G</strong> et <strong>B'4-D</strong> influent sur l&rsquo;incidence de l&rsquo;aile quand on tire sur la ligne <strong>G</strong>auche ou <strong>D</strong>roite</li>
 <li>Selon la force du vent, <strong>B'3-G</strong> et <strong>B'4-D</strong> sont à ajuster de +/- de 3 cm (modification incidence voile)</li>
-<li>Action de tirer sur les lignes <strong>G</strong>auche et <strong>D</strong>roite &ndash;&gt; fait sortir le cerf-volant de virage ou d&rsquo;une vrille (comme pour un combattant)</li>
-<li>Tirer rapidement sur les deux lignes permet de faire: un stop, une marche arrière en descente ou un atterissage &ldquo;<em>normal</em>&rdquo;</li>
-<li>Si le cerf-volant tombe côté &ldquo;<em>bord d&rsquo;attaque</em>&rdquo; (sur le nez), tirer sur un fil pour le faire pivoter en &ldquo;<em>marche arrière</em>&rdquo; (base du pilotage au sol / procédure de décollage sur un 4 lignes)</li>
+<li>L&rsquo;action de tirer sur les lignes <strong>G</strong>auche et <strong>D</strong>roite fait sortir le cerf-volant de virage ou d&rsquo;une vrille (comme pour un combattant)</li>
+<li>Tirer rapidement sur les deux lignes permet de faire:
+<ul>
+<li>un stop</li>
+<li>une marche arrière en descente</li>
+<li>un atterissage normal</li>
+</ul>
+</li>
+<li>Si le cerf-volant tombe côté bord d&rsquo;attaque, tirer sur un fil (gauche ou droite) pour le faire pivoter en marche arrière (base du pilotage au sol = procédure de décollage sur un 4 lignes)</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -387,7 +407,7 @@
 
 &ndash;&gt; Plan de la voile</p>
 <h2 id="panneaux">Panneaux</h2>
-<p>Succinctes mesures des panneaux pour les découpes. Il y a 4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, assemblage et découpe délicats</p>
+<p>Succinctes mesures des panneaux pour les découpes. Il y a 4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, et assemblage délicats</p>
 <p><img loading="lazy" src="/posts/2023-03-15/03_panneaux.gif#center" alt="Plan des panneaux"  />
 
 &ndash;&gt; Plan des panneaux</p>
@@ -400,12 +420,12 @@
 <li>Petite section de 35 cm &ndash;&gt; rayon de 40,28 cm</li>
 <li>Grande section de 81,5 cm &ndash;&gt; rayon de 209,57 cm</li>
 </ul>
-<p>Outils rudimentaires mais efficaces pour tracer les arcs de cercle (respectivement 40 cm et 2 m).</p>
+<p>Outil rudimentaire mais efficace pour tracer les arcs de cercle (respectivement 40 cm et 2 m).</p>
 <p><img loading="lazy" src="/posts/2023-03-15/05_sphere.jpg#center" alt="Une ficelle et un pastel"  />
 
 &ndash;&gt; Une ficelle et un pastel</p>
 <h2 id="voile-chiffon">Voile chiffon</h2>
-<p>En l&rsquo;état, le style est timide. La suite avec un bridage, 10 barres et du vent.</p>
+<p>En l&rsquo;état, le style est timide. La suite avec un bridage, 9 barres et du vent.</p>
 <p><img loading="lazy" src="/posts/2023-03-15/06_voile-chiffon.jpg#center" alt="Voile sans barres"  />
 
 &ndash;&gt; Voile sans barres</p>
