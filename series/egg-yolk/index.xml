@@ -16,33 +16,28 @@
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<h2 id="alignement">Alignement</h2>
 <p>3 vérifications à effectuer sur le cerf-volant:</p>
-<ol>
-<li>Contrôle de l&rsquo;alignement du bridage (suspendu via les points de tire du haut)</li>
-</ol>
-<p><img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#center" alt="Alignement OK = bridage conforme"  />
+<ul>
+<li>Contrôle de l&rsquo;alignement du bridage (suspendu via les points de tire du haut)
+<img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#center" alt="Alignement OK = bridage conforme"  />
 
-&ndash;&gt; Alignement OK = bridage conforme</p>
-<p><img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO (problème de bridage)"  />
+&ndash;&gt; Alignement OK = bridage conforme
+<img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO (problème de bridage)"  />
 
-&ndash;&gt; Alignement KO (problème de bridage)</p>
-<ol start="2">
-<li>Alignement entre les barres et les renforts</li>
-</ol>
-<p><img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
+&ndash;&gt; Alignement KO (problème de bridage)</li>
+<li>Alignement entre les barres et les renforts
+<img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
 
-&ndash;&gt; Alignement OK</p>
-<ol start="3">
-<li>Contrôle des plis sur la voile</li>
-</ol>
-<p><img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="Pas de plis visibles"  />
+&ndash;&gt; Alignement OK</li>
+<li>Contrôle des plis sur la voile
+<img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="Pas de plis visibles"  />
 
-&ndash;&gt; Pas de plis visibles</p>
+&ndash;&gt; Pas de plis visibles</li>
+</ul>
 <h2 id="rendu-final">Rendu final</h2>
 <p><img loading="lazy" src="/posts/2023-01-31/01-recto.jpg#center" alt="Recto et verso de la voile"  />
 
 &ndash;&gt; Recto et verso de la voile</p>
-<p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler</p>
-<p><a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
+<p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler &ndash;&gt; <a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
 ]]></content:encoded>
     </item>
     
@@ -137,18 +132,18 @@
 <p><img loading="lazy" src="/posts/2023-01-25/06-bouchon-bas.jpg#center" alt="Les élastiques sont en place"  />
 
 &ndash;&gt; Les élastiques sont en place</p>
-<p><img loading="lazy" src="/posts/2023-01-25/07-bouchon-bas.jpg#center" alt="Noeud de capucin avec le fil en dyneema/spectra"  />
+<p><img loading="lazy" src="/posts/2023-01-25/07-bouchon-bas.jpg#center" alt="Nœud de capucin avec le fil en dyneema/spectra"  />
 
-&ndash;&gt; Noeud de capucin avec le fil en dyneema/spectra</p>
+&ndash;&gt; Nœud de capucin avec le fil en dyneema/spectra</p>
 <p><img loading="lazy" src="/posts/2023-01-25/08-bouchon-bas.jpg#center" alt="Finition sur quelques cm"  />
 
 &ndash;&gt; Finition sur quelques cm</p>
 <p><img loading="lazy" src="/posts/2023-01-25/09-bouchon-bas.jpg#center" alt="On tire l&amp;rsquo;élastique pour le rentrer"  />
 
 &ndash;&gt; On tire l&rsquo;élastique pour le rentrer</p>
-<p><img loading="lazy" src="/posts/2023-01-25/10-bouchon-bas.jpg#center" alt="Noeud invisible"  />
+<p><img loading="lazy" src="/posts/2023-01-25/10-bouchon-bas.jpg#center" alt="Nœud invisible"  />
 
-&ndash;&gt; Noeud invisible</p>
+&ndash;&gt; Nœud invisible</p>
 ]]></content:encoded>
     </item>
     
@@ -273,7 +268,7 @@
 </li>
 <li>
 <p>Verso = <strong>sous le vent</strong></p>
-<p>A l&rsquo;inverse <em>Sous le vent</em>, veut dire que la face de la voile est du côté opposé d&rsquo;où le vent souffle</p>
+<p>À l&rsquo;inverse <em>Sous le vent</em>, veut dire que la face de la voile est du côté opposé d&rsquo;où le vent souffle</p>
 </li>
 </ul>
 <h2 id="détail-des-renforts">Détail des renforts</h2>
@@ -392,82 +387,39 @@
       <description>Quelques outils et maières premières pour cette réalisation</description>
       <content:encoded><![CDATA[<h2 id="liste-des-outils">Liste des outils</h2>
 <ul>
-<li>
-<p>Machine à coudre</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Point droit</td>
-<td><img loading="lazy" src="/posts/2023-01-13/01-droit.png#center" alt="Illustration: point droit"  />
-</td>
-</tr>
-<tr>
-<td>3 points zigzag</td>
-<td><img loading="lazy" src="/posts/2023-01-13/02-zigzag.png#center" alt="Illustration: 3 points zigzag"  />
-</td>
-</tr>
-</tbody>
-</table>
+<li>Machine à coudre:
+<ul>
+<li>Point droit</li>
+<li>3 points zigzag</li>
+</ul>
 </li>
-<li>
-<p>1 règle plate 1 m</p>
-</li>
-<li>
-<p>2 paire de ciseaux</p>
+<li>1 règle plate 1 m</li>
+<li>2 paires de ciseaux:
 <ul>
 <li>une grande (longues découpes)</li>
 <li>une petite de broderie (finitions)</li>
 </ul>
 </li>
-<li>
-<p>1 pince à linge</p>
-</li>
-<li>
-<p>1 crayon à papier</p>
-</li>
-<li>
-<p>1 feutre</p>
-</li>
-<li>
-<p>Scotch de peintre</p>
-</li>
-<li>
-<p>Fil dyneema ou spectra fin (≈ 40 lbs, 3 m)</p>
-</li>
-<li>
-<p>1 petit forêt métal</p>
-</li>
-<li>
-<p>1 fer à souder (500W min) avec panne en pointe</p>
-<p>Ou un <del>honteux bidouillage</del> bricolage: aguille, mèche coton, pot en verre et pétrole désaromatisé
-<img loading="lazy" src="/posts/2023-01-13/03-bricolage.jpg#center" alt="Bricolage lampe à pétrole"  />
-</p>
-</li>
-<li>
-<p>1 surface plane</p>
-</li>
-<li>
-<p>Obligatoire: du temps et beaucoup de patience</p>
-</li>
+<li>1 pince à linge</li>
+<li>1 crayon à papier</li>
+<li>1 feutre</li>
+<li>Scotch de peintre</li>
+<li>Fil dyneema ou spectra fin (≈ 40 lbs, 3 m)</li>
+<li>1 petit forêt métal</li>
 </ul>
+<p>Pour le confort du travail: 1 surface plane, beaucoup de temps et de patience</p>
 <p>Si besoin de recouper une barre en carbone:</p>
 <ul>
 <li>Une scie à métaux (lame carbone ou sinon métaux)</li>
 </ul>
 <h2 id="les-fournitures">Les fournitures</h2>
-<p><img loading="lazy" src="/posts/2023-01-13/04-colis.jpg#center" alt="Long colis"  />
+<p><img loading="lazy" src="/posts/2023-01-13/01-colis.jpg#center" alt="Long colis"  />
 
 &ndash;&gt; Long colis</p>
-<p><img loading="lazy" src="/posts/2023-01-13/05-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/02-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
 
 &ndash;&gt; Intérieur du colis: détail des fournitures</p>
-<h2 id="liste-des-pièces">Liste des pièces:</h2>
+<h2 id="liste-des-pièces">Liste des pièces</h2>
 <ul>
 <li>3 m x 1,50 m d&rsquo;Icarex PC31</li>
 <li>4 m de dacron noir, 5 cm de large</li>
@@ -481,10 +433,10 @@
 <li>Facultatif: Bande de dacron ou de mylar &ndash;&gt; renfort au niveau des barres verticales</li>
 <li>Facultatif: Rondelles de maintien d&rsquo;élastique (pas trouvé) &ndash;&gt; <a href="https://watty.us/3d-printing/2022/3/13/bungee-washers" target="_blank" rel="nofollow noopener noreferrer">Bungee Washer</a></li>
 </ul>
-<p><img loading="lazy" src="/posts/2023-01-13/06-fournitures-legende.jpg#center" alt="Légende détaillée des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/03-fournitures-legende.jpg#center" alt="Légende détaillée des fournitures"  />
 
 &ndash;&gt; Légende détaillée des fournitures</p>
-<h2 id="absents-des-photos">Absents des photos:</h2>
+<h2 id="absents-des-photos">Absents des photos</h2>
 <ul>
 <li>
 <p>Époxy bi-composant (pour coller les 2 raccords de carbone)</p>
@@ -493,7 +445,7 @@
 <p>Scotch double-face 6 mm</p>
 </li>
 <li>
-<p>Lacet plat 4 mm &ndash;&gt; pas de renfort kevlar sensible aux UV.</p>
+<p>Lacet plat 4 mm &ndash;&gt; pas de renfort kevlar sensible aux UV</p>
 <p>Ex: recyclage d&rsquo;un cordon <em><strong>plat</strong></em> de maillot de bain</p>
 </li>
 <li>
@@ -509,8 +461,9 @@
       <pubDate>Wed, 11 Jan 2023 11:08:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</guid>
-      <description>Modeste assemblage de pages, de textes et d&amp;#39;images. Travail d&amp;#39;amateur sans prétentions aucune</description>
-      <content:encoded><![CDATA[<p>Construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type révolution. Ce modèle est de type <em>pilotable</em> à 4 lignes (quad lines kite)</p>
+      <description>Modeste assemblage de pages, de textes et d&amp;#39;images</description>
+      <content:encoded><![CDATA[<p>Travail d&rsquo;amateur sans prétentions aucune: construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type Révolution 1.5</p>
+<p>Ce modèle est de type <em>pilotable</em> à 4 lignes (quad lines stunt kite)</p>
 <h2 id="2-lignes-versus-4-lignes">2 lignes versus 4 lignes</h2>
 <p>Contrairement à un classique cerf-volant 2 lignes <em>Delta</em>, le 4 lignes <em>Révolution</em> offre plus latitude de manœuvres aériennes: vol stationnaire, marche arrière, etc.</p>
 <p><img loading="lazy" src="/posts/2023-01-11/01-pilotage.png#center" alt="2 lignes versus 4 ligne"  />

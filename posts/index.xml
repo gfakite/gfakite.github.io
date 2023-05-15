@@ -81,24 +81,24 @@
 <h2 id="longueurs-de-bridage-pour-un-révolution-15-taille-standard">Longueurs de bridage pour un Révolution 1.5 (taille standard)</h2>
 <ul>
 <li>
-<p><strong>B1 &ndash;&gt; C</strong> et <strong>B2 &ndash;&gt; C</strong>: 141 cm</p>
+<p><strong>B1-C</strong> et <strong>B2-C</strong>: 141 cm</p>
 </li>
 <li>
-<p><strong>B3 &ndash;&gt; B'3</strong> et <strong>B4 &ndash;&gt; B'4</strong>: +/- 3 cm</p>
+<p><strong>B3-B'3</strong> et <strong>B4-B'4</strong>: +/- 3 cm</p>
 <p>À ajuster selon la force du vent (modification incidence voile)</p>
 </li>
 <li>
-<p><strong>B'3 &ndash;&gt; B0</strong> et <strong>B'4 &ndash;&gt; B0</strong>: 115 cm</p>
+<p><strong>B'3-B0</strong> et <strong>B'4-B0</strong>: 115 cm</p>
 </li>
 <li>
-<p><strong>G &ndash;&gt; C &ndash;&gt; D</strong>: 275 cm</p>
+<p><strong>G-C-D</strong>: 275 cm</p>
 </li>
 <li>
-<p><strong>B0 &ndash;&gt; C</strong>: 10 cm</p>
+<p><strong>B0-C</strong>: 10 cm</p>
 <p>À ajuster pour que <strong>B'3-G</strong> et <strong>B'4-G</strong> soient légèrement tendues</p>
 </li>
 <li>
-<p><strong>B'3-G</strong> &ndash;&gt; <strong>B'4-D</strong>: 257 cm (symétrie à respecter)</p>
+<p><strong>B'3-G</strong> et <strong>B'4-D</strong>: 257 cm (symétrie à respecter)</p>
 </li>
 </ul>
 <h2 id="réglages-et-actions-sur-les-lignes">Réglages et actions sur les lignes</h2>
@@ -123,32 +123,75 @@
       <pubDate>Sat, 15 Apr 2023 22:38:03 +0200</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/04/essentials-vented/</guid>
-      <description>Ventilations sur la voile pour qu&amp;#39;elle tolère un vent plus fort</description>
-      <content:encoded><![CDATA[<p>Passage de la version <em>Standard</em> à la <em>Vented</em> pour le cerf-volant Butterfly (plan <em>Essentials</em>) &ndash;&gt; ajout de 2 ventilations sur la voile Standard</p>
-<p><img loading="lazy" src="/posts/2023-04-15/01-essentials-s-et-v.png#center" alt="Essentials Standard à gauche et Vented à droite"  />
+      <description>Versions et ventilation en fonction de la force du vent</description>
+      <content:encoded><![CDATA[<p>Pour s&rsquo;adapter au vent, les plans <em>Essentials</em> de Watty existent en 4 versions:</p>
+<p><img loading="lazy" src="/posts/2023-04-15/01-essentials-versions.png#center" alt="Détail des 4 versions: S, V, XV et XXV"  />
 
-&ndash;&gt; Essentials: <em>Standard</em> et <em>Vented</em></p>
-<p>Détail des zones:</p>
+&ndash;&gt; Détail des 4 versions</p>
+<p>Ces déclinaisons sont données pour les plages de vent suivantes:</p>
+<table>
+<thead>
+<tr>
+<th>Déclinaison</th>
+<th>Version</th>
+<th>Beaufort</th>
+<th>mph</th>
+<th>knots</th>
+<th>km/h</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S</td>
+<td>Standard</td>
+<td>0 - 1</td>
+<td>0 - 7</td>
+<td>0 - 6</td>
+<td>0 - 11</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Vented</td>
+<td>2 - 3</td>
+<td>5 - 12</td>
+<td>4 - 10</td>
+<td>8 - 19</td>
+</tr>
+<tr>
+<td>XV</td>
+<td>Extra Vented</td>
+<td>3 - 4</td>
+<td>10 - 17</td>
+<td>9 - 15</td>
+<td>7 - 27</td>
+</tr>
+<tr>
+<td>XXV</td>
+<td>Double Extra Vented</td>
+<td>4 - 5</td>
+<td>15 - 25</td>
+<td>13 - 21</td>
+<td>24 - 40</td>
+</tr>
+</tbody>
+</table>
+<p>Sur la version <em>XV</em>, les ventilations ont les largeurs suivantes:</p>
 <ul>
-<li>Vert: ajout de 2 ventilations (10 cm de largeur)</li>
-<li>Orange: déconseillé d&rsquo;ajourer au centre et sur les extrémités (contraintes fortes).</li>
-<li>Blanc: envisageable d&rsquo;ajouter d&rsquo;autres bandes de gaze/moustiquaire</li>
+<li>12,5 cm sur l&rsquo;extérieur</li>
+<li>11 cm au milieu</li>
+<li>10 cm sur l&rsquo;intérieur</li>
 </ul>
-<p><img loading="lazy" src="/posts/2023-04-15/02-essentials-s-et-v.png#center" alt="Zones de ventilation"  />
-
-&ndash;&gt; Zones de ventilation</p>
 <p>Le challenge consiste à garder la voile plate et à ne pas exposer de <em>ruban adhésif</em> double-face à l&rsquo;air libre (contact irréversible avec le sable)</p>
-<p><img loading="lazy" src="/posts/2023-04-15/03-cote-intrados.jpg#center" alt="Côté intrados/au vent"  />
+<p><img loading="lazy" src="/posts/2023-04-15/02-cote-intrados.jpg#center" alt="Côté intrados/au vent"  />
 
 &ndash;&gt; Côté au vent</p>
 <p>Ajout d&rsquo;un biais de 6 mm en Icarex pour optimiser l&rsquo;adhérence du double-face</p>
-<p><img loading="lazy" src="/posts/2023-04-15/04-cote-extrados.jpg#center" alt="Côté extrados/sous le vent"  />
+<p><img loading="lazy" src="/posts/2023-04-15/03-cote-extrados.jpg#center" alt="Côté extrados/sous le vent"  />
 
 &ndash;&gt; Sous le vent</p>
-<p><img loading="lazy" src="/posts/2023-04-15/05-butterfly-vented.jpg#center" alt="Butterfly en version Vented"  />
+<p><img loading="lazy" src="/posts/2023-04-15/04-butterfly-vented.jpg#center" alt="Butterfly en version Vented"  />
 
 &ndash;&gt; Butterfly en version Vented</p>
-<p>Rien d&rsquo;extraordinaire au final, juste deux légères modifications pour voler avec un vent plus soutenu</p>
 ]]></content:encoded>
     </item>
     
@@ -177,7 +220,7 @@
 <p><img loading="lazy" src="/posts/2023-03-26/03-guide-central.jpg#center" alt="Guide central de barre verticale"  />
 
 &ndash;&gt; Guide central de barre verticale</p>
-<h2 id="extrémité-barre-verticale-1">Extrémité barre verticale</h2>
+<h2 id="autre-extrémité-de-barre-verticale">Autre extrémité de barre verticale</h2>
 <p>Recyclage de la sangle rouge du <em>porte badge HSBC</em> (souvenir brexit). Fixation vue sur les cerfs-volants de type <a href="https://fr.wikipedia.org/wiki/Rokkaku" target="_blank" rel="nofollow noopener noreferrer">Rokkaku</a>. Ce système de scratch permet d&rsquo;ajuster la tension du jonc carbone de 4 mm</p>
 <p><img loading="lazy" src="/posts/2023-03-26/04-fixation-rokkaku.jpg#center" alt="Fixation par scratch de type Rokkaku"  />
 
@@ -186,7 +229,7 @@
 <p>Travaux en cours, en attente des fournitures pour avancer. 4 mois d&rsquo;attente (au minimum) pour espérer recevoir un tube carbone <em>Sky Shark II <strong>8P</strong> Series</em> de 106,7 cm / 42.0&quot;</p>
 <blockquote>
 <p>C&rsquo;est dans la douleur et l&rsquo;adversité que les âmes se révèlent&hellip;</p>
-<p><em>Masquerouge, tome 8 : mauvais sentiments de Patrick Cothias</em></p>
+<p>Masquerouge, tome 8 : mauvais sentiments de Patrick Cothias</p>
 </blockquote>
 <h2 id="vidéo-airbow-by-benson">Vidéo: Airbow by BENSON</h2>
 <p>Assemblage de photos montées en vidéo pour présenter des focus (bien utiles) du AirBow
@@ -372,18 +415,13 @@
 <h2 id="à-lessai">À l&rsquo;essai</h2>
 <p>Test en cours de tubes Easton Powerflight sur un bord d&rsquo;attaque:</p>
 <ul>
-<li>
-<p>Diamètre interne: 0.246&quot;/6.2 mm</p>
-</li>
-<li>
-<p>Spine 500: 7.3 gr/pouce</p>
-</li>
-<li>
-<p>Longueur: 31&quot;/78,74 cm</p>
-</li>
-<li>
-<p>Description constructeur:</p>
-<p><em>Tube économique et de très bonne qualité pour le tir cible, 3-D, tir nature ou la chasse</em></p>
+<li>Diamètre interne: 0.246&quot;/6.2 mm</li>
+<li>Spine 500: 7.3 gr/pouce</li>
+<li>Longueur: 31&quot;/78,74 cm</li>
+<li>Description constructeur:
+<blockquote>
+<p>Tube économique et de très bonne qualité pour le tir cible, 3-D, tir nature ou la chasse</p>
+</blockquote>
 </li>
 </ul>
 <p><img loading="lazy" src="/posts/2023-03-16/02-easton-powerflight-500.jpg#center" alt="Easton PowerFlight 500"  />
@@ -485,7 +523,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/01-points-trop-serres.jpg#center" alt="Au centre: points trop serrés"  />
 
 &ndash;&gt; Au centre: points trop serrés</p>
-<h3 id="solution">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Espacer les points de 2 mm à 2,5 mm (comme sur la partie droite)</li>
 </ul>
@@ -497,7 +535,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/02-tissus-trop-court_2.jpg#center" alt="Encore trop court"  />
 
 &ndash;&gt; Encore trop court</p>
-<h3 id="solution-1">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Découper avec une marge de sécurité pour pourvoir ajuster au fur et à mesure de la construction</li>
 </ul>
@@ -506,7 +544,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/03-erreur-de-mesure.jpg#center" alt="Coin extérieur"  />
 
 &ndash;&gt; Coin extérieur</p>
-<h3 id="solution-2">Solution</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Faire des vérifications sur le plan échelle 1:1 tout au long de la confection afin de s&rsquo;assurer que les mesures et dimensions sont OK tout au long du process de construction</li>
 <li>Immobiliser le tissu lors de l&rsquo;ajustement</li>
@@ -516,7 +554,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/04-trop-tension-fil.jpg#center" alt="Droite: trop de tension"  />
 
 &ndash;&gt; Droite: trop de tension</p>
-<h3 id="solution-3">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Régler la tension du fil normal/medium</li>
 </ul>
@@ -525,7 +563,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/05-plis.jpg#center" alt="Jolis plis"  />
 
 &ndash;&gt; Jolis plis</p>
-<h3 id="solutions">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Accompagner le tissu avec la machine</li>
 <li>Ne pas tirer le tissu</li>
@@ -546,7 +584,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/06-double-face_2.jpg#center" alt="Double face sur le recto"  />
 
 &ndash;&gt; Double face sur le recto</p>
-<h3 id="solutions-1">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Mettre le moins de double face possible &ndash;&gt; appliqué en pointillé c&rsquo;est mieux qu&rsquo;en continu</li>
 <li>Trouver du double face 3 mm</li>
@@ -556,7 +594,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/07-bourrage-fil.jpg#center" alt="Bourrage fil"  />
 
 &ndash;&gt; Bourrage fil</p>
-<h3 id="solution-4">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Marche arrière à proscrire</li>
 </ul>
@@ -565,7 +603,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/08-trop-epaisseurs.jpg#center" alt="Trop d&amp;rsquo;épaisseurs à coudre"  />
 
 &ndash;&gt; Trop d&rsquo;épaisseurs à coudre</p>
-<h3 id="solutions-2">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Option 1: s&rsquo;arrêter, revoir et refaire la zone à coudre avec moins de dacron</li>
 <li>Option 2: continuer et violenter la machine en l&rsquo;aidant en &ldquo;tournant à la main&rdquo;</li>
@@ -577,7 +615,7 @@
 
 &ndash;&gt; Vérification bridage</p>
 <p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="https://gfakite.github.io/posts/2023/01/assemblage-final/">Assemblage final</a></p>
-<h3 id="solutions-3">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Remesurer le bridage</li>
 <li>Vérifier le sens de montage des brides verticales / horizontales</li>
@@ -587,7 +625,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/10-trop-de-passages.jpg#center" alt="Trop de passages"  />
 
 &ndash;&gt; Trop de passages</p>
-<h3 id="solution-5">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Avant de se lancer, bien repérer le tracé à coudre</li>
 </ul>
@@ -596,7 +634,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/11-coutures-pas-droites.jpg#center" alt="Coutures en vagues"  />
 
 &ndash;&gt; Coutures en vagues</p>
-<h3 id="solution-6">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Lorsque la machine à coudre est en fonctionnement, fixer les repères (vert) plutôt que l&rsquo;aiguille en mouvement (rouge)</li>
 </ul>
@@ -615,33 +653,28 @@
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<h2 id="alignement">Alignement</h2>
 <p>3 vérifications à effectuer sur le cerf-volant:</p>
-<ol>
-<li>Contrôle de l&rsquo;alignement du bridage (suspendu via les points de tire du haut)</li>
-</ol>
-<p><img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#center" alt="Alignement OK = bridage conforme"  />
+<ul>
+<li>Contrôle de l&rsquo;alignement du bridage (suspendu via les points de tire du haut)
+<img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#center" alt="Alignement OK = bridage conforme"  />
 
-&ndash;&gt; Alignement OK = bridage conforme</p>
-<p><img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO (problème de bridage)"  />
+&ndash;&gt; Alignement OK = bridage conforme
+<img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO (problème de bridage)"  />
 
-&ndash;&gt; Alignement KO (problème de bridage)</p>
-<ol start="2">
-<li>Alignement entre les barres et les renforts</li>
-</ol>
-<p><img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
+&ndash;&gt; Alignement KO (problème de bridage)</li>
+<li>Alignement entre les barres et les renforts
+<img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
 
-&ndash;&gt; Alignement OK</p>
-<ol start="3">
-<li>Contrôle des plis sur la voile</li>
-</ol>
-<p><img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="Pas de plis visibles"  />
+&ndash;&gt; Alignement OK</li>
+<li>Contrôle des plis sur la voile
+<img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="Pas de plis visibles"  />
 
-&ndash;&gt; Pas de plis visibles</p>
+&ndash;&gt; Pas de plis visibles</li>
+</ul>
 <h2 id="rendu-final">Rendu final</h2>
 <p><img loading="lazy" src="/posts/2023-01-31/01-recto.jpg#center" alt="Recto et verso de la voile"  />
 
 &ndash;&gt; Recto et verso de la voile</p>
-<p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler</p>
-<p><a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
+<p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler &ndash;&gt; <a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
 ]]></content:encoded>
     </item>
     
@@ -736,18 +769,18 @@
 <p><img loading="lazy" src="/posts/2023-01-25/06-bouchon-bas.jpg#center" alt="Les élastiques sont en place"  />
 
 &ndash;&gt; Les élastiques sont en place</p>
-<p><img loading="lazy" src="/posts/2023-01-25/07-bouchon-bas.jpg#center" alt="Noeud de capucin avec le fil en dyneema/spectra"  />
+<p><img loading="lazy" src="/posts/2023-01-25/07-bouchon-bas.jpg#center" alt="Nœud de capucin avec le fil en dyneema/spectra"  />
 
-&ndash;&gt; Noeud de capucin avec le fil en dyneema/spectra</p>
+&ndash;&gt; Nœud de capucin avec le fil en dyneema/spectra</p>
 <p><img loading="lazy" src="/posts/2023-01-25/08-bouchon-bas.jpg#center" alt="Finition sur quelques cm"  />
 
 &ndash;&gt; Finition sur quelques cm</p>
 <p><img loading="lazy" src="/posts/2023-01-25/09-bouchon-bas.jpg#center" alt="On tire l&amp;rsquo;élastique pour le rentrer"  />
 
 &ndash;&gt; On tire l&rsquo;élastique pour le rentrer</p>
-<p><img loading="lazy" src="/posts/2023-01-25/10-bouchon-bas.jpg#center" alt="Noeud invisible"  />
+<p><img loading="lazy" src="/posts/2023-01-25/10-bouchon-bas.jpg#center" alt="Nœud invisible"  />
 
-&ndash;&gt; Noeud invisible</p>
+&ndash;&gt; Nœud invisible</p>
 ]]></content:encoded>
     </item>
     
@@ -872,7 +905,7 @@
 </li>
 <li>
 <p>Verso = <strong>sous le vent</strong></p>
-<p>A l&rsquo;inverse <em>Sous le vent</em>, veut dire que la face de la voile est du côté opposé d&rsquo;où le vent souffle</p>
+<p>À l&rsquo;inverse <em>Sous le vent</em>, veut dire que la face de la voile est du côté opposé d&rsquo;où le vent souffle</p>
 </li>
 </ul>
 <h2 id="détail-des-renforts">Détail des renforts</h2>
@@ -991,82 +1024,39 @@
       <description>Quelques outils et maières premières pour cette réalisation</description>
       <content:encoded><![CDATA[<h2 id="liste-des-outils">Liste des outils</h2>
 <ul>
-<li>
-<p>Machine à coudre</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Point droit</td>
-<td><img loading="lazy" src="/posts/2023-01-13/01-droit.png#center" alt="Illustration: point droit"  />
-</td>
-</tr>
-<tr>
-<td>3 points zigzag</td>
-<td><img loading="lazy" src="/posts/2023-01-13/02-zigzag.png#center" alt="Illustration: 3 points zigzag"  />
-</td>
-</tr>
-</tbody>
-</table>
+<li>Machine à coudre:
+<ul>
+<li>Point droit</li>
+<li>3 points zigzag</li>
+</ul>
 </li>
-<li>
-<p>1 règle plate 1 m</p>
-</li>
-<li>
-<p>2 paire de ciseaux</p>
+<li>1 règle plate 1 m</li>
+<li>2 paires de ciseaux:
 <ul>
 <li>une grande (longues découpes)</li>
 <li>une petite de broderie (finitions)</li>
 </ul>
 </li>
-<li>
-<p>1 pince à linge</p>
-</li>
-<li>
-<p>1 crayon à papier</p>
-</li>
-<li>
-<p>1 feutre</p>
-</li>
-<li>
-<p>Scotch de peintre</p>
-</li>
-<li>
-<p>Fil dyneema ou spectra fin (≈ 40 lbs, 3 m)</p>
-</li>
-<li>
-<p>1 petit forêt métal</p>
-</li>
-<li>
-<p>1 fer à souder (500W min) avec panne en pointe</p>
-<p>Ou un <del>honteux bidouillage</del> bricolage: aguille, mèche coton, pot en verre et pétrole désaromatisé
-<img loading="lazy" src="/posts/2023-01-13/03-bricolage.jpg#center" alt="Bricolage lampe à pétrole"  />
-</p>
-</li>
-<li>
-<p>1 surface plane</p>
-</li>
-<li>
-<p>Obligatoire: du temps et beaucoup de patience</p>
-</li>
+<li>1 pince à linge</li>
+<li>1 crayon à papier</li>
+<li>1 feutre</li>
+<li>Scotch de peintre</li>
+<li>Fil dyneema ou spectra fin (≈ 40 lbs, 3 m)</li>
+<li>1 petit forêt métal</li>
 </ul>
+<p>Pour le confort du travail: 1 surface plane, beaucoup de temps et de patience</p>
 <p>Si besoin de recouper une barre en carbone:</p>
 <ul>
 <li>Une scie à métaux (lame carbone ou sinon métaux)</li>
 </ul>
 <h2 id="les-fournitures">Les fournitures</h2>
-<p><img loading="lazy" src="/posts/2023-01-13/04-colis.jpg#center" alt="Long colis"  />
+<p><img loading="lazy" src="/posts/2023-01-13/01-colis.jpg#center" alt="Long colis"  />
 
 &ndash;&gt; Long colis</p>
-<p><img loading="lazy" src="/posts/2023-01-13/05-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/02-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
 
 &ndash;&gt; Intérieur du colis: détail des fournitures</p>
-<h2 id="liste-des-pièces">Liste des pièces:</h2>
+<h2 id="liste-des-pièces">Liste des pièces</h2>
 <ul>
 <li>3 m x 1,50 m d&rsquo;Icarex PC31</li>
 <li>4 m de dacron noir, 5 cm de large</li>
@@ -1080,10 +1070,10 @@
 <li>Facultatif: Bande de dacron ou de mylar &ndash;&gt; renfort au niveau des barres verticales</li>
 <li>Facultatif: Rondelles de maintien d&rsquo;élastique (pas trouvé) &ndash;&gt; <a href="https://watty.us/3d-printing/2022/3/13/bungee-washers" target="_blank" rel="nofollow noopener noreferrer">Bungee Washer</a></li>
 </ul>
-<p><img loading="lazy" src="/posts/2023-01-13/06-fournitures-legende.jpg#center" alt="Légende détaillée des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/03-fournitures-legende.jpg#center" alt="Légende détaillée des fournitures"  />
 
 &ndash;&gt; Légende détaillée des fournitures</p>
-<h2 id="absents-des-photos">Absents des photos:</h2>
+<h2 id="absents-des-photos">Absents des photos</h2>
 <ul>
 <li>
 <p>Époxy bi-composant (pour coller les 2 raccords de carbone)</p>
@@ -1092,7 +1082,7 @@
 <p>Scotch double-face 6 mm</p>
 </li>
 <li>
-<p>Lacet plat 4 mm &ndash;&gt; pas de renfort kevlar sensible aux UV.</p>
+<p>Lacet plat 4 mm &ndash;&gt; pas de renfort kevlar sensible aux UV</p>
 <p>Ex: recyclage d&rsquo;un cordon <em><strong>plat</strong></em> de maillot de bain</p>
 </li>
 <li>
@@ -1108,8 +1098,9 @@
       <pubDate>Wed, 11 Jan 2023 11:08:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</guid>
-      <description>Modeste assemblage de pages, de textes et d&amp;#39;images. Travail d&amp;#39;amateur sans prétentions aucune</description>
-      <content:encoded><![CDATA[<p>Construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type révolution. Ce modèle est de type <em>pilotable</em> à 4 lignes (quad lines kite)</p>
+      <description>Modeste assemblage de pages, de textes et d&amp;#39;images</description>
+      <content:encoded><![CDATA[<p>Travail d&rsquo;amateur sans prétentions aucune: construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type Révolution 1.5</p>
+<p>Ce modèle est de type <em>pilotable</em> à 4 lignes (quad lines stunt kite)</p>
 <h2 id="2-lignes-versus-4-lignes">2 lignes versus 4 lignes</h2>
 <p>Contrairement à un classique cerf-volant 2 lignes <em>Delta</em>, le 4 lignes <em>Révolution</em> offre plus latitude de manœuvres aériennes: vol stationnaire, marche arrière, etc.</p>
 <p><img loading="lazy" src="/posts/2023-01-11/01-pilotage.png#center" alt="2 lignes versus 4 ligne"  />

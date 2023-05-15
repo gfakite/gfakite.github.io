@@ -13,32 +13,75 @@
       <pubDate>Sat, 15 Apr 2023 22:38:03 +0200</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/04/essentials-vented/</guid>
-      <description>Ventilations sur la voile pour qu&amp;#39;elle tolère un vent plus fort</description>
-      <content:encoded><![CDATA[<p>Passage de la version <em>Standard</em> à la <em>Vented</em> pour le cerf-volant Butterfly (plan <em>Essentials</em>) &ndash;&gt; ajout de 2 ventilations sur la voile Standard</p>
-<p><img loading="lazy" src="/posts/2023-04-15/01-essentials-s-et-v.png#center" alt="Essentials Standard à gauche et Vented à droite"  />
+      <description>Versions et ventilation en fonction de la force du vent</description>
+      <content:encoded><![CDATA[<p>Pour s&rsquo;adapter au vent, les plans <em>Essentials</em> de Watty existent en 4 versions:</p>
+<p><img loading="lazy" src="/posts/2023-04-15/01-essentials-versions.png#center" alt="Détail des 4 versions: S, V, XV et XXV"  />
 
-&ndash;&gt; Essentials: <em>Standard</em> et <em>Vented</em></p>
-<p>Détail des zones:</p>
+&ndash;&gt; Détail des 4 versions</p>
+<p>Ces déclinaisons sont données pour les plages de vent suivantes:</p>
+<table>
+<thead>
+<tr>
+<th>Déclinaison</th>
+<th>Version</th>
+<th>Beaufort</th>
+<th>mph</th>
+<th>knots</th>
+<th>km/h</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S</td>
+<td>Standard</td>
+<td>0 - 1</td>
+<td>0 - 7</td>
+<td>0 - 6</td>
+<td>0 - 11</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Vented</td>
+<td>2 - 3</td>
+<td>5 - 12</td>
+<td>4 - 10</td>
+<td>8 - 19</td>
+</tr>
+<tr>
+<td>XV</td>
+<td>Extra Vented</td>
+<td>3 - 4</td>
+<td>10 - 17</td>
+<td>9 - 15</td>
+<td>7 - 27</td>
+</tr>
+<tr>
+<td>XXV</td>
+<td>Double Extra Vented</td>
+<td>4 - 5</td>
+<td>15 - 25</td>
+<td>13 - 21</td>
+<td>24 - 40</td>
+</tr>
+</tbody>
+</table>
+<p>Sur la version <em>XV</em>, les ventilations ont les largeurs suivantes:</p>
 <ul>
-<li>Vert: ajout de 2 ventilations (10 cm de largeur)</li>
-<li>Orange: déconseillé d&rsquo;ajourer au centre et sur les extrémités (contraintes fortes).</li>
-<li>Blanc: envisageable d&rsquo;ajouter d&rsquo;autres bandes de gaze/moustiquaire</li>
+<li>12,5 cm sur l&rsquo;extérieur</li>
+<li>11 cm au milieu</li>
+<li>10 cm sur l&rsquo;intérieur</li>
 </ul>
-<p><img loading="lazy" src="/posts/2023-04-15/02-essentials-s-et-v.png#center" alt="Zones de ventilation"  />
-
-&ndash;&gt; Zones de ventilation</p>
 <p>Le challenge consiste à garder la voile plate et à ne pas exposer de <em>ruban adhésif</em> double-face à l&rsquo;air libre (contact irréversible avec le sable)</p>
-<p><img loading="lazy" src="/posts/2023-04-15/03-cote-intrados.jpg#center" alt="Côté intrados/au vent"  />
+<p><img loading="lazy" src="/posts/2023-04-15/02-cote-intrados.jpg#center" alt="Côté intrados/au vent"  />
 
 &ndash;&gt; Côté au vent</p>
 <p>Ajout d&rsquo;un biais de 6 mm en Icarex pour optimiser l&rsquo;adhérence du double-face</p>
-<p><img loading="lazy" src="/posts/2023-04-15/04-cote-extrados.jpg#center" alt="Côté extrados/sous le vent"  />
+<p><img loading="lazy" src="/posts/2023-04-15/03-cote-extrados.jpg#center" alt="Côté extrados/sous le vent"  />
 
 &ndash;&gt; Sous le vent</p>
-<p><img loading="lazy" src="/posts/2023-04-15/05-butterfly-vented.jpg#center" alt="Butterfly en version Vented"  />
+<p><img loading="lazy" src="/posts/2023-04-15/04-butterfly-vented.jpg#center" alt="Butterfly en version Vented"  />
 
 &ndash;&gt; Butterfly en version Vented</p>
-<p>Rien d&rsquo;extraordinaire au final, juste deux légères modifications pour voler avec un vent plus soutenu</p>
 ]]></content:encoded>
     </item>
     
@@ -63,7 +106,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/01-points-trop-serres.jpg#center" alt="Au centre: points trop serrés"  />
 
 &ndash;&gt; Au centre: points trop serrés</p>
-<h3 id="solution">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Espacer les points de 2 mm à 2,5 mm (comme sur la partie droite)</li>
 </ul>
@@ -75,7 +118,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/02-tissus-trop-court_2.jpg#center" alt="Encore trop court"  />
 
 &ndash;&gt; Encore trop court</p>
-<h3 id="solution-1">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Découper avec une marge de sécurité pour pourvoir ajuster au fur et à mesure de la construction</li>
 </ul>
@@ -84,7 +127,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/03-erreur-de-mesure.jpg#center" alt="Coin extérieur"  />
 
 &ndash;&gt; Coin extérieur</p>
-<h3 id="solution-2">Solution</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Faire des vérifications sur le plan échelle 1:1 tout au long de la confection afin de s&rsquo;assurer que les mesures et dimensions sont OK tout au long du process de construction</li>
 <li>Immobiliser le tissu lors de l&rsquo;ajustement</li>
@@ -94,7 +137,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/04-trop-tension-fil.jpg#center" alt="Droite: trop de tension"  />
 
 &ndash;&gt; Droite: trop de tension</p>
-<h3 id="solution-3">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Régler la tension du fil normal/medium</li>
 </ul>
@@ -103,7 +146,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/05-plis.jpg#center" alt="Jolis plis"  />
 
 &ndash;&gt; Jolis plis</p>
-<h3 id="solutions">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Accompagner le tissu avec la machine</li>
 <li>Ne pas tirer le tissu</li>
@@ -124,7 +167,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/06-double-face_2.jpg#center" alt="Double face sur le recto"  />
 
 &ndash;&gt; Double face sur le recto</p>
-<h3 id="solutions-1">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Mettre le moins de double face possible &ndash;&gt; appliqué en pointillé c&rsquo;est mieux qu&rsquo;en continu</li>
 <li>Trouver du double face 3 mm</li>
@@ -134,7 +177,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/07-bourrage-fil.jpg#center" alt="Bourrage fil"  />
 
 &ndash;&gt; Bourrage fil</p>
-<h3 id="solution-4">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Marche arrière à proscrire</li>
 </ul>
@@ -143,7 +186,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/08-trop-epaisseurs.jpg#center" alt="Trop d&amp;rsquo;épaisseurs à coudre"  />
 
 &ndash;&gt; Trop d&rsquo;épaisseurs à coudre</p>
-<h3 id="solutions-2">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Option 1: s&rsquo;arrêter, revoir et refaire la zone à coudre avec moins de dacron</li>
 <li>Option 2: continuer et violenter la machine en l&rsquo;aidant en &ldquo;tournant à la main&rdquo;</li>
@@ -155,7 +198,7 @@
 
 &ndash;&gt; Vérification bridage</p>
 <p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="https://gfakite.github.io/posts/2023/01/assemblage-final/">Assemblage final</a></p>
-<h3 id="solutions-3">Solutions</h3>
+<p><strong>Solutions</strong>:</p>
 <ul>
 <li>Remesurer le bridage</li>
 <li>Vérifier le sens de montage des brides verticales / horizontales</li>
@@ -165,7 +208,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/10-trop-de-passages.jpg#center" alt="Trop de passages"  />
 
 &ndash;&gt; Trop de passages</p>
-<h3 id="solution-5">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Avant de se lancer, bien repérer le tracé à coudre</li>
 </ul>
@@ -174,7 +217,7 @@
 <p><img loading="lazy" src="/posts/2023-02-15/11-coutures-pas-droites.jpg#center" alt="Coutures en vagues"  />
 
 &ndash;&gt; Coutures en vagues</p>
-<h3 id="solution-6">Solution</h3>
+<p><strong>Solution</strong>:</p>
 <ul>
 <li>Lorsque la machine à coudre est en fonctionnement, fixer les repères (vert) plutôt que l&rsquo;aiguille en mouvement (rouge)</li>
 </ul>
