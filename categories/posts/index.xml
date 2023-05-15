@@ -19,7 +19,7 @@
 <p><img loading="lazy" src="/posts/2023-05-11/01-mini-revo.jpg#center" alt="Mini Revo avec sa mini housse"  />
 
 &ndash;&gt; Mini Revo avec sa mini housse</p>
-<h1 id="caractéristiques-communes">Caractéristiques communes</h1>
+<h2 id="caractéristiques-communes">Caractéristiques communes</h2>
 <p>Mini Revo partage les points suivants avec un cerf-volant 4 lignes 1.5:</p>
 <ul>
 <li>Voile en Icarex</li>
@@ -28,7 +28,7 @@
 <li>Renforts Mylar sur le bas</li>
 <li>Bord de fuite avec ourlet double rempli piqué 3 points ZigZag</li>
 </ul>
-<h1 id="différences">Différences</h1>
+<h2 id="différences">Différences</h2>
 <p>Mini Revo fait l&rsquo;objet d&rsquo;ajustements par rapport à un exemplaire au standard 1.5:</p>
 <table>
 <thead>
@@ -61,7 +61,7 @@
 </tr>
 </tbody>
 </table>
-<h1 id="bridage">Bridage</h1>
+<h2 id="bridage">Bridage</h2>
 <p>Pour satisfaire les exigences d&rsquo;utilisation, deux bridages sont prévus sur Mini Revo:</p>
 <ul>
 <li>
@@ -72,7 +72,7 @@
 <p>Source: <a href="http://www.ciel-libre.nnx.com/brid4-2.htm" target="_blank" rel="nofollow noopener noreferrer">ciel-libre.nnx.com</a></p>
 </li>
 </ul>
-<h1 id="détail-du-bridage-4-2">Détail du bridage <em>&ldquo;4-2&rdquo;</em></h1>
+<h2 id="détail-du-bridage-4-2">Détail du bridage <em>&ldquo;4-2&rdquo;</em></h2>
 <p>Les 4 points de fixation du bridage sur la voile sont: <strong>B1</strong>, <strong>B2</strong>, <strong>B3</strong> et <strong>B4</strong></p>
 <p><strong>C</strong> est un anneau de 12 mm dans lequel passe le bridage de <strong>G</strong> vers <strong>D</strong> (coulissement via <strong>C</strong>)</p>
 <p><img loading="lazy" src="/posts/2023-05-11/02-bridage-4-2.png#center" alt="Bridage 4-2"  />
@@ -124,11 +124,12 @@
       
       <guid>https://gfakite.github.io/posts/2023/04/essentials-vented/</guid>
       <description>Versions et ventilation en fonction de la force du vent</description>
-      <content:encoded><![CDATA[<p>Pour s&rsquo;adapter au vent, les plans <em>Essentials</em> de Watty existent en 4 versions:</p>
+      <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
+<p>Pour s&rsquo;adapter au vent, Watty a décliné plusieurs ventilations sur son plan:</p>
 <p><img loading="lazy" src="/posts/2023-04-15/01-essentials-versions.png#center" alt="Détail des 4 versions: S, V, XV et XXV"  />
 
 &ndash;&gt; Détail des 4 versions</p>
-<p>Ces déclinaisons sont données pour les plages de vent suivantes:</p>
+<p>Ces déclinaisons de ventilation sont données pour les plages de vent suivantes:</p>
 <table>
 <thead>
 <tr>
@@ -181,10 +182,11 @@
 <li>11 cm au milieu</li>
 <li>10 cm sur l&rsquo;intérieur</li>
 </ul>
+<h2 id="mise-en-pratique">Mise en pratique</h2>
 <p>Le challenge consiste à garder la voile plate et à ne pas exposer de <em>ruban adhésif</em> double-face à l&rsquo;air libre (contact irréversible avec le sable)</p>
 <p><img loading="lazy" src="/posts/2023-04-15/02-cote-intrados.jpg#center" alt="Côté intrados/au vent"  />
 
-&ndash;&gt; Côté au vent</p>
+&ndash;&gt; Côté au vent (côté lignes)</p>
 <p>Ajout d&rsquo;un biais de 6 mm en Icarex pour optimiser l&rsquo;adhérence du double-face</p>
 <p><img loading="lazy" src="/posts/2023-04-15/03-cote-extrados.jpg#center" alt="Côté extrados/sous le vent"  />
 
@@ -201,7 +203,7 @@
       <pubDate>Sun, 26 Mar 2023 04:13:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/03/airbow-suite-du-chantier/</guid>
-      <description>Petites avancées sur la voile en relief du cerf-volant</description>
+      <description>Petites avancées sur la voile en relief</description>
       <content:encoded><![CDATA[<h2 id="msmd----monkey-see-monkey-do">MSMD &ndash;&gt; Monkey See Monkey Do</h2>
 <p>Modeste suite de la tentative de construction inspirée d&rsquo;un AirBow. Chantier lent car la recherche d&rsquo;informations sur les pièces, l&rsquo;assemblage et la construction prennent du temps.</p>
 <p>Sur Internet, il y a des informations parcellaires (qui datent) sur l&rsquo;AirBow. Cependant il y a une marche entre ce que l&rsquo;on souhaite et ce qu&rsquo;on arrive à faire. Le déphasage se situe entre une image d&rsquo;AirBow fabriqué industriellement visible au travers d&rsquo;un écran et sa propre tentative de réalisation qu&rsquo;on peut voir en vrai.</p>
@@ -424,6 +426,9 @@
 </blockquote>
 </li>
 </ul>
+<h2 id="mise-à-jour">Mise à jour</h2>
+<p>Erreur de casting sur ces tubes de 78 cm. Ils sont trop courts de quelques cm pour s&rsquo;adapter correctement à une voile existante</p>
+<p>Prix correct, tube rectiligne, rigidité OK mais poids décevant. Son équivalent Sky Shark P100 *laminé macaroni&quot; est plus léger que cette référence de tube</p>
 <p><img loading="lazy" src="/posts/2023-03-16/02-easton-powerflight-500.jpg#center" alt="Easton PowerFlight 500"  />
 
 &ndash;&gt; Easton PowerFlight 500</p>
@@ -447,7 +452,7 @@
 
 &ndash;&gt; Plan de la voile</p>
 <h2 id="panneaux">Panneaux</h2>
-<p>Succinctes mesures des panneaux pour les découpes. Il y a 4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, et assemblage délicats</p>
+<p>Succinctes mesures des panneaux pour les découpes. Il y a 4 cm de flèche au centre et sur les deux côtés. Traçage, découpe, et assemblage à soigner pour avoir un rendu propre</p>
 <p><img loading="lazy" src="/posts/2023-03-15/03_panneaux.gif#center" alt="Plan des panneaux"  />
 
 &ndash;&gt; Plan des panneaux</p>
@@ -478,8 +483,8 @@
       <pubDate>Tue, 28 Feb 2023 00:01:01 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/02/connecteurs-en-t-mister-t/</guid>
-      <description>Nouvelle forme de voile avec un autre système de liaison barre verticale//bord d&amp;#39;attaque</description>
-      <content:encoded><![CDATA[<p>Construction en <em>icarex PC31</em> couleur gold</p>
+      <description>Nouvelle forme de voile et nouvelle liaison entre le bord d&amp;#39;attaque et les barres verticales</description>
+      <content:encoded><![CDATA[<p>Construction en icarex PC31 couleur gold</p>
 <h2 id="voile-basée-sur-un-nouveau-plan">Voile basée sur un nouveau plan</h2>
 <p>Plus de surface au centre et un peu moins sur les extrémités. La moustiquaire est légèrement plus haute au centre pour accentuer la portance au centre.</p>
 <p><img loading="lazy" src="/posts/2023-02-28/01-voile-v2.jpg#center" alt="Nouvelle forme de voile"  />

@@ -14,11 +14,12 @@
       
       <guid>https://gfakite.github.io/posts/2023/04/essentials-vented/</guid>
       <description>Versions et ventilation en fonction de la force du vent</description>
-      <content:encoded><![CDATA[<p>Pour s&rsquo;adapter au vent, les plans <em>Essentials</em> de Watty existent en 4 versions:</p>
+      <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
+<p>Pour s&rsquo;adapter au vent, Watty a décliné plusieurs ventilations sur son plan:</p>
 <p><img loading="lazy" src="/posts/2023-04-15/01-essentials-versions.png#center" alt="Détail des 4 versions: S, V, XV et XXV"  />
 
 &ndash;&gt; Détail des 4 versions</p>
-<p>Ces déclinaisons sont données pour les plages de vent suivantes:</p>
+<p>Ces déclinaisons de ventilation sont données pour les plages de vent suivantes:</p>
 <table>
 <thead>
 <tr>
@@ -71,10 +72,11 @@
 <li>11 cm au milieu</li>
 <li>10 cm sur l&rsquo;intérieur</li>
 </ul>
+<h2 id="mise-en-pratique">Mise en pratique</h2>
 <p>Le challenge consiste à garder la voile plate et à ne pas exposer de <em>ruban adhésif</em> double-face à l&rsquo;air libre (contact irréversible avec le sable)</p>
 <p><img loading="lazy" src="/posts/2023-04-15/02-cote-intrados.jpg#center" alt="Côté intrados/au vent"  />
 
-&ndash;&gt; Côté au vent</p>
+&ndash;&gt; Côté au vent (côté lignes)</p>
 <p>Ajout d&rsquo;un biais de 6 mm en Icarex pour optimiser l&rsquo;adhérence du double-face</p>
 <p><img loading="lazy" src="/posts/2023-04-15/03-cote-extrados.jpg#center" alt="Côté extrados/sous le vent"  />
 

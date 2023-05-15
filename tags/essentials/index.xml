@@ -14,25 +14,23 @@
       
       <guid>https://gfakite.github.io/posts/2023/01/assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
-      <content:encoded><![CDATA[<h2 id="alignement">Alignement</h2>
-<p>3 vérifications à effectuer sur le cerf-volant:</p>
-<ul>
-<li>Contrôle de l&rsquo;alignement du bridage (suspendu via les points de tire du haut)
-<img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#center" alt="Alignement OK = bridage conforme"  />
+      <content:encoded><![CDATA[<p>3 vérifications à effectuer sur le cerf-volant</p>
+<h2 id="contrôle-de-lalignement-du-bridage">Contrôle de l&rsquo;alignement du bridage</h2>
+<p>A effectuer en suspendant la voile via les points de tire du haut</p>
+<p><img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#center" alt="Alignement OK = bridage conforme"  />
 
-&ndash;&gt; Alignement OK = bridage conforme
-<img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO (problème de bridage)"  />
+&ndash;&gt; Alignement OK = bridage conforme</p>
+<p><img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO (problème de bridage)"  />
 
-&ndash;&gt; Alignement KO (problème de bridage)</li>
-<li>Alignement entre les barres et les renforts
-<img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
+&ndash;&gt; Alignement KO (problème de bridage)</p>
+<h2 id="alignement-des-barres-sur-les-renforts">Alignement des barres sur les renforts</h2>
+<p><img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
 
-&ndash;&gt; Alignement OK</li>
-<li>Contrôle des plis sur la voile
-<img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="Pas de plis visibles"  />
+&ndash;&gt; Alignement OK</p>
+<h2 id="plis-sur-la-voile">Plis sur la voile</h2>
+<p><img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="RAS, pas de plis visibles"  />
 
-&ndash;&gt; Pas de plis visibles</li>
-</ul>
+RAS, pas de plis visibles</p>
 <h2 id="rendu-final">Rendu final</h2>
 <p><img loading="lazy" src="/posts/2023-01-31/01-recto.jpg#center" alt="Recto et verso de la voile"  />
 
@@ -153,7 +151,7 @@
       <pubDate>Mon, 23 Jan 2023 15:23:05 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</guid>
-      <description>Assemblage de barre du bord d&amp;#39;attaque, trous dans le dacron et bride sur les embouts de barre</description>
+      <description>Assemblage des barres du bord d&amp;#39;attaque, élastiques et embouts</description>
       <content:encoded><![CDATA[<h2 id="barre-centrale">Barre centrale</h2>
 <p>Élément à ajuster avant collage des raccords internes de la barre du bord d&rsquo;attaque. Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités</p>
 <p><img loading="lazy" src="/posts/2023-01-23/01-barre-centrale.jpg#center" alt="Détail des 5 barres du cerf-volant"  />
@@ -168,7 +166,7 @@
 <h2 id="trous-et-élastiques">Trous et élastiques</h2>
 <p><img loading="lazy" src="/posts/2023-01-23/04-trous.jpg#center" alt="Préparation pour trouer le dacron"  />
 
-&ndash;&gt; Préparation pour trouer le dacron</p>
+&ndash;&gt; Préparation pour trouer le dacron avec une mini lampe à pétrole (recyclage petit pot en verre)</p>
 <p><img loading="lazy" src="/posts/2023-01-23/05-elastique.jpg#center" alt="Les nœuds et coutures sont côté verso"  />
 
 &ndash;&gt; Les nœuds et coutures sont côté verso</p>
@@ -203,14 +201,14 @@
       <pubDate>Sat, 21 Jan 2023 01:13:07 +0100</pubDate>
       
       <guid>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</guid>
-      <description>Il est soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant 4 lignes, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
+      <description>Élément soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant 4 lignes, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
       <content:encoded><![CDATA[<h2 id="préparation-et-couture">Préparation et couture</h2>
 <p><img loading="lazy" src="/posts/2023-01-21/01-bord-de-fuite.jpg#center" alt="Bord de fuite"  />
 
 &ndash;&gt; Bord de fuite</p>
-<p><img loading="lazy" src="/posts/2023-01-21/02-double-face.jpg" alt="Double face en pointillé pour limiter un bourrage de fil et des dépôts de scotch sur l&amp;rsquo;aiguille"  />
+<p><img loading="lazy" src="/posts/2023-01-21/02-double-face.jpg" alt="Double face en pointillé pour limiter un bourrage de fil et des dépôts collants sur l&amp;rsquo;aiguille"  />
 
-&ndash;&gt; Double face en pointillé pour limiter un bourrage de fil et des dépôts de scotch sur l&rsquo;aiguille</p>
+&ndash;&gt; Double face en pointillé pour limiter un bourrage de fil et des dépôts collants sur l&rsquo;aiguille</p>
 <p><img loading="lazy" src="/posts/2023-01-21/03-double-face.jpg#center" alt="Double face sur le recto"  />
 
 &ndash;&gt; Double face sur le recto</p>
@@ -245,7 +243,7 @@
 <p><img loading="lazy" src="/posts/2023-01-21/13-couture-coin.jpg#center" alt="Couture du coin"  />
 
 &ndash;&gt; Couture du coin</p>
-<h2 id="autre-couture">Autre couture</h2>
+<h2 id="petit-complément">Petit complément</h2>
 <p><img loading="lazy" src="/posts/2023-01-21/14-finition.jpg#center" alt="Finition: couture oubliée sur le renfort haut de barre verticale"  />
 
 &ndash;&gt; Finition: couture oubliée sur le renfort haut de barre verticale</p>
@@ -259,12 +257,12 @@
       
       <guid>https://gfakite.github.io/posts/2023/01/renforts/</guid>
       <description>Assemblage de pièces en dacron pour protéger la voile</description>
-      <content:encoded><![CDATA[<h2 id="les-deux-faces-de-la-voile">Les deux faces de la voile</h2>
+      <content:encoded><![CDATA[<h2 id="distinctino-des-deux-faces-de-la-voile">Distinctino des deux faces de la voile</h2>
 <p>Notion à prendre en compte pour le sens des pièces à coudre:</p>
 <ul>
 <li>
 <p>Recto = <strong>au vent</strong></p>
-<p><em>Au vent</em> signifie que la face de la voile du cerf-volant est du côté d&rsquo;où souffle le vent</p>
+<p><em>Au vent</em> signifie que la face de la voile du cerf-volant est du côté d&rsquo;où souffle le vent (côté où il ya le bridage et les lignes)</p>
 </li>
 <li>
 <p>Verso = <strong>sous le vent</strong></p>
