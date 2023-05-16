@@ -14,12 +14,12 @@
       
       <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
       <description>Du carbone pour la rigididé et la légèreté</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  />
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  title="tubes de flèche"  />
 
 &ndash;&gt; Tubes en carbone</p>
 <h2 id="introduction">Introduction</h2>
 <p><em>Sky shark, Exel composites, R-Tubes, Aero Stuff, No name, &hellip;</em> Les marques ne manquent pas pour installer des barres en carbone sur son cerf-volant. En associant les références aux marques, il y a beaucoup (<del>trop?</del>) de choix.</p>
-<p>Peu le savent et encore moins osent le dire ou l&rsquo;écrire, il est possible de substituer les barres classiques de cerf-volant par des tubes de flèche en carbone. En vérifiant les diamètres (interne et externe), la longueur et la mesure de rigidité (spine), un <em>cerf-voliste</em> peut trouver son bohneur dans une archerie.</p>
+<p>Peu le savent et encore moins osent le dire ou l&rsquo;écrire, il est possible de substituer les barres classiques de cerf-volant par des tubes de flèche en carbone. En vérifiant les diamètres (interne et externe), la longueur et la mesure de rigidité (spine), un cerf-voliste peut trouver son bohneur dans une archerie.</p>
 <h2 id="avantages--inconvénients">Avantages / inconvénients</h2>
 <p>Les avantages à utiliser des tubes de flèche sont nombreux:</p>
 <ul>
@@ -27,18 +27,18 @@
 <li>Le choix des tubes (longueur, poids en fonction de la rigidité, etc.)</li>
 <li>La qualité des tubes (finition au top et tubes rectilignes)</li>
 <li>Le nombre d&rsquo;archerie en implantées en France (pour voir et palper en vrai les tubes)</li>
-<li>Les conseils en archerie (les vendeurs s&rsquo;y connaissent en carbone<strong>S</strong>)</li>
+<li>Les conseils en archerie (les vendeurs s&rsquo;y connaissent en carbone<em>S</em>)</li>
 </ul>
 <p>Le point délicat est de trouver la bonne correspondance entre la rigidité d&rsquo;une barre de cerf-volant et la spine (mesure qui définit la rigidité) d&rsquo;un tube de flèche</p>
 <h2 id="equivalence-rigidité--spine">Equivalence rigidité / spine</h2>
 <p>Echanges sur les flèches et la notion de spine:</p>
 <ul>
-<li>Forum Anglais &ndash;&gt; <strong>kitelife.com</strong>
+<li>Forum Anglais &ndash;&gt; <em>kitelife.com</em>
 <ul>
 <li><a href="https://kitelife.com/forum/topic/11172-arrowshafts-spine-deflection-vs-kite-rods/" target="_blank" rel="nofollow noopener noreferrer">Arrowshafts spine deflection vs Kite rods</a></li>
 </ul>
 </li>
-<li>Forum Allemand &ndash;&gt; <strong>drachenforum.net</strong>
+<li>Forum Allemand &ndash;&gt; <em>drachenforum.net</em>
 <ul>
 <li><a href="https://www.drachenforum.net/thread/104141-pfeilsch%C3%A4fte-welche-wie-muffen-welche-kombination/?pageNo=2" target="_blank" rel="nofollow noopener noreferrer">Pfeilschäfte - Welche? - Wie muffen? - Welche Kombination?</a></li>
 </ul>
@@ -55,7 +55,6 @@
 <th>length (cm)</th>
 <th>ext Ø (mm)</th>
 <th>int Ø (mm)</th>
-<th></th>
 </tr>
 </thead>
 <tbody>
@@ -66,7 +65,6 @@
 <td>82,55</td>
 <td>6,99</td>
 <td>6,2</td>
-<td></td>
 </tr>
 <tr>
 <td>Skyshark P 100</td>
@@ -75,7 +73,6 @@
 <td>82,55</td>
 <td>7,11</td>
 <td>6,2</td>
-<td></td>
 </tr>
 <tr>
 <td>Skyshark P 200</td>
@@ -84,7 +81,6 @@
 <td>82,55</td>
 <td>7,21</td>
 <td>6,2</td>
-<td></td>
 </tr>
 <tr>
 <td>Skyshark P 300</td>
@@ -93,7 +89,6 @@
 <td>82,55</td>
 <td>7,42</td>
 <td>6,2</td>
-<td></td>
 </tr>
 <tr>
 <td>Skyshark P 400</td>
@@ -102,7 +97,6 @@
 <td>82,55</td>
 <td>7,57</td>
 <td>6,2</td>
-<td></td>
 </tr>
 <tr>
 <td>Skyshark P1X</td>
@@ -111,7 +105,6 @@
 <td>82,55</td>
 <td>7,21</td>
 <td>6,2</td>
-<td></td>
 </tr>
 <tr>
 <td>Skyshark P2X</td>
@@ -120,7 +113,6 @@
 <td>82,55</td>
 <td>7,34</td>
 <td>6,2</td>
-<td></td>
 </tr>
 <tr>
 <td>Skyshark P3X</td>
@@ -129,11 +121,10 @@
 <td>82,55</td>
 <td>7,47</td>
 <td>6,2</td>
-<td></td>
 </tr>
 </tbody>
 </table>
-<p>D&rsquo;autres sources donnent une spine de 700 pour une barre <em>Skyshark P 90</em> et 400 pour du <em>P2X</em>. Les valeurs de spine <em>&ldquo;Sky shark&rdquo;</em> sont à tester avant de se lancer dans l&rsquo;achat d&rsquo;une série de 12 tubes de flèche</p>
+<p>D&rsquo;autres sources donnent une spine de 700 pour une barre Skyshark P 90 et 400 pour du P2X. Les valeurs de spine Sky shark sont à tester avant de se lancer dans l&rsquo;achat d&rsquo;une série de 12 tubes de flèche</p>
 <h2 id="à-lessai">À l&rsquo;essai</h2>
 <p>Test en cours de tubes Easton Powerflight sur un bord d&rsquo;attaque:</p>
 <ul>
@@ -148,8 +139,12 @@
 </ul>
 <h2 id="mise-à-jour">Mise à jour</h2>
 <p>Erreur de casting sur ces tubes de 78 cm. Ils sont trop courts de quelques cm pour s&rsquo;adapter correctement à une voile existante</p>
-<p>Prix correct, tube rectiligne, rigidité OK mais poids décevant. Son équivalent Sky Shark P100 *laminé macaroni&quot; est plus léger que cette référence de tube</p>
-<p><img loading="lazy" src="/posts/2023-03-16/02-easton-powerflight-500.jpg#center" alt="Easton PowerFlight 500"  />
+<p>Bilan:</p>
+<ul>
+<li>Prix correct, tube rectiligne et rigidité OK</li>
+<li>Poids décevant, son équivalent Sky Shark P100 <em>laminé macaroni</em> est plus léger que cette référence de tube</li>
+</ul>
+<p><img loading="lazy" src="/posts/2023-03-16/02-easton-powerflight-500.jpg#center" alt="Easton PowerFlight 500"  title="tube de flèche easton"  />
 
 &ndash;&gt; Easton PowerFlight 500</p>
 ]]></content:encoded>
@@ -162,24 +157,24 @@
       
       <guid>https://gfakite.github.io/posts/2023/02/connecteurs-en-t-mister-t/</guid>
       <description>Nouvelle forme de voile et nouvelle liaison entre le bord d&amp;#39;attaque et les barres verticales</description>
-      <content:encoded><![CDATA[<p>Construction en icarex PC31 couleur gold</p>
+      <content:encoded><![CDATA[<p>Construction en <em>Icarex PC31</em> couleur gold</p>
 <h2 id="voile-basée-sur-un-nouveau-plan">Voile basée sur un nouveau plan</h2>
 <p>Plus de surface au centre et un peu moins sur les extrémités. La moustiquaire est légèrement plus haute au centre pour accentuer la portance au centre.</p>
-<p><img loading="lazy" src="/posts/2023-02-28/01-voile-v2.jpg#center" alt="Nouvelle forme de voile"  />
+<p><img loading="lazy" src="/posts/2023-02-28/01-voile-v2.jpg#center" alt="Nouvelle forme de voile"  title="nouveau plan de voile Révolution"  />
 
 &ndash;&gt; Nouvelle forme de voile</p>
 <h2 id="nouveau-système-de-fixation">Nouveau système de fixation</h2>
-<p>Fixation d&rsquo;un <em>connecteur en T</em> au le bord d&rsquo;attaque. Ajout d&rsquo;un couche de dacron avec couture <em>zigzag 2 points</em> pour renforcer la zone. Montage bien ajusté avec une barre de 8 mm et un bord d&rsquo;attaque de 5 cm</p>
-<p><img loading="lazy" src="/posts/2023-02-28/02-connecteur-t.jpg#center" alt="Connecteur en T"  />
+<p>Fixation d&rsquo;un connecteur en T au le bord d&rsquo;attaque. Ajout d&rsquo;un couche de dacron avec couture zigzag 2 points pour renforcer la zone. Montage bien ajusté avec une barre de 8 mm et un bord d&rsquo;attaque de 5 cm</p>
+<p><img loading="lazy" src="/posts/2023-02-28/02-connecteur-t.jpg#center" alt="Connecteur en T"  title="jonction barre verticale bord d&#39;attaque"  />
 
 &ndash;&gt; Connecteur en T</p>
-<p>Note: en attente d&rsquo;un jeu de barres pour le recouper)</p>
+<p>Note: en attente d&rsquo;un jeu de barres pour le recouper</p>
 <blockquote>
 <p>Ce n&rsquo;est pas le titre qui honore l&rsquo;homme, mais l&rsquo;homme qui honore le titre.</p>
 <p>Nicolas Machiavel</p>
 </blockquote>
-<p>Une machine à coudre de <em>qualité</em>, c&rsquo;est un détail qui fait la différence sur les finitions.</p>
-<p><img loading="lazy" src="/posts/2023-02-28/03-detail-couture.jpg#center" alt="Coutures renfort bas"  />
+<p>Une machine à coudre de qualité, c&rsquo;est un détail qui fait la différence sur les finitions.</p>
+<p><img loading="lazy" src="/posts/2023-02-28/03-detail-couture.jpg#center" alt="Coutures renfort bas"  title="détail des couture sur le bas de la voile"  />
 
 &ndash;&gt; Coutures renfort bas</p>
 ]]></content:encoded>
