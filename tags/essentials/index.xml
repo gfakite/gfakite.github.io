@@ -6,7 +6,87 @@
     <description>Recent content in essentials on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/tags/essentials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 22:38:03 +0200</lastBuildDate><atom:link href="https://gfakite.github.io/tags/essentials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essentials Vented</title>
+      <link>https://gfakite.github.io/posts/2023/04/essentials-vented/</link>
+      <pubDate>Sat, 15 Apr 2023 22:38:03 +0200</pubDate>
+      
+      <guid>https://gfakite.github.io/posts/2023/04/essentials-vented/</guid>
+      <description>Versions et ventilation en fonction de la force du vent</description>
+      <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
+<p>Pour s&rsquo;adapter au vent, <em>Watty</em> a décliné plusieurs ventilations:</p>
+<p><img loading="lazy" src="/posts/2023-04-15/01-essentials-versions.png#center" alt="Détail des 4 versions"  title="essentials S, V, XV et XXV"  />
+
+&ndash;&gt; Détail des 4 versions</p>
+<p>Ces déclinaisons de ventilation sont données pour les plages de vent suivantes:</p>
+<table>
+<thead>
+<tr>
+<th>Déclinaison</th>
+<th>Version</th>
+<th>Beaufort</th>
+<th>mph</th>
+<th>knots</th>
+<th>km/h</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S</td>
+<td>Standard</td>
+<td>0 - 1</td>
+<td>0 - 7</td>
+<td>0 - 6</td>
+<td>0 - 11</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Vented</td>
+<td>2 - 3</td>
+<td>5 - 12</td>
+<td>4 - 10</td>
+<td>8 - 19</td>
+</tr>
+<tr>
+<td>XV</td>
+<td>Extra Vented</td>
+<td>3 - 4</td>
+<td>10 - 17</td>
+<td>9 - 15</td>
+<td>7 - 27</td>
+</tr>
+<tr>
+<td>XXV</td>
+<td>Double Extra Vented</td>
+<td>4 - 5</td>
+<td>15 - 25</td>
+<td>13 - 21</td>
+<td>24 - 40</td>
+</tr>
+</tbody>
+</table>
+<p>Sur la version <em>XV</em>, les ventilations ont les largeurs suivantes:</p>
+<ul>
+<li>12,5 cm sur l&rsquo;extérieur</li>
+<li>11 cm au milieu</li>
+<li>10 cm sur l&rsquo;intérieur</li>
+</ul>
+<h2 id="mise-en-pratique">Mise en pratique</h2>
+<p>Le challenge consiste à garder la voile plate et à ne pas exposer de ruban adhésif double-face à l&rsquo;air libre (contact irréversible avec le sable)</p>
+<p><img loading="lazy" src="/posts/2023-04-15/02-cote-intrados.jpg#center" alt="Côté intrados"  title="côté bridage et lignes"  />
+
+&ndash;&gt; Côté au vent (côté lignes)</p>
+<p>Ajout d&rsquo;un biais de 6 mm en Icarex pour optimiser l&rsquo;adhérence du double-face</p>
+<p><img loading="lazy" src="/posts/2023-04-15/03-cote-extrados.jpg#center" alt="Côté extrados"  title="sous le vent"  />
+
+&ndash;&gt; Sous le vent</p>
+<p><img loading="lazy" src="/posts/2023-04-15/04-butterfly-vented.jpg#center" alt="Butterfly en version Vented"  title="butterfly V"  />
+
+&ndash;&gt; Butterfly en version Vented</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Assemblage final</title>
       <link>https://gfakite.github.io/posts/2023/01/assemblage-final/</link>

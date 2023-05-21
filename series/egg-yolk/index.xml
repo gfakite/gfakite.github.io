@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Egg yolk on Go fly a kite</title>
+    <title>egg yolk on Go fly a kite</title>
     <link>https://gfakite.github.io/series/egg-yolk/</link>
-    <description>Recent content in Egg yolk on Go fly a kite</description>
+    <description>Recent content in egg yolk on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/series/egg-yolk/index.xml" rel="self" type="application/rss+xml" />

@@ -2,17 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gfakite.github.io/posts/2023/05/housses/</loc>
+    <lastmod>2023-05-21T10:26:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/categories/posts/</loc>
+    <lastmod>2023-05-21T10:26:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/posts/</loc>
+    <lastmod>2023-05-21T10:26:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/tags/technique/</loc>
+    <lastmod>2023-05-21T10:26:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/series/technique/</loc>
+    <lastmod>2023-05-21T10:26:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url><url>
     <loc>https://gfakite.github.io/tutos/</loc>
     <lastmod>2023-05-15T05:01:29+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://gfakite.github.io/tags/construction/</loc>
+    <loc>https://gfakite.github.io/posts/2023/05/mini-revo/</loc>
     <lastmod>2023-05-11T05:13:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://gfakite.github.io/posts/2023/05/mini-revo/</loc>
+    <loc>https://gfakite.github.io/tags/mini-revo/</loc>
     <lastmod>2023-05-11T05:13:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -22,27 +47,17 @@
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://gfakite.github.io/categories/posts/</loc>
-    <lastmod>2023-05-11T05:13:07+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/posts/</loc>
-    <lastmod>2023-05-11T05:13:07+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url><url>
     <loc>https://gfakite.github.io/series/butterfly/</loc>
     <lastmod>2023-04-15T22:38:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://gfakite.github.io/posts/2023/04/essentials-vented/</loc>
+    <loc>https://gfakite.github.io/tags/essentials/</loc>
     <lastmod>2023-04-15T22:38:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://gfakite.github.io/tags/technique/</loc>
+    <loc>https://gfakite.github.io/posts/2023/04/essentials-vented/</loc>
     <lastmod>2023-04-15T22:38:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -68,11 +83,6 @@
     <priority>1</priority>
   </url><url>
     <loc>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</loc>
-    <lastmod>2023-03-16T11:22:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/series/technique/</loc>
     <lastmod>2023-03-16T11:22:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -113,11 +123,6 @@
     <priority>1</priority>
   </url><url>
     <loc>https://gfakite.github.io/series/egg-yolk/</loc>
-    <lastmod>2023-01-31T05:13:07+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/tags/essentials/</loc>
     <lastmod>2023-01-31T05:13:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
