@@ -5,7 +5,7 @@
     <link>https://gfakite.github.io/series/egg-yolk/</link>
     <description>Recent content in egg yolk on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <language>fr</language>
     <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/series/egg-yolk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assemblage final</title>
@@ -17,24 +17,24 @@
       <content:encoded><![CDATA[<p>3 vérifications à effectuer sur le cerf-volant</p>
 <h2 id="contrôle-de-lalignement-du-bridage">Contrôle de l&rsquo;alignement du bridage</h2>
 <p>A effectuer en suspendant la voile via les points de tire du haut</p>
-<p><img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-OK.jpg#cente" alt="Alignement OK"  title="bridage conforme"  />
+<p><img loading="lazy" src="/posts/2023-01-31/01-controle-alignement-bridage-OK.jpg#cente" alt="Alignement OK"  title="bridage conforme"  />
 
 &ndash;&gt; Alignement OK = bridage conforme</p>
-<p><img loading="lazy" src="/posts/2023-01-31/03-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO"  title="problème de bridage"  />
+<p><img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO"  />
 
 &ndash;&gt; Alignement KO (problème de bridage)</p>
 <h2 id="alignement-des-barres-sur-les-renforts">Alignement des barres sur les renforts</h2>
-<p><img loading="lazy" src="/posts/2023-01-31/04-controle-barre-verticale.jpg#center" alt="Alignement OK"  title="barres alignées"  />
+<p><img loading="lazy" src="/posts/2023-01-31/03-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
 
 &ndash;&gt; Alignement OK</p>
 <h2 id="plis-sur-la-voile">Plis sur la voile</h2>
-<p><img loading="lazy" src="/posts/2023-01-31/05-plis.jpg#center" alt="RAS, pas de plis visibles"  title="voile plate"  />
+<p><img loading="lazy" src="/posts/2023-01-31/04-plis.jpg#center" alt="RAS, pas de plis visibles"  />
 
 RAS, pas de plis visibles</p>
-<h2 id="rendu-final">Rendu final</h2>
-<p><img loading="lazy" src="/posts/2023-01-31/01-recto.jpg#cente" alt="Recto et verso de la voile"  title="cerf-volant prêt à voler"  />
+<h2 id="en-situtation">En situtation</h2>
+<p><img loading="lazy" src="/posts/2023-01-31/05-pret-a-voler.jpg#center" alt="Prêt à décoller"  />
 
-&ndash;&gt; Recto et verso de la voile</p>
+&ndash;&gt; Prêt à décoller</p>
 <p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler &ndash;&gt; <a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
 ]]></content:encoded>
     </item>
@@ -62,25 +62,25 @@ RAS, pas de plis visibles</p>
 </ul>
 <h2 id="mise-en-œuvre">Mise en œuvre</h2>
 <p>Pour la jonction avec la bride horizontale, attention au sens haut/bas de la bride verticale car les mesures diffèrent.</p>
-<p><img loading="lazy" src="/posts/2023-01-29/03-bride-horizontale.jpg#center" alt="Bride horizontale"  title="bridage horizontal"  />
+<p><img loading="lazy" src="/posts/2023-01-29/03-bride-horizontale.jpg#center" alt="Bride horizontale"  />
 
 &ndash;&gt; Bride horizontale</p>
-<p><img loading="lazy" src="/posts/2023-01-29/04-bride-verticale.jpg#center" alt="Bride verticale à réaliser deux fois"  title="bridage vertical"  />
+<p><img loading="lazy" src="/posts/2023-01-29/04-bride-verticale.jpg#center" alt="Bride verticale à réaliser deux fois"  />
 
 &ndash;&gt; Bride verticale à réaliser deux fois</p>
-<p><img loading="lazy" src="/posts/2023-01-29/05-detail-bridage.jpg#center" alt="La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)"  title="première boucle"  />
+<p><img loading="lazy" src="/posts/2023-01-29/05-detail-bridage.jpg#center" alt="La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)"  />
 
 &ndash;&gt; La petite boucle (bride horizontale) passe dans le point de tire (bride verticale)</p>
-<p><img loading="lazy" src="/posts/2023-01-29/06-detail-bridage.jpg#center" alt="Premier passage"  title="boucle passée"  />
+<p><img loading="lazy" src="/posts/2023-01-29/06-detail-bridage.jpg#center" alt="Premier passage"  />
 
 &ndash;&gt; Premier passage</p>
-<p><img loading="lazy" src="/posts/2023-01-29/07-detail-bridage.jpg#center" alt="Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)"  title="passage dans la boucle"  />
+<p><img loading="lazy" src="/posts/2023-01-29/07-detail-bridage.jpg#center" alt="Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)"  />
 
 &ndash;&gt; Le point de tire (bride verticale) passe dans petite boucle (bride horizontale)</p>
-<p><img loading="lazy" src="/posts/2023-01-29/08-detail-bridage.jpg#center" alt="Second passage"  title="seconde boucle"  />
+<p><img loading="lazy" src="/posts/2023-01-29/08-detail-bridage.jpg#center" alt="Second passage"  />
 
 &ndash;&gt; Second passage</p>
-<p><img loading="lazy" src="/posts/2023-01-29/09-detail-bridage.jpg#center" alt="Serrage en tirant sur le point de tire (bride verticale)"  title="point de tire prêt"  />
+<p><img loading="lazy" src="/posts/2023-01-29/09-detail-bridage.jpg#center" alt="Serrage en tirant sur le point de tire (bride verticale)"  />
 
 &ndash;&gt; Serrage en tirant sur le point de tire (bride verticale)</p>
 ]]></content:encoded>
@@ -94,11 +94,11 @@ RAS, pas de plis visibles</p>
       <guid>https://gfakite.github.io/posts/2023/01/controles-sur-la-voile/</guid>
       <description>Quelques vérifications sur la qualité de fabrication</description>
       <content:encoded><![CDATA[<h2 id="équilibrage">Équilibrage</h2>
-<p><img loading="lazy" src="/posts/2023-01-27/01-horizontalite.jpg#center" alt="Voile suspendue par le centre: contrôle que la voile ne penche pas d&amp;rsquo;un côté"  title="contrôle équilibre de la voile"  />
+<p><img loading="lazy" src="/posts/2023-01-27/01-horizontalite.jpg#center" alt="Voile suspendue par le centre: contrôle que la voile ne penche pas d&amp;rsquo;un côté"  />
 
 &ndash;&gt; Voile suspendue par le centre: contrôle que la voile ne penche pas d&rsquo;un côté</p>
 <h2 id="piètre-photo-en-vrai-la-voile-est-plate">Piètre photo, en vrai la voile est plate</h2>
-<p><img loading="lazy" src="/posts/2023-01-27/02-plan.jpg#center" alt="Vérifications: dimensions et symétrie"  title="respect du plan et des dimensions"  />
+<p><img loading="lazy" src="/posts/2023-01-27/02-plan.jpg#center" alt="Vérifications: dimensions et symétrie"  />
 
 &ndash;&gt; Vérifications: dimensions et symétrie</p>
 ]]></content:encoded>
@@ -112,34 +112,34 @@ RAS, pas de plis visibles</p>
       <guid>https://gfakite.github.io/posts/2023/01/point-de-tire-bas/</guid>
       <description>Bricolage sur les embouts inférieurs</description>
       <content:encoded><![CDATA[<h2 id="focus-sur-les-embouts-situés-en-bas">Focus sur les embouts situés en bas</h2>
-<p><img loading="lazy" src="/posts/2023-01-25/01-percage.jpg#center" alt="Perçage des embouts de barre"  title="mèche métal pour percer"  />
+<p><img loading="lazy" src="/posts/2023-01-25/01-percage.jpg#center" alt="Mèche métal pour Perçer les embouts de barre"  />
 
 &ndash;&gt; Perçage des embouts de barre</p>
-<p><img loading="lazy" src="/posts/2023-01-25/02-passage-gaine.jpg#center" alt="Fil pour faire passer en force l&amp;rsquo;élastique"  title="guide d&#39;élastique"  />
+<p><img loading="lazy" src="/posts/2023-01-25/02-passage-gaine.jpg#center" alt="Fil pour faire passer en force l&amp;rsquo;élastique"  />
 
 &ndash;&gt; Fil pour faire passer en force l&rsquo;élastique</p>
-<p><img loading="lazy" src="/posts/2023-01-25/03-elastique-passe.jpg#center" alt="L&amp;rsquo;élastique est passé"  title="premier élastique en place"  />
+<p><img loading="lazy" src="/posts/2023-01-25/03-elastique-passe.jpg#center" alt="L&amp;rsquo;élastique est passé"  />
 
 &ndash;&gt; L&rsquo;élastique est passé</p>
-<p><img loading="lazy" src="/posts/2023-01-25/04-renfort-bas.jpg#center" alt="Aparté: ajout d&amp;rsquo;un renfort (2 couches dacron)"  title="dacron de renfort pour l&#39;élastique"  />
+<p><img loading="lazy" src="/posts/2023-01-25/04-renfort-bas.jpg#center" alt="Aparté: ajout d&amp;rsquo;un renfort (2 couches dacron)"  />
 
 &ndash;&gt; Aparté: ajout d&rsquo;un renfort (2 couches dacron)</p>
-<p><img loading="lazy" src="/posts/2023-01-25/05-bouchon-bas.jpg#center" alt="Passage du 2ème élastique"  title="second élastique"  />
+<p><img loading="lazy" src="/posts/2023-01-25/05-bouchon-bas.jpg#center" alt="Passage du 2ème élastique"  />
 
 &ndash;&gt; Passage du 2ème élastique</p>
-<p><img loading="lazy" src="/posts/2023-01-25/06-bouchon-bas.jpg#center" alt="Les élastiques sont en place"  title="élastiques en place"  />
+<p><img loading="lazy" src="/posts/2023-01-25/06-bouchon-bas.jpg#center" alt="Les élastiques sont en place"  />
 
 &ndash;&gt; Les élastiques sont en place</p>
-<p><img loading="lazy" src="/posts/2023-01-25/07-bouchon-bas.jpg#center" alt="Nœud de capucin avec le fil en dyneema/spectra"  title="nœud capucin pour bloquer l&#39;élastique"  />
+<p><img loading="lazy" src="/posts/2023-01-25/07-bouchon-bas.jpg#center" alt="Nœud de capucin avec le fil en dyneema/spectra"  />
 
 &ndash;&gt; Nœud de capucin avec le fil en dyneema/spectra</p>
-<p><img loading="lazy" src="/posts/2023-01-25/08-bouchon-bas.jpg#center" alt="Finition sur quelques cm"  title="épissure et nœuds de finition"  />
+<p><img loading="lazy" src="/posts/2023-01-25/08-bouchon-bas.jpg#center" alt="Finition sur quelques cm"  />
 
 &ndash;&gt; Finition sur quelques cm</p>
-<p><img loading="lazy" src="/posts/2023-01-25/09-bouchon-bas.jpg#center" alt="On tire l&amp;rsquo;élastique pour le rentrer"  title="elastiqué caché"  />
+<p><img loading="lazy" src="/posts/2023-01-25/09-bouchon-bas.jpg#center" alt="On tire l&amp;rsquo;élastique pour le rentrer"  />
 
 &ndash;&gt; On tire l&rsquo;élastique pour le rentrer</p>
-<p><img loading="lazy" src="/posts/2023-01-25/10-bouchon-bas.jpg#center" alt="Nœud invisible"  title="fixation cachée dans la barre"  />
+<p><img loading="lazy" src="/posts/2023-01-25/10-bouchon-bas.jpg#center" alt="Nœud invisible"  />
 
 &ndash;&gt; Nœud invisible</p>
 ]]></content:encoded>
@@ -154,42 +154,42 @@ RAS, pas de plis visibles</p>
       <description>Assemblage des barres du bord d&amp;#39;attaque, élastiques et embouts</description>
       <content:encoded><![CDATA[<h2 id="barre-centrale">Barre centrale</h2>
 <p>Élément à ajuster avant collage des raccords internes de la barre du bord d&rsquo;attaque. Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités</p>
-<p><img loading="lazy" src="/posts/2023-01-23/01-barre-centrale.jpg#center" alt="Détail des 5 barres du cerf-volant"  title="5 tubes d&#39;un Révolution"  />
+<p><img loading="lazy" src="/posts/2023-01-23/01-barre-centrale.jpg#center" alt="Détail des 5 barres du cerf-volant"  />
 
 &ndash;&gt; Détail des 5 barres du cerf-volant</p>
-<p><img loading="lazy" src="/posts/2023-01-23/02-marquage.jpg#center" alt="Marquage du milieu sur le raccord carbone plein"  title="marque au centre du raccord"  />
+<p><img loading="lazy" src="/posts/2023-01-23/02-marquage.jpg#center" alt="Marquage du milieu sur le raccord carbone plein"  />
 
 &ndash;&gt; Marquage du milieu sur le raccord carbone plein</p>
-<p><img loading="lazy" src="/posts/2023-01-23/03-collage.jpg#center" alt="Collage et immobilisation avec du scotch durant la polymérisation"  title="collage de l&#39;insert"  />
+<p><img loading="lazy" src="/posts/2023-01-23/03-collage.jpg#center" alt="Collage et immobilisation avec du scotch durant la polymérisation"  />
 
 &ndash;&gt; Collage et immobilisation avec du scotch durant la polymérisation</p>
 <h2 id="trous-et-élastiques">Trous et élastiques</h2>
-<p><img loading="lazy" src="/posts/2023-01-23/04-trous.jpg#center" alt="Préparation pour trouer le dacron"  title="lampe à pétrole pour percer le dacron"  />
+<p><img loading="lazy" src="/posts/2023-01-23/04-trous.jpg#center" alt="Préparation pour trouer le dacron"  />
 
 &ndash;&gt; Préparation pour trouer le dacron avec une mini lampe à pétrole (recyclage petit pot en verre)</p>
-<p><img loading="lazy" src="/posts/2023-01-23/05-elastique.jpg#center" alt="Les nœuds et coutures sont côté verso"  title="élastiques"  />
+<p><img loading="lazy" src="/posts/2023-01-23/05-elastique.jpg#center" alt="Les nœuds et coutures sont côté verso"  />
 
 &ndash;&gt; Les nœuds et coutures sont côté verso</p>
-<p><img loading="lazy" src="/posts/2023-01-23/06-trous.jpg#center" alt="Trou au niveau de l&amp;rsquo;attache de barre verticale"  title="trou pour l&#39;embout de barre verticale"  />
+<p><img loading="lazy" src="/posts/2023-01-23/06-trous.jpg#center" alt="Trou au niveau de l&amp;rsquo;attache de barre verticale"  />
 
 &ndash;&gt; Trou au niveau de l&rsquo;attache de barre verticale</p>
 <h2 id="bride-et-embouts-de-barre-verticale">Bride et embouts de barre verticale</h2>
-<p><img loading="lazy" src="/posts/2023-01-23/07-fixation-barre-verticale.jpg#center" alt="Mise en place de la bride"  title="bride de fixation d&#39;embout"  />
+<p><img loading="lazy" src="/posts/2023-01-23/07-fixation-barre-verticale.jpg#center" alt="Mise en place de la bride"  />
 
 &ndash;&gt; Mise en place de la bride</p>
-<p><img loading="lazy" src="/posts/2023-01-23/08-fixation-barre-verticale.jpg#center" alt="Passage dans la boucle"  title="première boucle"  />
+<p><img loading="lazy" src="/posts/2023-01-23/08-fixation-barre-verticale.jpg#center" alt="Passage dans la boucle"  />
 
 &ndash;&gt; Passage dans la boucle</p>
-<p><img loading="lazy" src="/posts/2023-01-23/09-fixation-barre-verticale.jpg#center" alt="La boucle passe dans l&amp;rsquo;embout"  title="seconde boucle"  />
+<p><img loading="lazy" src="/posts/2023-01-23/09-fixation-barre-verticale.jpg#center" alt="La boucle passe dans l&amp;rsquo;embout"  />
 
 &ndash;&gt; La boucle passe dans l&rsquo;embout</p>
-<p><img loading="lazy" src="/posts/2023-01-23/10-fixation-barre-verticale.jpg#center" alt="On tire pour voir le nœud"  title="serrage nœud"  />
+<p><img loading="lazy" src="/posts/2023-01-23/10-fixation-barre-verticale.jpg#center" alt="On tire pour voir le nœud"  />
 
 &ndash;&gt; On tire pour voir le nœud</p>
-<p><img loading="lazy" src="/posts/2023-01-23/11-fixation-barre-verticale.jpg#center" alt="Nouveau nœud, on ajuste et on resserre"  title="ajustement nœud"  />
+<p><img loading="lazy" src="/posts/2023-01-23/11-fixation-barre-verticale.jpg#center" alt="Nouveau nœud, on ajuste et on resserre"  />
 
 &ndash;&gt; Nouveau nœud, on ajuste et on resserre</p>
-<p><img loading="lazy" src="/posts/2023-01-23/12-renfort-central.jpg#center" alt="Trou au niveau du renfort central"  title="emplacement bridage horizontal"  />
+<p><img loading="lazy" src="/posts/2023-01-23/12-renfort-central.jpg#center" alt="Trou au niveau du renfort central"  />
 
 &ndash;&gt; Trou au niveau du renfort central</p>
 ]]></content:encoded>
@@ -203,48 +203,48 @@ RAS, pas de plis visibles</p>
       <guid>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</guid>
       <description>Élément soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant 4 lignes, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
       <content:encoded><![CDATA[<h2 id="préparation-et-couture">Préparation et couture</h2>
-<p><img loading="lazy" src="/posts/2023-01-21/01-bord-de-fuite.jpg#center" alt="Bord de fuite"  title="photo bord de fuite"  />
+<p><img loading="lazy" src="/posts/2023-01-21/01-bord-de-fuite.jpg#center" alt="Bord de fuite"  />
 
 &ndash;&gt; Bord de fuite</p>
 <p><img loading="lazy" src="/posts/2023-01-21/02-double-face.jpg" alt="Double face en pointillé pour limiter un bourrage de fil et des dépôts collants sur l&amp;rsquo;aiguille"  title="peu d&#39;adhésif pour faciliter la couture"  />
 
 &ndash;&gt; Double face en pointillé pour limiter un bourrage de fil et des dépôts collants sur l&rsquo;aiguille</p>
-<p><img loading="lazy" src="/posts/2023-01-21/03-double-face.jpg#center" alt="Double face sur le recto"  title="adhésif côté au vent"  />
+<p><img loading="lazy" src="/posts/2023-01-21/03-double-face.jpg#center" alt="Double face sur le recto"  />
 
 &ndash;&gt; Double face sur le recto</p>
-<p><img loading="lazy" src="/posts/2023-01-21/04-avant-apres-collage.jpg#center" alt="Avant versus après pliage et collage"  title="ourlet avant et après pliage"  />
+<p><img loading="lazy" src="/posts/2023-01-21/04-avant-apres-collage.jpg#center" alt="Avant versus après pliage et collage"  />
 
 &ndash;&gt; Avant versus après pliage et collage</p>
-<p><img loading="lazy" src="/posts/2023-01-21/05-pliage.jpg#center" alt="Pliage du rebord de l&amp;rsquo;extérieur vers l&amp;rsquo;intérieur"  title="pliage extérieur vers intérieur"  />
+<p><img loading="lazy" src="/posts/2023-01-21/05-pliage.jpg#center" alt="Pliage du rebord de l&amp;rsquo;extérieur vers l&amp;rsquo;intérieur"  />
 
 &ndash;&gt; Pliage du rebord de l&rsquo;extérieur vers l&rsquo;intérieur</p>
-<p><img loading="lazy" src="/posts/2023-01-21/06-collage.jpg#center" alt="Collage du rebord vers l&amp;rsquo;intérieur"  title="Suite collage"  />
+<p><img loading="lazy" src="/posts/2023-01-21/06-collage.jpg#center" alt="Collage du rebord vers l&amp;rsquo;intérieur"  />
 
 &ndash;&gt; Collage du rebord vers l&rsquo;intérieur</p>
-<p><img loading="lazy" src="/posts/2023-01-21/07-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté recto"  title="couture ourlet côté au vent"  />
+<p><img loading="lazy" src="/posts/2023-01-21/07-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté recto"  />
 
 &ndash;&gt; Focus: couture du bord d&rsquo;attaque côté recto</p>
-<p><img loading="lazy" src="/posts/2023-01-21/08-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté verso"  title="couture ourlet côté sous le vent"  />
+<p><img loading="lazy" src="/posts/2023-01-21/08-couture-bord-attaque.jpg#center" alt="Focus: couture du bord d&amp;rsquo;attaque côté verso"  />
 
 &ndash;&gt; Focus: couture du bord d&rsquo;attaque côté verso</p>
 <h2 id="couture-du-renfort-de-coin">Couture du renfort de coin</h2>
-<p><img loading="lazy" src="/posts/2023-01-21/09-pliage-coin.jpg#center" alt="Marquage des plis sur le renfort de coin"  title="renfort du coin"  />
+<p><img loading="lazy" src="/posts/2023-01-21/09-pliage-coin.jpg#center" alt="Marquage des plis sur le renfort de coin"  />
 
 &ndash;&gt; Marquage des plis sur le renfort de coin</p>
-<p><img loading="lazy" src="/posts/2023-01-21/10-pliage-coin.jpg#center" alt="Renfort de coin semi-replié"  title="origami sur le renfort extérieur"  />
+<p><img loading="lazy" src="/posts/2023-01-21/10-pliage-coin.jpg#center" alt="Renfort de coin semi-replié"  />
 
 &ndash;&gt; Renfort de coin semi-replié</p>
-<p><img loading="lazy" src="/posts/2023-01-21/11-coin-replie.jpg#center" alt="Renfort de coin replié"  title="renfort plié"  />
+<p><img loading="lazy" src="/posts/2023-01-21/11-coin-replie.jpg#center" alt="Renfort de coin replié"  />
 
 &ndash;&gt; Renfort de coin replié</p>
-<p><img loading="lazy" src="/posts/2023-01-21/12-mise-en-place.jpg#center" alt="Mise en place du coin"  title="positionnement du renfort"  />
+<p><img loading="lazy" src="/posts/2023-01-21/12-mise-en-place.jpg#center" alt="Mise en place du coin"  />
 
 &ndash;&gt; Mise en place du coin</p>
-<p><img loading="lazy" src="/posts/2023-01-21/13-couture-coin.jpg#center" alt="Couture du coin"  title="couture définitive du coin"  />
+<p><img loading="lazy" src="/posts/2023-01-21/13-couture-coin.jpg#center" alt="Couture du coin"  />
 
 &ndash;&gt; Couture du coin</p>
 <h2 id="petit-complément">Petit complément</h2>
-<p><img loading="lazy" src="/posts/2023-01-21/14-finition.jpg#center" alt="Finition: couture oubliée sur le renfort haut de barre verticale"  title="couture oubliée"  />
+<p><img loading="lazy" src="/posts/2023-01-21/14-finition.jpg#center" alt="Finition: couture oubliée sur le renfort haut de barre verticale"  />
 
 &ndash;&gt; Finition: couture oubliée sur le renfort haut de barre verticale</p>
 ]]></content:encoded>
@@ -271,34 +271,34 @@ côté où il y a le bridage et les lignes</p>
 </li>
 </ul>
 <h2 id="détail-des-renforts">Détail des renforts</h2>
-<p><img loading="lazy" src="/posts/2023-01-19/01-renfort-central.jpg#center" alt="Renfort central en forme de T"  title="renfort médian"  />
+<p><img loading="lazy" src="/posts/2023-01-19/01-renfort-central.jpg#center" alt="Renfort central en forme de T"  />
 
 &ndash;&gt; Renfort central en forme de T</p>
-<p><img loading="lazy" src="/posts/2023-01-19/02-renfort-pliure-barre.jpg#center" alt="Renfort à l&amp;rsquo;emplacement où se plie le cerf-volant après rangement"  title="renfort dacron pour le rangement"  />
+<p><img loading="lazy" src="/posts/2023-01-19/02-renfort-pliure-barre.jpg#center" alt="Renfort à l&amp;rsquo;emplacement où se plie le cerf-volant après rangement"  />
 
 &ndash;&gt; Renfort à l&rsquo;emplacement où se plie le cerf-volant après rangement</p>
-<p><img loading="lazy" src="/posts/2023-01-19/03-renfort-recto.jpg#center" alt="Renfort côté recto, au niveau de la pliure de barre"  title="renfort côté au vent"  />
+<p><img loading="lazy" src="/posts/2023-01-19/03-renfort-recto.jpg#center" alt="Renfort côté recto, au niveau de la pliure de barre"  />
 
 &ndash;&gt; Renfort côté <strong>recto</strong>, au niveau de la pliure de barre</p>
-<p><img loading="lazy" src="/posts/2023-01-19/04-renfort-verso.jpg#center" alt="Renfort côté verso, au niveau de la pliure de barre"  title="renfort côté sous le vent"  />
+<p><img loading="lazy" src="/posts/2023-01-19/04-renfort-verso.jpg#center" alt="Renfort côté verso, au niveau de la pliure de barre"  />
 
 &ndash;&gt; Renfort côté <strong>verso</strong>, au niveau de la pliure de barre</p>
-<p><img loading="lazy" src="/posts/2023-01-19/05-renfort-bas.jpg#center" alt="Renfort du bas côté verso"  title="renfort bas côté au vent"  />
+<p><img loading="lazy" src="/posts/2023-01-19/05-renfort-bas.jpg#center" alt="Renfort du bas côté verso"  />
 
 &ndash;&gt; Renfort du bas côté verso</p>
-<p><img loading="lazy" src="/posts/2023-01-19/06-renfort-barre-verticale.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  title="renfort de barre verticale"  />
+<p><img loading="lazy" src="/posts/2023-01-19/06-renfort-barre-verticale.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  />
 
 &ndash;&gt; Renfort de barre verticale (haut de la voile)</p>
-<p><img loading="lazy" src="/posts/2023-01-19/07-renfort-barres-recto.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  title="renfort de barre verticale"  />
+<p><img loading="lazy" src="/posts/2023-01-19/07-renfort-barres-recto.jpg#center" alt="Renfort de barre verticale (haut de la voile)"  />
 
 &ndash;&gt; Renfort de barre verticale (haut de la voile)</p>
-<p><img loading="lazy" src="/posts/2023-01-19/08-renfort-barres-verso.jpg#center" alt="Renfort de barre verticale"  title="détail renfort de barre"  />
+<p><img loading="lazy" src="/posts/2023-01-19/08-renfort-barres-verso.jpg#center" alt="Renfort de barre verticale"  />
 
 &ndash;&gt; Renfort de barre verticale</p>
-<p><img loading="lazy" src="/posts/2023-01-19/09-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  title="renfort au centre"  />
+<p><img loading="lazy" src="/posts/2023-01-19/09-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  />
 
 &ndash;&gt; Renfort jonction centrale</p>
-<p><img loading="lazy" src="/posts/2023-01-19/10-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  title="renfort au centre"  />
+<p><img loading="lazy" src="/posts/2023-01-19/10-renfort-jonction.jpg#center" alt="Renfort jonction centrale"  />
 
 &ndash;&gt; Renfort jonction centrale</p>
 ]]></content:encoded>
@@ -312,23 +312,23 @@ côté où il y a le bridage et les lignes</p>
       <guid>https://gfakite.github.io/posts/2023/01/bord-dattaque/</guid>
       <description>Partie avant d&amp;#39;un profil aérodynamique. Sur une voile de cerf-volant, il fait face au vent</description>
       <content:encoded><![CDATA[<h2 id="préparation">Préparation</h2>
-<p><img loading="lazy" src="/posts/2023-01-17/01-bord-attaque.jpg#center" alt="Bord d&amp;rsquo;attaque"  title="bord d&#39;attaque"  />
+<p><img loading="lazy" src="/posts/2023-01-17/01-bord-attaque.jpg#center" alt="Bord d&amp;rsquo;attaque"  />
 
 &ndash;&gt; Bord d&rsquo;attaque</p>
-<p><img loading="lazy" src="/posts/2023-01-17/02-dacron.jpg#center" alt="Marquage de la pliure en écrasant le dacron"  title="préparation du dacron pour le bord d&#39;attaque"  />
+<p><img loading="lazy" src="/posts/2023-01-17/02-dacron.jpg#center" alt="Marquage de la pliure en écrasant le dacron"  />
 
 &ndash;&gt; Marquage de la pliure en écrasant le dacron</p>
-<p><img loading="lazy" src="/posts/2023-01-17/03-pliage-coin.jpg#center" alt="Pliage du coin"  title="coins du bord d&#39;attaque"  />
+<p><img loading="lazy" src="/posts/2023-01-17/03-pliage-coin.jpg#center" alt="Pliage du coin"  />
 
 &ndash;&gt; Pliage du coin</p>
-<p><img loading="lazy" src="/posts/2023-01-17/04-ajustement-coin.jpg#center" alt="Ajustement sur le plan"  title="voile sur le plan"  />
+<p><img loading="lazy" src="/posts/2023-01-17/04-ajustement-coin.jpg#center" alt="Ajustement sur le plan"  />
 
 &ndash;&gt; Ajustement sur le plan</p>
 <h2 id="assemblage">Assemblage</h2>
-<p><img loading="lazy" src="/posts/2023-01-17/05-bord-dattaque.jpg#center" alt="Couture zigzag du bord d&amp;rsquo;attaque"  title="couture finale bord d&#39;attaque"  />
+<p><img loading="lazy" src="/posts/2023-01-17/05-bord-dattaque.jpg#center" alt="Couture zigzag du bord d&amp;rsquo;attaque"  />
 
 &ndash;&gt; Couture zigzag du bord d&rsquo;attaque</p>
-<p><img loading="lazy" src="/posts/2023-01-17/06-resultat.jpg#center" alt="Résultat final"  title="résultat de l&#39;assemblage"  />
+<p><img loading="lazy" src="/posts/2023-01-17/06-resultat.jpg#center" alt="Résultat final"  />
 
 &ndash;&gt; Résultat final</p>
 ]]></content:encoded>
@@ -343,35 +343,35 @@ côté où il y a le bridage et les lignes</p>
       <description>Une image vaut mieux qu&amp;#39;un long discours</description>
       <content:encoded><![CDATA[<h2 id="découpage-de-la-voile">Découpage de la voile</h2>
 <p>Premières découpes suivies du premier collage (bien droit et sans plis)</p>
-<p><img loading="lazy" src="/posts/2023-01-15/01-traits.jpg#center" alt="Traçage des traits à partir du plan"  title="traits à découper"  />
+<p><img loading="lazy" src="/posts/2023-01-15/01-traits.jpg#center" alt="Traçage des traits à partir du plan"  />
 
 &ndash;&gt; Traçage des traits à partir du plan</p>
-<p><img loading="lazy" src="/posts/2023-01-15/02-decoupe-voile.jpg#center" alt="Découpe de la voile en suivant les traits"  title="découpage de la voile"  />
+<p><img loading="lazy" src="/posts/2023-01-15/02-decoupe-voile.jpg#center" alt="Découpe de la voile en suivant les traits"  />
 
 &ndash;&gt; Découpe de la voile en suivant les traits</p>
-<p><img loading="lazy" src="/posts/2023-01-15/03-scotch-double-face.jpg#center" alt="Scotch double face"  title="adhésif double face"  />
+<p><img loading="lazy" src="/posts/2023-01-15/03-scotch-double-face.jpg#center" alt="Scotch double face"  />
 
 &ndash;&gt; Scotch double face</p>
-<p><img loading="lazy" src="/posts/2023-01-15/04-collage.jpg#center" alt="Collage de la moustiquaire"  title="collage de la gaze"  />
+<p><img loading="lazy" src="/posts/2023-01-15/04-collage.jpg#center" alt="Collage de la moustiquaire"  />
 
 &ndash;&gt; Collage de la moustiquaire</p>
 <h2 id="première-couture">Première couture</h2>
 <p>Tissu à accompagner doucement avec la machine</p>
-<p><img loading="lazy" src="/posts/2023-01-15/05-couture-point-droit.jpg#center" alt="Couture point droit"  title="point droit"  />
+<p><img loading="lazy" src="/posts/2023-01-15/05-couture-point-droit.jpg#center" alt="Couture point droit"  />
 
 &ndash;&gt; Couture point droit</p>
-<p><img loading="lazy" src="/posts/2023-01-15/06-couture-point-droit.jpg#center" alt="Résultat de la première couture"  title="résultat couture"  />
+<p><img loading="lazy" src="/posts/2023-01-15/06-couture-point-droit.jpg#center" alt="Résultat de la première couture"  />
 
 &ndash;&gt; Résultat de la première couture</p>
-<p><img loading="lazy" src="/posts/2023-01-15/07-zigzag.jpg#center" alt="ZigZag sur le tissu retourné"  title="3 points zigzag sur l&#39;ourlet double rempli"  />
+<p><img loading="lazy" src="/posts/2023-01-15/07-zigzag.jpg#center" alt="ZigZag sur le tissu retourné"  />
 
 &ndash;&gt; ZigZag sur le tissu retourné</p>
 <h2 id="ajustement-et-découpe-de-la-moustiquaire">Ajustement et découpe de la moustiquaire</h2>
 <p>Vérification de l&rsquo;alignement sur le plan</p>
-<p><img loading="lazy" src="/posts/2023-01-15/08-scotch.jpg#center" alt="2 cm de scotch pour la moustiquaire"  title="délimitation moustiquaire avant découpe"  />
+<p><img loading="lazy" src="/posts/2023-01-15/08-scotch.jpg#center" alt="2 cm de scotch pour la moustiquaire"  />
 
 &ndash;&gt; 2 cm de scotch pour la moustiquaire</p>
-<p><img loading="lazy" src="/posts/2023-01-15/09-decoupe-moustiquaire.jpg#center" alt="Préparation découpe de l&amp;rsquo;excédent de moustiquaire"  title="préparation découpe gaze"  />
+<p><img loading="lazy" src="/posts/2023-01-15/09-decoupe-moustiquaire.jpg#center" alt="Préparation découpe de l&amp;rsquo;excédent de moustiquaire"  />
 
 &ndash;&gt; Préparation découpe de l&rsquo;excédent de moustiquaire</p>
 ]]></content:encoded>
@@ -412,10 +412,10 @@ côté où il y a le bridage et les lignes</p>
 <li>Une scie à métaux (lame spéciale carbone ou sinon métaux)</li>
 </ul>
 <h2 id="fournitures">Fournitures</h2>
-<p><img loading="lazy" src="/posts/2023-01-13/01-colis.jpg#center" alt="Long colis"  title="colis cerf-volant"  />
+<p><img loading="lazy" src="/posts/2023-01-13/01-colis.jpg#center" alt="Long colis"  />
 
 &ndash;&gt; Long colis</p>
-<p><img loading="lazy" src="/posts/2023-01-13/02-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  title="contenu du colis"  />
+<p><img loading="lazy" src="/posts/2023-01-13/02-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
 
 &ndash;&gt; Intérieur du colis: détail des fournitures</p>
 <h2 id="liste-des-pièces">Liste des pièces</h2>
@@ -465,10 +465,10 @@ côté où il y a le bridage et les lignes</p>
 <p>Ce modèle est de type pilotable à 4 lignes (quad lines stunt kite)</p>
 <h2 id="2-lignes-versus-4-lignes">2 lignes versus 4 lignes</h2>
 <p>Contrairement à un classique cerf-volant 2 lignes Delta le <em>4 lignes Révolution</em> offre plus latitude de manœuvres aériennes: vol stationnaire, marche arrière, etc.</p>
-<p><img loading="lazy" src="/posts/2023-01-11/01-pilotage.png#center" alt="2 lignes versus 4 ligne"  title="Comparaison 2 lignes versus 4 lignes"  />
+<p><img loading="lazy" src="/posts/2023-01-11/01-pilotage.png#center" alt="2 lignes versus 4 ligne"  />
 
 &ndash;&gt; 2 lignes versus 4 ligne</p>
-<p><img loading="lazy" src="/posts/2023-01-11/02-poignees.png#center" alt="Nombre de points d&amp;rsquo;attache sur les poignées"  title="détail des poignées 2 et 4 lignes"  />
+<p><img loading="lazy" src="/posts/2023-01-11/02-poignees.png#center" alt="Nombre de points d&amp;rsquo;attache sur les poignées"  />
 
 &ndash;&gt; Nombre de points d&rsquo;attache sur les poignées</p>
 <h2 id="plan-de-la-voile">Plan de la voile</h2>
@@ -479,7 +479,7 @@ côté où il y a le bridage et les lignes</p>
 </ul>
 <h2 id="ajustement">Ajustement</h2>
 <p>Réalisation simplifiée sur un morceau d&rsquo;Icarex de 3 m x 1,50 m</p>
-<p><img loading="lazy" src="/posts/2023-01-11/04-plan.png#center" alt="3 m = 2 voiles"  title="2 voiles d&#39;un seul tenant"  />
+<p><img loading="lazy" src="/posts/2023-01-11/04-plan.png#center" alt="3 m = 2 voiles"  />
 
 3 m = 2 voiles d&rsquo;un seul tenant sur un morceau de tissu:</p>
 <ul>
@@ -496,26 +496,26 @@ Les téméraires des motifs et panneaux peuvent se lancer:</p>
 <li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials" target="_blank" rel="nofollow noopener noreferrer">watty.us</a></li>
 </ul>
 <p>Superposition des panneaux &ndash;&gt; toujours mettre le tissu le plus sombre au-dessus du clair pour éviter d&rsquo;avoir une 3ème couleur (superposition clair sur foncé)</p>
-<p><img loading="lazy" src="/posts/2023-01-11/06-trame.png#center" alt="Orientation des panneaux"  title="orientation de la trame en fonction des panneaux"  />
+<p><img loading="lazy" src="/posts/2023-01-11/06-trame.png#center" alt="Orientation des panneaux"  />
 
 &ndash;&gt; Orientation des panneaux</p>
 <h2 id="plan-de-bridage">Plan de bridage</h2>
 <p>Etape détaillée ultérieurement dans la construction (confer page: <a href="https://gfakite.github.io/posts/2023/01/bridage-traditionnel/">Bridage traditionnel</a>)</p>
 <h2 id="impression-du-plan-à-léchelle-11">Impression du plan à l&rsquo;échelle 1:1</h2>
 <p>Le plan est imprimable en format paysage sur 9 pages A3</p>
-<p><img loading="lazy" src="/posts/2023-01-11/07-impression.png#center" alt="Taille 100%"  title="zoom pour impression"  />
+<p><img loading="lazy" src="/posts/2023-01-11/07-impression.png#center" alt="Taille 100%"  />
 
 &ndash;&gt; Taille 100%</p>
-<p><img loading="lazy" src="/posts/2023-01-11/08-impression.png#center" alt="Format A3 en paysage"  title="impression A3 paysage"  />
+<p><img loading="lazy" src="/posts/2023-01-11/08-impression.png#center" alt="Format A3 en paysage"  />
 
 &ndash;&gt; Format A3 en paysage</p>
 <h2 id="plan-complet-18-pages-a3">Plan complet: 18 pages A3</h2>
 <p>En appliquant un miroir horizontal sur le pdf, il est possible d&rsquo;avoir, le plan à l&rsquo;échelle 1:1 de la voile &ndash;&gt; <a href="https://www.google.com/search?q=flip&#43;horizontally&#43;pdf&#43;online" target="_blank" rel="nofollow noopener noreferrer">flip horizontally pdf online</a></p>
-<p><img loading="lazy" src="/posts/2023-01-11/09-gauche-droite.png#center" alt="Assemblage"  title="assemblage des pages"  />
+<p><img loading="lazy" src="/posts/2023-01-11/09-gauche-droite.png#center" alt="Assemblage"  />
 
 &ndash;&gt; Assemblage</p>
 <h2 id="contrôle-de-léchelle">Contrôle de l&rsquo;échelle</h2>
-<p><img loading="lazy" src="/posts/2023-01-11/10-echelle.jpg#center" alt="10 inches = 25,4 cm"  title="vérification échelle"  />
+<p><img loading="lazy" src="/posts/2023-01-11/10-echelle.jpg#center" alt="10 inches = 25,4 cm"  />
 
 &ndash;&gt; 10 inches = 25,4 cm</p>
 ]]></content:encoded>
