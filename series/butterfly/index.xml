@@ -25,6 +25,7 @@
 <tr>
 <th>Déclinaison</th>
 <th>Version</th>
+<th>Ventilation</th>
 <th>Beaufort</th>
 <th>mph</th>
 <th>knots</th>
@@ -35,6 +36,7 @@
 <tr>
 <td>S</td>
 <td>Standard</td>
+<td>0 %</td>
 <td>0 - 1</td>
 <td>0 - 7</td>
 <td>0 - 6</td>
@@ -43,6 +45,7 @@
 <tr>
 <td>V</td>
 <td>Vented</td>
+<td>13 %</td>
 <td>2 - 3</td>
 <td>5 - 12</td>
 <td>4 - 10</td>
@@ -51,6 +54,7 @@
 <tr>
 <td>XV</td>
 <td>Extra Vented</td>
+<td>26 %</td>
 <td>3 - 4</td>
 <td>10 - 17</td>
 <td>9 - 15</td>
@@ -59,6 +63,7 @@
 <tr>
 <td>XXV</td>
 <td>Double Extra Vented</td>
+<td>41 %</td>
 <td>4 - 5</td>
 <td>15 - 25</td>
 <td>13 - 21</td>
