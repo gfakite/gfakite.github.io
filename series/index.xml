@@ -8,6 +8,16 @@
     <language>fr</language>
     <lastBuildDate>Wed, 04 Jan 2023 05:01:29 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>airbow</title>
+      <link>https://gfakite.github.io/series/airbow/</link>
+      <pubDate>Mon, 26 Jun 2023 00:03:02 +0200</pubDate>
+      
+      <guid>https://gfakite.github.io/series/airbow/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>technique</title>
       <link>https://gfakite.github.io/series/technique/</link>
       <pubDate>Sun, 21 May 2023 09:40:02 +0200</pubDate>
@@ -33,16 +43,6 @@
       <pubDate>Sat, 15 Apr 2023 22:50:03 +0200</pubDate>
       
       <guid>https://gfakite.github.io/series/butterfly/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>airbow</title>
-      <link>https://gfakite.github.io/series/airbow/</link>
-      <pubDate>Sun, 26 Mar 2023 04:22:17 +0100</pubDate>
-      
-      <guid>https://gfakite.github.io/series/airbow/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
