@@ -6,7 +6,32 @@
     <description>Recent content in mini-revo on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 11 May 2023 05:13:07 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/series/mini-revo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Sep 2023 08:10:17 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/series/mini-revo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Revo: ajustements</title>
+      <link>https://gfakite.github.io/posts/2023/09/mini-revo-ajustements/</link>
+      <pubDate>Fri, 29 Sep 2023 08:10:17 +0100</pubDate>
+      
+      <guid>https://gfakite.github.io/posts/2023/09/mini-revo-ajustements/</guid>
+      <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
+      <content:encoded><![CDATA[<p>Mini Revo a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. Avec son bord d&rsquo;attaque de 70 cm, l&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas &ldquo;révolutionnaire&rdquo;</p>
+<p>En 2 lignes (bridage 4-2) ou en 4 lignes, le cerf-volant décolle facilement. Dès qu&rsquo;il est dans les airs, impossible de faire un vol stationnaire. Il part comme une flèche et ensuite c&rsquo;est décrochage sec, piqué en ligne droite ou vrille infernale</p>
+<p>Au final, c&rsquo;est une excellente voile emmêler les lignes</p>
+<h2 id="bridage-4-2">Bridage &ldquo;4-2&rdquo;</h2>
+<p>Le bridage <a href="/posts/2023/05/mini-revo/">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage se révèle délicat sur le bas du bridage (B3-B'3 et B4-B'4 sur le schéma)</p>
+<p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Le cerf-volant n&rsquo;est pas aisément pilotable</p>
+<h2 id="bridage-traditionnel-4-lignes-homothétie">Bridage traditionnel 4 lignes (homothétie)</h2>
+<p>Un bridage classique 4 lignes n&rsquo;est pas adapté. Les commandes sont beaucoup trop sensibles pour espérer un vol prolongé. Il est impossible de piloter et de maîtriser Mini Revo</p>
+<h2 id="ajustements-pour-piloter-la-bête">Ajustements pour piloter la bête</h2>
+<p>Pour améliorer le pilotage, il est prévu de tester deux ajustements:</p>
+<ul>
+<li>Utiliser des poignées 4 lignes très courtes (10 cm)</li>
+<li>Fixer les lignes directement sur les 4 extrémités des barres verticales</li>
+</ul>
+<p>Vivement la prochaine session avec du vent soutenu</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Mini Revo</title>
       <link>https://gfakite.github.io/posts/2023/05/mini-revo/</link>
@@ -94,7 +119,7 @@
 <p><strong>B'3-B0</strong> et <strong>B'4-B0</strong>: 115 cm</p>
 </li>
 <li>
-<p><strong>G-C-D</strong>: 275 cm</p>
+<p><strong>G-C-D</strong>: 275 cm (passe dans <strong>C</strong>)</p>
 </li>
 <li>
 <p><strong>B0-C</strong>: 10 cm</p>
