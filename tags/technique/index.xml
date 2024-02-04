@@ -6,12 +6,12 @@
     <description>Recent content in technique on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 21 May 2023 09:40:02 +0200</lastBuildDate><atom:link href="https://gfakite.github.io/tags/technique/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 09:40:02 +0200</lastBuildDate>
+    <atom:link href="https://gfakite.github.io/tags/technique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Housses</title>
       <link>https://gfakite.github.io/posts/2023/05/housses/</link>
       <pubDate>Sun, 21 May 2023 09:40:02 +0200</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/05/housses/</guid>
       <description>Rangements de transport et de protection de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-05-21/01-housses.jpg#center" alt="4 housses pour transporter 2 cerfs-volants"  />
@@ -75,12 +75,10 @@
 </table>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Essentials Vented</title>
       <link>https://gfakite.github.io/posts/2023/04/essentials-vented/</link>
       <pubDate>Sat, 15 Apr 2023 22:50:03 +0200</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/04/essentials-vented/</guid>
       <description>Versions et ventilation en fonction de la force du vent</description>
       <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
@@ -160,12 +158,10 @@
 &ndash;&gt; Butterfly en version Extra Vented</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Subversion: tube carbone</title>
       <link>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</link>
       <pubDate>Thu, 16 Mar 2023 11:22:01 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
       <description>Du carbone pour la rigididé et la légèreté</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  />
@@ -303,12 +299,10 @@
 &ndash;&gt; Easton PowerFlight 500</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Conseils et repentance</title>
       <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
       <pubDate>Wed, 15 Feb 2023 05:13:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
       <description>Quelques indications pour éviter des écueils de fabrication</description>
       <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, Butterfly vole très correctement</p>
@@ -445,6 +439,5 @@
 &ndash;&gt; Repère vert à suivre</p>
 ]]></content:encoded>
     </item>
-    
   </channel>
 </rss>

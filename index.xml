@@ -6,12 +6,46 @@
     <description>Recent content on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 01 Jan 2023 05:01:29 +0100</lastBuildDate><atom:link href="https://gfakite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 05:01:29 +0100</lastBuildDate>
+    <atom:link href="https://gfakite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Numéro 6: revo standard</title>
+      <link>https://gfakite.github.io/posts/2024/02/num%C3%A9ro-6-revo-standard/</link>
+      <pubDate>Sun, 04 Feb 2024 20:53:08 +0100</pubDate>
+      <guid>https://gfakite.github.io/posts/2024/02/num%C3%A9ro-6-revo-standard/</guid>
+      <description>Cerf-volant 4 lignes standard, 6ème de la lignée</description>
+      <content:encoded><![CDATA[<p>Cerf-volant standard (STD), prévu pour voler de 5 à 20 km/h de vent</p>
+<p><img loading="lazy" src="/posts/2024-02-04/01-au-repos.jpg#center" alt="Au repos"  />
+
+&ndash;&gt; En position de repos</p>
+<p>Eu égard à mon niveau de vol, le comportement est très satisfaisant. Ce revo est homogène, un vrai régal à piloter:</p>
+<ul>
+<li>
+<p>taille: 1.5 = 2m36</p>
+</li>
+<li>
+<p>Ventilation: 0%</p>
+</li>
+<li>
+<p>Barres: SkyShark P100 en 31&quot;</p>
+</li>
+<li>
+<p>Motif: improvisation complète</p>
+<p>Ratage aigu sur un plan avec des courbes</p>
+<p>Rattrapage avec des lignes droites associé à des chutes</p>
+</li>
+</ul>
+<p>Note: l&rsquo;asymétrie sur l&rsquo;extérieur est voulue. Dommage, elle ne se voit pas en vol</p>
+<p><img loading="lazy" src="/posts/2024-02-04/02-pret-a-decoller.jpg#center" alt="Prêt à décoller"  />
+
+&ndash;&gt; Prêt à décoller par 13km/h de vent</p>
+<p>Sur le bridage (climax 140kg), l&rsquo;âme (dyneema) sort de la gaine (polyester) à plus de 15 endroits. Pour le moment, ça tient !</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Mini Revo: ajustements</title>
       <link>https://gfakite.github.io/posts/2023/09/mini-revo-ajustements/</link>
       <pubDate>Fri, 29 Sep 2023 08:10:17 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/09/mini-revo-ajustements/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
       <content:encoded><![CDATA[<p>Mini Revo a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. Avec son bord d&rsquo;attaque de 70 cm, l&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas &ldquo;révolutionnaire&rdquo;</p>
@@ -37,12 +71,10 @@
 <p>Vivement la prochaine session avec du vent soutenu</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>AirBow fini</title>
       <link>https://gfakite.github.io/posts/2023/06/airbow-fini/</link>
       <pubDate>Mon, 26 Jun 2023 00:03:04 +0200</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/06/airbow-fini/</guid>
       <description>Chantier AirBow terminé, premier vol</description>
       <content:encoded><![CDATA[<p>31 pièces d&rsquo;accastillage composent ce cerf-volant inspiré d&rsquo;un AirBow. Un ajustement est à prévoir sur la tension du bridage horizontal (jonction hauche/droite)</p>
@@ -75,12 +107,10 @@
 <p>Au premier abord, la forme de voile est déroutante mais elle permet une autre expérience de vol: plané sur le coté, rotation rapide, vol sur le dos, etc.</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Housses</title>
       <link>https://gfakite.github.io/posts/2023/05/housses/</link>
       <pubDate>Sun, 21 May 2023 09:40:02 +0200</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/05/housses/</guid>
       <description>Rangements de transport et de protection de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-05-21/01-housses.jpg#center" alt="4 housses pour transporter 2 cerfs-volants"  />
@@ -144,12 +174,10 @@
 </table>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Mini Revo</title>
       <link>https://gfakite.github.io/posts/2023/05/mini-revo/</link>
       <pubDate>Thu, 11 May 2023 05:13:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/05/mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
       <content:encoded><![CDATA[<p>Petit Révolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan <em>Revo 1.5</em> d&rsquo;<em>Yves Ganne</em> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
@@ -262,12 +290,10 @@
 &ndash;&gt; Mini Revo prêt à voler</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Essentials Vented</title>
       <link>https://gfakite.github.io/posts/2023/04/essentials-vented/</link>
       <pubDate>Sat, 15 Apr 2023 22:50:03 +0200</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/04/essentials-vented/</guid>
       <description>Versions et ventilation en fonction de la force du vent</description>
       <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
@@ -347,12 +373,10 @@
 &ndash;&gt; Butterfly en version Extra Vented</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>AirBow: suite du chantier</title>
       <link>https://gfakite.github.io/posts/2023/03/airbow-suite-du-chantier/</link>
       <pubDate>Sun, 26 Mar 2023 04:22:17 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/03/airbow-suite-du-chantier/</guid>
       <description>Petites avancées sur la voile en relief</description>
       <content:encoded><![CDATA[<h2 id="msmd----monkey-see-monkey-do">MSMD &ndash;&gt; Monkey See Monkey Do</h2>
@@ -388,12 +412,10 @@
 <a href="https://www.youtube.com/@Stuntkiting" target="_blank" rel="nofollow noopener noreferrer">Crédit: Paul May</a> | 25 août 2014</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>AirBow: vidéocassette</title>
       <link>https://gfakite.github.io/posts/2023/03/airbow-videocassette/</link>
       <pubDate>Tue, 21 Mar 2023 14:03:47 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/03/airbow-videocassette/</guid>
       <description>Vidéos au sol et en vol</description>
       <content:encoded><![CDATA[<p>Quelques vidéos de cerf-volant AirBow en vol trouvées sur Internet afin de cerner son comportement et voir ce dont il est capable. Ce modèle de 4 lignes n&rsquo;est pas récent, les vidéos datent un peu mais le sujet et l&rsquo;expérience de vol sont intéressants</p>
@@ -431,12 +453,10 @@
 25 novembre 2013 | Crédit: <a href="https://www.youtube.com/@timothyrohn2906" target="_blank" rel="nofollow noopener noreferrer">Timothy Rohn</a></p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Subversion: tube carbone</title>
       <link>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</link>
       <pubDate>Thu, 16 Mar 2023 11:22:01 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
       <description>Du carbone pour la rigididé et la légèreté</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  />
@@ -574,12 +594,10 @@
 &ndash;&gt; Easton PowerFlight 500</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Nouveau projet AirBow</title>
       <link>https://gfakite.github.io/posts/2023/03/nouveau-projet-airbow/</link>
       <pubDate>Wed, 15 Mar 2023 13:33:25 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/03/nouveau-projet-airbow/</guid>
       <description>Cerf-volant à voile tendue et convexe</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-15/01_miaribow.jpg#center" alt="AirBow (crédit photo: Jordi Morella"  />
@@ -616,12 +634,10 @@
 &ndash;&gt; Voile sans barres</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Connecteurs en T: Mister T</title>
       <link>https://gfakite.github.io/posts/2023/02/connecteurs-en-t-mister-t/</link>
       <pubDate>Tue, 28 Feb 2023 00:01:01 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/02/connecteurs-en-t-mister-t/</guid>
       <description>Nouvelle forme de voile et nouvelle liaison entre le bord d&amp;#39;attaque et les barres verticales</description>
       <content:encoded><![CDATA[<p>Construction en <em>Icarex PC31</em> couleur gold</p>
@@ -646,12 +662,10 @@
 &ndash;&gt; Coutures renfort bas</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Conseils et repentance</title>
       <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
       <pubDate>Wed, 15 Feb 2023 05:13:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
       <description>Quelques indications pour éviter des écueils de fabrication</description>
       <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, Butterfly vole très correctement</p>
@@ -788,12 +802,10 @@
 &ndash;&gt; Repère vert à suivre</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Assemblage final</title>
       <link>https://gfakite.github.io/posts/2023/01/assemblage-final/</link>
       <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<p>3 vérifications à effectuer sur le cerf-volant</p>
@@ -820,12 +832,10 @@ RAS, pas de plis visibles</p>
 <p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler &ndash;&gt; <a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Bridage traditionnel</title>
       <link>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</link>
       <pubDate>Sun, 29 Jan 2023 06:13:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</guid>
       <description>Fait de maintenir une partie, une voile, avec des fils</description>
       <content:encoded><![CDATA[<h2 id="plan-du-bridage">Plan du bridage</h2>
@@ -867,12 +877,10 @@ RAS, pas de plis visibles</p>
 &ndash;&gt; Serrage en tirant sur le point de tire (bride verticale)</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Contrôles sur la voile</title>
       <link>https://gfakite.github.io/posts/2023/01/controles-sur-la-voile/</link>
       <pubDate>Fri, 27 Jan 2023 05:13:07 +0000</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/controles-sur-la-voile/</guid>
       <description>Quelques vérifications sur la qualité de fabrication</description>
       <content:encoded><![CDATA[<h2 id="équilibrage">Équilibrage</h2>
@@ -885,12 +893,10 @@ RAS, pas de plis visibles</p>
 &ndash;&gt; Vérifications: dimensions et symétrie</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Point de tire bas</title>
       <link>https://gfakite.github.io/posts/2023/01/point-de-tire-bas/</link>
       <pubDate>Wed, 25 Jan 2023 04:13:07 +0000</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/point-de-tire-bas/</guid>
       <description>Bricolage sur les embouts inférieurs</description>
       <content:encoded><![CDATA[<h2 id="focus-sur-les-embouts-situés-en-bas">Focus sur les embouts situés en bas</h2>
@@ -926,12 +932,10 @@ RAS, pas de plis visibles</p>
 &ndash;&gt; Nœud invisible</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Collage, trous et embouts</title>
       <link>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</link>
       <pubDate>Mon, 23 Jan 2023 15:23:05 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</guid>
       <description>Assemblage des barres du bord d&amp;#39;attaque, élastiques et embouts</description>
       <content:encoded><![CDATA[<h2 id="barre-centrale">Barre centrale</h2>
@@ -976,12 +980,10 @@ RAS, pas de plis visibles</p>
 &ndash;&gt; Trou au niveau du renfort central</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Bord de fuite</title>
       <link>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</link>
       <pubDate>Sat, 21 Jan 2023 01:13:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</guid>
       <description>Élément soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant 4 lignes, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
       <content:encoded><![CDATA[<h2 id="préparation-et-couture">Préparation et couture</h2>
@@ -1031,12 +1033,10 @@ RAS, pas de plis visibles</p>
 &ndash;&gt; Finition: couture oubliée sur le renfort haut de barre verticale</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Renforts</title>
       <link>https://gfakite.github.io/posts/2023/01/renforts/</link>
       <pubDate>Thu, 19 Jan 2023 12:13:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/renforts/</guid>
       <description>Assemblage de pièces en dacron pour protéger la voile</description>
       <content:encoded><![CDATA[<h2 id="distinction-des-deux-faces-de-la-voile">Distinction des deux faces de la voile</h2>
@@ -1085,12 +1085,10 @@ côté où il y a le bridage et les lignes</p>
 &ndash;&gt; Renfort jonction centrale</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Bord d&#39;attaque</title>
       <link>https://gfakite.github.io/posts/2023/01/bord-dattaque/</link>
       <pubDate>Tue, 17 Jan 2023 19:43:17 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/bord-dattaque/</guid>
       <description>Partie avant d&amp;#39;un profil aérodynamique. Sur une voile de cerf-volant, il fait face au vent</description>
       <content:encoded><![CDATA[<h2 id="préparation">Préparation</h2>
@@ -1115,12 +1113,10 @@ côté où il y a le bridage et les lignes</p>
 &ndash;&gt; Résultat final</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Voile et moustiquaire</title>
       <link>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</link>
       <pubDate>Sun, 15 Jan 2023 09:53:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</guid>
       <description>Une image vaut mieux qu&amp;#39;un long discours</description>
       <content:encoded><![CDATA[<h2 id="découpage-de-la-voile">Découpage de la voile</h2>
@@ -1158,12 +1154,10 @@ côté où il y a le bridage et les lignes</p>
 &ndash;&gt; Préparation découpe de l&rsquo;excédent de moustiquaire</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Outils et fournitures</title>
       <link>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</link>
       <pubDate>Fri, 13 Jan 2023 02:24:52 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</guid>
       <description>Quelques outils et maières premières pour cette réalisation</description>
       <content:encoded><![CDATA[<h2 id="outils">Outils</h2>
@@ -1235,12 +1229,10 @@ côté où il y a le bridage et les lignes</p>
 </ul>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Introduction et plan</title>
       <link>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</link>
       <pubDate>Wed, 11 Jan 2023 11:08:07 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</guid>
       <description>Modeste assemblage de pages, de textes et d&amp;#39;images</description>
       <content:encoded><![CDATA[<p>Travail d&rsquo;amateur sans prétentions aucune: construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type <em>Révolution 1.5</em></p>
@@ -1302,12 +1294,10 @@ Les téméraires des motifs et panneaux peuvent se lancer:</p>
 &ndash;&gt; 10 inches = 25,4 cm</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>À propos</title>
       <link>https://gfakite.github.io/about/</link>
       <pubDate>Sun, 01 Jan 2023 00:01:34 +0100</pubDate>
-      
       <guid>https://gfakite.github.io/about/</guid>
       <description>Tout savoir sur gfakite</description>
       <content:encoded><![CDATA[<p>Rien d&rsquo;extravaguant, quelques contenus pour comprendre comment en fabriquer un cerf-volant 4 lignes, partager des focus de construction, publier des courtes expériences de vol, etc.</p>
@@ -1337,6 +1327,5 @@ Les téméraires des motifs et panneaux peuvent se lancer:</p>
 &ndash;&gt; Butterfly en vol hivernal</p>
 ]]></content:encoded>
     </item>
-    
   </channel>
 </rss>
