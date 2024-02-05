@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://gfakite.github.io/sitemap.xml
