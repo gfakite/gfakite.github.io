@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GFAK 1 vented on Go fly a kite</title>
+    <link>https://gfakite.github.io/series/gfak-1-vented/</link>
+    <description>Recent content in GFAK 1 vented on Go fly a kite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 15 Apr 2023 22:50:03 +0200</lastBuildDate>
+    <atom:link href="https://gfakite.github.io/series/gfak-1-vented/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GFAK 1: ventilation</title>
+      <link>https://gfakite.github.io/posts/2023/04/gfak-1-ventilation/</link>
+      <pubDate>Sat, 15 Apr 2023 22:50:03 +0200</pubDate>
+      <guid>https://gfakite.github.io/posts/2023/04/gfak-1-ventilation/</guid>
+      <description>Versions de ventilation et mise en pratique</description>
+      <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
+<p>Pour s&rsquo;adapter au vent, <em>Watty</em> a décliné plusieurs ventilations de voile:</p>
+<p><img loading="lazy" src="/posts/2023-04-15/01-essentials-versions.png#center" alt="Détail des 4 versions"  />
+
+&ndash;&gt; Détail des 4 versions</p>
+<p>Ces 4 déclinaisons de voile sont données pour les plages de vent suivantes:</p>
+<table>
+<thead>
+<tr>
+<th>Déclinaison</th>
+<th>Version</th>
+<th>Ventilation</th>
+<th>Beaufort</th>
+<th>mph</th>
+<th>knots</th>
+<th>km/h</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S</td>
+<td>Standard</td>
+<td>0 %</td>
+<td>0 - 1</td>
+<td>0 - 7</td>
+<td>0 - 6</td>
+<td>0 - 11</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Vented</td>
+<td>13 %</td>
+<td>2 - 3</td>
+<td>5 - 12</td>
+<td>4 - 10</td>
+<td>8 - 19</td>
+</tr>
+<tr>
+<td>XV</td>
+<td>Extra Vented</td>
+<td>26 %</td>
+<td>3 - 4</td>
+<td>10 - 17</td>
+<td>9 - 15</td>
+<td>17 - 27</td>
+</tr>
+<tr>
+<td>XXV</td>
+<td>Double Extra Vented</td>
+<td>41 %</td>
+<td>4 - 5</td>
+<td>15 - 25</td>
+<td>13 - 21</td>
+<td>24 - 40</td>
+</tr>
+</tbody>
+</table>
+<p>Sur la version <em>XV</em>, les ventilations ont les largeurs suivantes:</p>
+<ul>
+<li>12,5 cm - exterieur</li>
+<li>11 cm - intermédiaire</li>
+<li>10 cm - intérieur</li>
+</ul>
+<h2 id="mise-en-pratique-sur-le-cobaye-gfak-1">Mise en pratique sur le cobaye GFAK 1</h2>
+<p>Le challenge consiste à garder la voile plate et à ne pas exposer de ruban adhésif double-face à l&rsquo;air libre (contact irréversible avec le sable)</p>
+<p><img loading="lazy" src="/posts/2023-04-15/02-intrados.jpg#center" alt="Au vent = côté lignes"  />
+
+&ndash;&gt; Au vent = côté lignes</p>
+<p>Ajout d&rsquo;un biais de 6 mm en Icarex pour optimiser l&rsquo;adhérence du double-face</p>
+<p><img loading="lazy" src="/posts/2023-04-15/03-extrados.jpg#center" alt="Côté extrados"  />
+
+&ndash;&gt; Sous le vent</p>
+<p><img loading="lazy" src="/posts/2023-04-15/04-gfak-1-extra-vented.jpg#center" alt="GFAK 1 en version extra vented"  />
+
+&ndash;&gt; GFAK 1 en version extra vented</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

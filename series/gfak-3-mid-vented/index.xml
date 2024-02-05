@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GFAK 3 mid vented on Go fly a kite</title>
+    <link>https://gfakite.github.io/series/gfak-3-mid-vented/</link>
+    <description>Recent content in GFAK 3 mid vented on Go fly a kite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 04 Dec 2023 20:53:08 +0100</lastBuildDate>
+    <atom:link href="https://gfakite.github.io/series/gfak-3-mid-vented/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GFAK 3: mid vented</title>
+      <link>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</link>
+      <pubDate>Mon, 04 Dec 2023 20:53:08 +0100</pubDate>
+      <guid>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</guid>
+      <description>Voile mid vented: construction N°3</description>
+      <content:encoded><![CDATA[<h2 id="rectification-de-la-hauteur-de-la-voile">Rectification de la hauteur de la voile</h2>
+<p>Après son premier vol, deux défauts de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
+<ul>
+<li>Voile 5 cm trop courte sur le plan vertical</li>
+<li>Partie centrale pas parfaitement plane</li>
+</ul>
+<p>Les barres verticales qui dépassent trop de la voile, les élastiques anormalement longs, le manque de surface de voile et la légère poche ont eu pour effet:</p>
+<ol>
+<li>De faire vibrer la voile</li>
+<li>De diminuer la stabilité en vol</li>
+</ol>
+<p>Pour remédier à ces problèmes:</p>
+<ul>
+<li>Le haut de la voile a été rallongé</li>
+<li>La jonction voile/moustiquaire a été refaite</li>
+<li>Le bord d&rsquo;attaque (dacron 5 cm de hauteur) a été changé</li>
+</ul>
+<h2 id="ventilation-en-mvt-mid-vented">Ventilation en MVT (Mid Vented)</h2>
+<p><em>GFAK 3</em> a été ventilé à 8 %</p>
+<p>Il est agréable à piloter et se révèle sensiblement plus stable</p>
+<p><img loading="lazy" src="/posts/2023-12-04/01-.jpg#center" alt="GFAK 3 en vol"  />
+
+&ndash;&gt; GFAK 3 en vol</p>
+<h2 id="caractéristiques">Caractéristiques</h2>
+<table>
+<thead>
+<tr>
+<th>Nom</th>
+<th>GFAK 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Version</td>
+<td>Mid vented</td>
+</tr>
+<tr>
+<td>Taille</td>
+<td>Rev 1.5 / 2,36 m</td>
+</tr>
+<tr>
+<td>Plage vent</td>
+<td>8 - 26 km/h</td>
+</tr>
+<tr>
+<td>Ventilation</td>
+<td>8 %</td>
+</tr>
+<tr>
+<td>Bord d&rsquo;attaque</td>
+<td>Sky Shark P100 en 31&quot;</td>
+</tr>
+<tr>
+<td>Barres verticales</td>
+<td>Sky Shark P100 en 31&quot;</td>
+</tr>
+<tr>
+<td>Couleur(s)</td>
+<td>Or et noir</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GFAK 3: connecteurs en T</title>
+      <link>https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/</link>
+      <pubDate>Tue, 28 Feb 2023 00:01:01 +0100</pubDate>
+      <guid>https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/</guid>
+      <description>Nouvelle forme de voile et nouvelle liaison bord d&amp;#39;attaque / barre verticale</description>
+      <content:encoded><![CDATA[<p>Construction en <em>Icarex PC31</em> couleur gold</p>
+<h2 id="voile-basée-sur-un-nouveau-plan">Voile basée sur un nouveau plan</h2>
+<p>Plus de surface au centre et un peu moins sur les extrémités. La moustiquaire est légèrement plus haute au centre pour accentuer la portance au centre.</p>
+<p><img loading="lazy" src="/posts/2023-02-28/01-voile-v2.jpg#center" alt="Nouvelle forme de voile"  />
+
+&ndash;&gt; Nouvelle forme de voile</p>
+<h2 id="nouveau-système-de-fixation">Nouveau système de fixation</h2>
+<p>Fixation d&rsquo;un connecteur en T au le bord d&rsquo;attaque. Ajout d&rsquo;un couche de dacron avec couture zigzag 2 points pour renforcer la zone. Montage bien ajusté avec une barre de 8 mm et un bord d&rsquo;attaque de 5 cm</p>
+<p><img loading="lazy" src="/posts/2023-02-28/02-connecteur-t.jpg#center" alt="Connecteur en T"  />
+
+&ndash;&gt; Connecteur en T</p>
+<p>Note: en attente d&rsquo;un jeu de barres pour le recouper</p>
+<p>Une machine à coudre de qualité, c&rsquo;est un détail qui fait la différence sur les finitions.</p>
+<p><img loading="lazy" src="/posts/2023-02-28/03-detail-couture.jpg#center" alt="Coutures renfort bas"  />
+
+&ndash;&gt; Coutures renfort bas</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

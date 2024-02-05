@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tube carbone on Go fly a kite</title>
+    <link>https://gfakite.github.io/tags/tube-carbone/</link>
+    <description>Recent content in tube carbone on Go fly a kite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 16 Mar 2023 11:22:01 +0100</lastBuildDate>
+    <atom:link href="https://gfakite.github.io/tags/tube-carbone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subversion: tube carbone</title>
+      <link>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</link>
+      <pubDate>Thu, 16 Mar 2023 11:22:01 +0100</pubDate>
+      <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
+      <description>Une alternative aux références de tube en carbone de cerf-volant</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023-03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  />
+
+&ndash;&gt; Tubes en carbone</p>
+<h2 id="introduction">Introduction</h2>
+<p><em>Sky shark, Exel composites, R-Tubes, Aero Stuff, Carbone 365, No name, &hellip;</em> Les marques et références ne manquent pas pour installer des barres en carbone sur son cerf-volant</p>
+<p>Il est possible de substituer les barres classiques de cerf-volant par des tubes de flèche en carbone. En contrôlant les diamètres (interne et externe), la longueur et la mesure de rigidité (spine), un cerf-voliste peut trouver son bohneur dans une archerie</p>
+<h2 id="avantages">Avantages</h2>
+<p>Les avantages à utiliser des tubes de flèche sont nombreux:</p>
+<ul>
+<li>Le prix (~6 € le tube)</li>
+<li>La large game de choix des <em>&ldquo;fûts en carbone&rdquo;</em> (longueur, poids en fonction de la rigidité, etc.)</li>
+<li>La qualité des tubes (finition au top et tubes rectilignes)</li>
+<li>Le nombre d&rsquo;archeries implantées en France (pour voir et palper les tubes en magasin)</li>
+<li>Les conseils en archerie (les vendeurs s&rsquo;y connaissent en carbone<em>S</em>)</li>
+</ul>
+<p>Le point délicat est de trouver la correspondance entre une référence de barre de cerf-volant et la spine (mesure qui définit la rigidité) d&rsquo;un tube de flèche</p>
+<h2 id="equivalence-rigidité--spine">Equivalence rigidité / spine</h2>
+<p>Echanges sur les flèches et la notion de spine:</p>
+<ul>
+<li>Forum Anglais &ndash;&gt; <em>kitelife.com</em>
+<ul>
+<li><a href="https://kitelife.com/forum/topic/11172-arrowshafts-spine-deflection-vs-kite-rods/" target="_blank" rel="nofollow noopener noreferrer">Arrowshafts spine deflection vs Kite rods</a></li>
+</ul>
+</li>
+<li>Forum Allemand &ndash;&gt; <em>drachenforum.net</em>
+<ul>
+<li><a href="https://www.drachenforum.net/thread/104141-pfeilsch%C3%A4fte-welche-wie-muffen-welche-kombination/?pageNo=2" target="_blank" rel="nofollow noopener noreferrer">Pfeilschäfte - Welche? - Wie muffen? - Welche Kombination?</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="en-synthèse">En synthèse</h2>
+<p>Données constructeur et valeurs indicatives de spine pour donner une tendance:</p>
+<table>
+<thead>
+<tr>
+<th>model</th>
+<th>weight (gr)</th>
+<th>spine</th>
+<th>length (cm)</th>
+<th>ext Ø (mm)</th>
+<th>int Ø (mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sky Shark P90</td>
+<td>10,5</td>
+<td>550</td>
+<td>82,5</td>
+<td>6,99</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td>Sky Shark P100</td>
+<td>13</td>
+<td>400</td>
+<td>82,5</td>
+<td>7,11</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td>Sky Shark P200</td>
+<td>14,5</td>
+<td>350</td>
+<td>82,5</td>
+<td>7,21</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td>Sky Shark P300</td>
+<td>17</td>
+<td>300</td>
+<td>82,5</td>
+<td>7,42</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td>Sky Shark P400</td>
+<td>18</td>
+<td>300</td>
+<td>82,5</td>
+<td>7,57</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td>Sky Shark P1X</td>
+<td>13</td>
+<td>400</td>
+<td>82,5</td>
+<td>7,21</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td>Sky Shark P2X   15</td>
+<td>300</td>
+<td>82,5</td>
+<td>7,34</td>
+<td>6,2</td>
+<td></td>
+</tr>
+<tr>
+<td>Sky Shark P3X</td>
+<td>17</td>
+<td>250</td>
+<td>82,5</td>
+<td>7,47</td>
+<td>6,2</td>
+</tr>
+</tbody>
+</table>
+<p>D&rsquo;autres sources donnent une spine de 700 pour une barre Sky Shark P 90 et 400 pour du P2X. Les valeurs de spine Sky Shark sont à tester avant de se lancer dans l&rsquo;achat d&rsquo;une série de 12 tubes de flèche</p>
+<h2 id="à-lessai">À l&rsquo;essai</h2>
+<p>Test en cours de tubes Easton Powerflight sur un bord d&rsquo;attaque:</p>
+<ul>
+<li>
+<p>Diamètre interne: 0.246&quot;/6.2 mm</p>
+</li>
+<li>
+<p>Spine 500: 7.3 gr/pouce</p>
+</li>
+<li>
+<p>Longueur: 31&quot;/78,74 cm</p>
+</li>
+<li>
+<p>Description constructeur:</p>
+<p>Tube économique et de très bonne qualité pour le tir cible, 3-D, tir nature ou la chasse</p>
+</li>
+</ul>
+<h2 id="bilan">Bilan</h2>
+<ul>
+<li>Prix correct, tube rectiligne et rigidité OK</li>
+<li>Poids décevant, son équivalent Sky Shark P100 <em>laminé macaroni</em> est plus léger que cette référence de tube</li>
+</ul>
+<p><img loading="lazy" src="/posts/2023-03-16/02-easton-powerflight-500.jpg#center" alt="Tube de flèche Easton PowerFlight 500"  />
+
+&ndash;&gt; Easton PowerFlight 500</p>
+<h2 id="la-suite">La suite</h2>
+<ul>
+<li>Nijora Tokala Long 36&quot; à tester sur un SUL</li>
+<li>Aurel Agil 31&quot; à tester sur un rev 1.5 ventilé à 50%</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
