@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate>
     <atom:link href="https://gfakite.github.io/categories/tutoriel/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Assemblage final</title>
-      <link>https://gfakite.github.io/posts/2023/01/assemblage-final/</link>
+      <title>GFAK 2: assemblage final</title>
+      <link>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</link>
       <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/assemblage-final/</guid>
+      <guid>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<p>3 vérifications à effectuer sur le cerf-volant</p>
 <h2 id="contrôle-de-lalignement-du-bridage">Contrôle de l&rsquo;alignement du bridage</h2>
@@ -43,9 +43,9 @@ RAS, pas de plis visibles</p>
       <link>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</link>
       <pubDate>Sun, 29 Jan 2023 06:13:07 +0100</pubDate>
       <guid>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</guid>
-      <description>Fait de maintenir une partie, une voile, avec des fils</description>
+      <description>Définition: fait de maintenir une partie, une voile, avec des fils</description>
       <content:encoded><![CDATA[<h2 id="plan-du-bridage">Plan du bridage</h2>
-<p>Le cerf-volant 4 lignes Essentials prévoit deux types de bridage. Pour cette réalisation, c&rsquo;est la version &ldquo;traditionnel&rdquo; qui sera exposée.</p>
+<p>Le cerf-volant 4 lignes Essentials prévoit deux bridages. Pour cette réalisation, c&rsquo;est la version &ldquo;traditionnel&rdquo; qui sera exposée.</p>
 <ul>
 <li>PDF: <a href="/posts/2023-01-29/01-traditional-bridle.pdf">Traditional bridle plan</a>
 <ul>
@@ -59,7 +59,7 @@ RAS, pas de plis visibles</p>
 </li>
 </ul>
 <h2 id="mise-en-œuvre">Mise en œuvre</h2>
-<p>Pour la jonction avec la bride horizontale, attention au sens haut/bas de la bride verticale car les mesures diffèrent.</p>
+<p>Pour la jonction entre la bride horizontale et les 2 brides verticales, faire attention au sens haut/bas</p>
 <p><img loading="lazy" src="/posts/2023-01-29/03-bride-horizontale.jpg#center" alt="Bride horizontale"  />
 
 &ndash;&gt; Bride horizontale</p>
@@ -145,7 +145,7 @@ RAS, pas de plis visibles</p>
       <guid>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</guid>
       <description>Assemblage des barres du bord d&amp;#39;attaque, élastiques et embouts</description>
       <content:encoded><![CDATA[<h2 id="barre-centrale">Barre centrale</h2>
-<p>Élément à ajuster avant collage des raccords internes de la barre du bord d&rsquo;attaque. Il est recommandé couper la barre centrale à la taille définitive, plutôt que de scier celles des extrémités. L&rsquo;objectif étant de s&rsquo;éviter une découpe systématique en cas de casse sur une barre des extrémités</p>
+<p>Élément à ajuster avant collage des raccords internes de la barre du bord d&rsquo;attaque. Il est recommandé couper la barre centrale à la taille définitive de 31&quot;. L&rsquo;objectif est d&rsquo;avoir que des barres de 82,5 cm pour favoriser l&rsquo;interchangeabilité (standard 31&quot;)</p>
 <p><img loading="lazy" src="/posts/2023-01-23/01-barre-centrale.jpg#center" alt="Détail des 5 barres du cerf-volant"  />
 
 &ndash;&gt; Détail des 5 barres du cerf-volant</p>
@@ -250,12 +250,11 @@ RAS, pas de plis visibles</p>
 <ul>
 <li>
 <p>Recto = <strong>au vent</strong></p>
-<p><em>Au vent</em> signifie que la face de la voile du cerf-volant est du côté d&rsquo;où souffle le vent
-côté où il y a le bridage et les lignes</p>
+<p><em>Au vent</em> signifie que la voile du cerf-volant fait face au souffle du vent. Côté où il y a le bridage et les lignes</p>
 </li>
 <li>
 <p>Verso = <strong>sous le vent</strong></p>
-<p>À l&rsquo;inverse <em>Sous le vent</em>, veut dire que la face de la voile est du côté opposé d&rsquo;où le vent souffle</p>
+<p>À l&rsquo;inverse <em>Sous le vent</em>, veut dire que la voile est du côté opposé au souffle du vent</p>
 </li>
 </ul>
 <h2 id="détail-des-renforts">Détail des renforts</h2>
@@ -327,9 +326,9 @@ côté où il y a le bridage et les lignes</p>
       <description>Une image vaut mieux qu&amp;#39;un long discours</description>
       <content:encoded><![CDATA[<h2 id="découpage-de-la-voile">Découpage de la voile</h2>
 <p>Premières découpes suivies du premier collage (bien droit et sans plis)</p>
-<p><img loading="lazy" src="/posts/2023-01-15/01-traits.jpg#center" alt="Traçage des traits à partir du plan"  />
+<p><img loading="lazy" src="/posts/2023-01-15/01-traits.jpg#center" alt="Traçage des traits (avec de la marge) à partir du plan"  />
 
-&ndash;&gt; Traçage des traits à partir du plan</p>
+&ndash;&gt; Traçage des traits (avec de la marge) à partir du plan</p>
 <p><img loading="lazy" src="/posts/2023-01-15/02-decoupe-voile.jpg#center" alt="Découpe de la voile en suivant les traits"  />
 
 &ndash;&gt; Découpe de la voile en suivant les traits</p>
@@ -377,8 +376,8 @@ côté où il y a le bridage et les lignes</p>
 <li>1 règle plate 1 m</li>
 <li>2 paires de ciseaux:
 <ul>
-<li>une grande (longues découpes)</li>
-<li>une petite de broderie (finitions)</li>
+<li>grande &ndash;&gt; longues découpes</li>
+<li>petite de broderie &ndash;&gt; finitions</li>
 </ul>
 </li>
 <li>1 pince à linge</li>
@@ -397,26 +396,26 @@ côté où il y a le bridage et les lignes</p>
 <p><img loading="lazy" src="/posts/2023-01-13/01-colis.jpg#center" alt="Long colis"  />
 
 &ndash;&gt; Long colis</p>
-<p><img loading="lazy" src="/posts/2023-01-13/02-fournitures.jpg#center" alt="Intérieur du colis: détail des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/02-fournitures.jpg#center" alt="Détail des fournitures"  />
 
-&ndash;&gt; Intérieur du colis: détail des fournitures</p>
+&ndash;&gt; Détail des fournitures</p>
 <h2 id="liste-des-pièces">Liste des pièces</h2>
 <ul>
 <li>3 m x 1,50 m d&rsquo;Icarex PC31</li>
 <li>4 m de dacron noir, 5 cm de large</li>
 <li>3 m de gaze noire, 10 cm de large</li>
 <li>5 barres carbone (P200 Sky Shark ou équivalent)</li>
-<li>2 raccords carbone plein 6,1 mm (spécial Sky Shark en accord avec les barres)</li>
-<li>6 embouts 8mm</li>
+<li>2 raccords carbone plein 6,1 mm (spécifique Sky Shark)</li>
+<li>6 embouts 8 mm</li>
 <li>1,5 m d&rsquo;élastique noir, diamètre 3 mm</li>
 <li>7 m de bridage gainé dyneema 90 kg</li>
 <li>1 bobine de fil à coudre (synthétique, fil 80)</li>
-<li>Facultatif: Bande de dacron ou de mylar &ndash;&gt; renfort au niveau des barres verticales</li>
-<li>Facultatif: Rondelles de maintien d&rsquo;élastique (pas trouvé) &ndash;&gt; <a href="https://watty.us/3d-printing/2022/3/13/bungee-washers" target="_blank" rel="nofollow noopener noreferrer">Bungee Washer</a></li>
+<li>Bande de dacron ou de mylar &ndash;&gt; renfort au niveau des barres verticales</li>
+<li>Rondelles de maintien d&rsquo;élastique &ndash;&gt; <a href="https://watty.us/3d-printing/2022/3/13/bungee-washers" target="_blank" rel="nofollow noopener noreferrer">Bungee Washer</a></li>
 </ul>
-<p><img loading="lazy" src="/posts/2023-01-13/03-fournitures-legende.jpg#center" alt="Légende détaillée des fournitures"  />
+<p><img loading="lazy" src="/posts/2023-01-13/03-fournitures-legende.jpg#center" alt="Fournitures légendées"  />
 
-&ndash;&gt; Légende détaillée des fournitures</p>
+&ndash;&gt; Fournitures légendées</p>
 <h2 id="absents-des-photos">Absents des photos</h2>
 <ul>
 <li>
@@ -448,9 +447,9 @@ côté où il y a le bridage et les lignes</p>
 <p><img loading="lazy" src="/posts/2023-01-11/01-pilotage.png#center" alt="2 lignes versus 4 ligne"  />
 
 &ndash;&gt; 2 lignes versus 4 ligne</p>
-<p><img loading="lazy" src="/posts/2023-01-11/02-poignees.png#center" alt="Nombre de points d&amp;rsquo;attache sur les poignées"  />
+<p><img loading="lazy" src="/posts/2023-01-11/02-poignees.png#center" alt="Illustration: poignées"  />
 
-&ndash;&gt; Nombre de points d&rsquo;attache sur les poignées</p>
+&ndash;&gt; Illustration: poignées</p>
 <h2 id="plan-de-la-voile">Plan de la voile</h2>
 <p>Confection basée sur le plan <em>Essentials</em> de <em>Spencer Watson</em>:</p>
 <ul>
@@ -465,22 +464,20 @@ côté où il y a le bridage et les lignes</p>
 <ul>
 <li>Réalisation plus facile</li>
 <li>Moins de découpes &ndash;&gt; moins de coutures</li>
-<li>Voile homogène &ndash;&gt; pas de renfort au milieu (comme sur les cerfs-volants du commerce)</li>
 <li>2ème essai si la première voile est ratée</li>
 </ul>
-<h2 id="plan-de-découpe">Plan de découpe</h2>
-<p>Pas de découpe de panneaux pour cette réalisation
-Les téméraires des motifs et panneaux peuvent se lancer:</p>
+<h2 id="plan-des-panneaux">Plan des panneaux</h2>
+<p>Réalisation simplifiée, pas de découpe de panneaux pour cette réalisation. Les téméraires des motifs peuvent se lancer:</p>
 <ul>
 <li>PDF: <a href="/posts/2023-01-11/05-panels.pdf">Panel Templates</a></li>
 <li>Source: <a href="https://watty.us/kite-plans/2022/3/13/essentials" target="_blank" rel="nofollow noopener noreferrer">watty.us</a></li>
 </ul>
-<p>Superposition des panneaux &ndash;&gt; toujours mettre le tissu le plus sombre au-dessus du clair pour éviter d&rsquo;avoir une 3ème couleur (superposition clair sur foncé)</p>
+<p>Superposition des panneaux &ndash;&gt; Le tissu le plus sombre est à placer au-dessus du clair pour éviter l&rsquo;effet <em>3ème couleur</em></p>
 <p><img loading="lazy" src="/posts/2023-01-11/06-trame.png#center" alt="Orientation des panneaux"  />
 
 &ndash;&gt; Orientation des panneaux</p>
 <h2 id="plan-de-bridage">Plan de bridage</h2>
-<p>Etape détaillée ultérieurement dans la construction (confer page: <a href="https://gfakite.github.io/posts/2023/01/bridage-traditionnel/">Bridage traditionnel</a>)</p>
+<p>Étape détaillée ultérieurement dans la construction (confer page: <a href="https://gfakite.github.io/posts/2023/01/bridage-traditionnel/">Bridage traditionnel</a>)</p>
 <h2 id="impression-du-plan-à-léchelle-11">Impression du plan à l&rsquo;échelle 1:1</h2>
 <p>Le plan est imprimable en format paysage sur 9 pages A3</p>
 <p><img loading="lazy" src="/posts/2023-01-11/07-impression.png#center" alt="Taille 100%"  />
