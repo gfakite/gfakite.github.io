@@ -9,16 +9,16 @@
     <lastBuildDate>Fri, 29 Sep 2023 08:10:17 +0200</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/gfak-5-mini-revo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GFAK 5: ajustements sur mini revo</title>
-      <link>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-sur-mini-revo/</link>
+      <title>GFAK 5: ajustements</title>
+      <link>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements/</link>
       <pubDate>Fri, 29 Sep 2023 08:10:17 +0200</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-sur-mini-revo/</guid>
+      <guid>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
-      <content:encoded><![CDATA[<p>Mini Revo a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas &ldquo;révolutionnaire&rdquo; avec son bord d&rsquo;attaque de 70 cm</p>
+      <content:encoded><![CDATA[<p>Mini Revo a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas <em>révolutionnaire</em> avec son bord d&rsquo;attaque de 70 cm</p>
 <p>En 2 lignes (bridage 4-2) ou en 4 lignes, le cerf-volant décolle facilement. Dès qu&rsquo;il est dans les airs, impossible de faire un vol stationnaire. Il part comme une flèche et ensuite c&rsquo;est décrochage, piqué en ligne droite ou vrille infernale</p>
 <p>Excellente voile pour emmêler les lignes</p>
 <h2 id="bridage-4-2">Bridage &ldquo;4-2&rdquo;</h2>
-<p>Le bridage <a href="/posts/2023/05/gfak-5-mini-revo/">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (B3-B'3 et B4-B'4 sur le schéma)</p>
+<p>Le bridage <a href="https://gfakite.github.io/posts/2023/05/gfak-5-mini-revo/">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (B3-B'3 et B4-B'4 sur le schéma)</p>
 <p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Malgré de nombreux essais et réglages, je n&rsquo;ai pas réussi à obtenir un pilotage correct</p>
 <h2 id="bridage-traditionnel-4-lignes-homothétie">Bridage traditionnel 4 lignes: homothétie</h2>
 <p>Un bridage classique 4 lignes n&rsquo;est pas adapté. Les commandes sont beaucoup trop sensibles pour faire un vol prolongé. Il est impossible de piloter Mini Revo</p>
@@ -43,23 +43,23 @@
       <pubDate>Thu, 11 May 2023 05:13:07 +0200</pubDate>
       <guid>https://gfakite.github.io/posts/2023/05/gfak-5-mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
-      <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan <em>Rev 1.5</em> d&rsquo;<em>Yves Ganne</em> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
+      <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan Rev 1.5 d&rsquo;<em>Yves Ganne</em> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
 <p>Exercice de style en miniature pour faire un test grandeur nature. Cette taille nécessite beaucoup de vent pour s&rsquo;exprimer et risque de ne pas être stable en vol</p>
 <p><img loading="lazy" src="/posts/2023-05-11/01-mini-revo.jpg#center" alt="GFAK 5 alias mini revo avec sa mini housse"  />
 
-&ndash;&gt; GFAK 5 alias mini revo avec sa mini housse</p>
+&ndash;&gt; <em>GFAK 5</em> alias mini revo avec sa mini housse</p>
 <h2 id="caractéristiques-communes">Caractéristiques communes</h2>
-<p>Mini revo partage les points suivants avec un cerf-volant 4 lignes rev 1.5:</p>
+<p>Mini revo partage les points suivants avec un cerf-volant 4 lignes Rev 1.5:</p>
 <ul>
 <li>Voile en Icarex</li>
 <li>Bord d&rsquo;attaque courbe en Icarex avec renforts en Dacron</li>
 <li>Moustiquaire en filet/mesh (72 g/m², polyester)</li>
 <li>Renforts Mylar sur le bas</li>
-<li>Bord de fuite avec ourlet double rempli piqué 3 points ZigZag</li>
+<li>Bord de fuite avec ourlet double rempli piqué 3 points zigzag</li>
 </ul>
 <p><img loading="lazy" src="/posts/2023-05-11/02-taille-voile.jpg#center" alt="Mini revo (GFAK 5) avec un homologue 1.5 (GFAK 2)"  />
 
-&ndash;&gt; Mini revo (GFAK 5) avec un homologue 1.5 (GFAK 2)</p>
+&ndash;&gt; Mini revo (<em>GFAK 5</em>) avec un homologue 1.5 (<em>GFAK 2</em>)</p>
 <h2 id="différences">Différences</h2>
 <p>Mini Revo fait l&rsquo;objet d&rsquo;ajustements par rapport à un exemplaire au standard 1.5:</p>
 <table>
@@ -150,7 +150,7 @@
 <p>Bridage réalisé à partir de celui d&rsquo;<em>Yves Ganne</em> et ajusté au 70 cm du cerf-volant. En attente d&rsquo;un vent soutenu pour s&rsquo;élancer dans le ciel</p>
 <p><img loading="lazy" src="/posts/2023-05-11/04-mini-revo.jpg#center" alt="GFAK 5 mini revo prêt à voler"  />
 
-&ndash;&gt; GFAK 5 mini revo prêt à voler</p>
+&ndash;&gt; <em>GFAK 5</em> mini revo prêt à voler</p>
 ]]></content:encoded>
     </item>
   </channel>
