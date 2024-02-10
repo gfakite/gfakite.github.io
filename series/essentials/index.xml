@@ -6,8 +6,37 @@
     <description>Recent content in essentials on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 29 Jan 2023 06:13:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/essentials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GFAK 2: assemblage final</title>
+      <link>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</link>
+      <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
+      <guid>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</guid>
+      <description>Montage et vérifications sur la voile avant le premier vol</description>
+      <content:encoded><![CDATA[<h2 id="contrôle-de-lalignement-du-bridage">Contrôle de l&rsquo;alignement du bridage</h2>
+<p>A effectuer en suspendant la voile via les points de tire du haut</p>
+<p><img loading="lazy" src="/posts/2023-01-31/01-controle-alignement-bridage-OK.jpg#cente" alt="Alignement OK"  title="bridage conforme"  />
+
+&ndash;&gt; Alignement OK = bridage conforme</p>
+<p><img loading="lazy" src="/posts/2023-01-31/02-controle-alignement-bridage-KO.jpg#center" alt="Alignement KO"  />
+
+&ndash;&gt; Alignement KO (problème de bridage)</p>
+<h2 id="alignement-des-barres-sur-les-renforts">Alignement des barres sur les renforts</h2>
+<p><img loading="lazy" src="/posts/2023-01-31/03-controle-barre-verticale.jpg#center" alt="Alignement OK"  />
+
+&ndash;&gt; Alignement OK</p>
+<h2 id="plis-sur-la-voile">Plis sur la voile</h2>
+<p><img loading="lazy" src="/posts/2023-01-31/04-plis.jpg#center" alt="RAS, pas de plis visibles"  />
+
+RAS, pas de plis visibles</p>
+<h2 id="en-situtation">En situtation</h2>
+<p><img loading="lazy" src="/posts/2023-01-31/05-pret-a-voler.jpg#center" alt="GFAK 2 prêt à décoller"  />
+
+&ndash;&gt; <em>GFAK 2</em> prêt à décoller</p>
+<p>C&rsquo;est bon, ce cerf-volant 4 lignes peut voler &ndash;&gt; <a href="/about/">Let&rsquo;s Go Fly a Kite !</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Bridage traditionnel</title>
       <link>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</link>
