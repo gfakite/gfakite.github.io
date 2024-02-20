@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>posts on Go fly a kite</title>
+    <title>Posts on Go fly a kite</title>
     <link>https://gfakite.github.io/categories/posts/</link>
-    <description>Recent content in posts on Go fly a kite</description>
+    <description>Recent content in Posts on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 04 Feb 2024 20:53:08 +0100</lastBuildDate>
@@ -861,7 +861,7 @@
 <h2 id="bilan">Bilan</h2>
 <ul>
 <li>Prix correct, tube rectiligne et rigidité OK</li>
-<li>Poids décevant, son équivalent Sky Shark P100 <em>laminé macaroni</em> est plus léger que cette référence de tube</li>
+<li>Erreur sur la longueur, les tubes font 30.5&quot; et non pas 31&quot;. Mince !</li>
 </ul>
 <p><img loading="lazy" src="/posts/2023/03-16/02-easton-powerflight-500.jpg#center" alt="Tube de flèche Easton PowerFlight 500"  />
 
