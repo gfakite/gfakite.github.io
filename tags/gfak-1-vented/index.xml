@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GFAK 1 Vented on Go fly a kite</title>
-    <link>https://gfakite.github.io/tags/gfak-1-vented/</link>
+    <link>http://localhost:1313/tags/gfak-1-vented/</link>
     <description>Recent content in GFAK 1 Vented on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 15 Apr 2023 22:50:03 +0200</lastBuildDate>
-    <atom:link href="https://gfakite.github.io/tags/gfak-1-vented/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gfak-1-vented/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 1: ventilation</title>
-      <link>https://gfakite.github.io/posts/2023/04/gfak-1-ventilation/</link>
+      <link>http://localhost:1313/posts/2023/04/gfak-1-ventilation/</link>
       <pubDate>Sat, 15 Apr 2023 22:50:03 +0200</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/04/gfak-1-ventilation/</guid>
+      <guid>http://localhost:1313/posts/2023/04/gfak-1-ventilation/</guid>
       <description>Versions de ventilation et mise en pratique</description>
       <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
 <p>Pour s&rsquo;adapter au vent, <em>Watty</em> a décliné plusieurs ventilations de voile:</p>

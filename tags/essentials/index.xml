@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Essentials on Go fly a kite</title>
-    <link>https://gfakite.github.io/tags/essentials/</link>
+    <link>http://localhost:1313/tags/essentials/</link>
     <description>Recent content in Essentials on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate>
-    <atom:link href="https://gfakite.github.io/tags/essentials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/essentials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 2: assemblage final</title>
-      <link>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</link>
+      <link>http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/</link>
       <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</guid>
+      <guid>http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<h2 id="contrôle-de-lalignement-du-bridage">Contrôle de l&rsquo;alignement du bridage</h2>
 <p>A effectuer en suspendant la voile via les points de tire du haut</p>
@@ -39,9 +39,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Bridage traditionnel</title>
-      <link>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</link>
+      <link>http://localhost:1313/posts/2023/01/bridage-traditionnel/</link>
       <pubDate>Sun, 29 Jan 2023 06:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/bridage-traditionnel/</guid>
+      <guid>http://localhost:1313/posts/2023/01/bridage-traditionnel/</guid>
       <description>Définition: fait de maintenir une partie, une voile, avec des fils</description>
       <content:encoded><![CDATA[<h2 id="plan-du-bridage">Plan du bridage</h2>
 <p>Le cerf-volant 4 lignes <em>Essentials</em> prévoit deux bridages. Pour cette réalisation, c&rsquo;est la version &ldquo;traditionnel&rdquo; qui sera exposée</p>
@@ -84,9 +84,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Contrôles sur la voile</title>
-      <link>https://gfakite.github.io/posts/2023/01/controles-sur-la-voile/</link>
+      <link>http://localhost:1313/posts/2023/01/controles-sur-la-voile/</link>
       <pubDate>Fri, 27 Jan 2023 05:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/controles-sur-la-voile/</guid>
+      <guid>http://localhost:1313/posts/2023/01/controles-sur-la-voile/</guid>
       <description>Quelques vérifications sur la qualité de fabrication</description>
       <content:encoded><![CDATA[<h2 id="équilibrage">Équilibrage</h2>
 <p><img loading="lazy" src="/posts/2023/01-27/01-horizontalite.jpg#center" alt="Voile suspendue par le centre: contrôle que la voile ne penche pas d&amp;rsquo;un côté"  />
@@ -100,9 +100,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Point de tire bas</title>
-      <link>https://gfakite.github.io/posts/2023/01/point-de-tire-bas/</link>
+      <link>http://localhost:1313/posts/2023/01/point-de-tire-bas/</link>
       <pubDate>Wed, 25 Jan 2023 04:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/point-de-tire-bas/</guid>
+      <guid>http://localhost:1313/posts/2023/01/point-de-tire-bas/</guid>
       <description>Bricolage sur les embouts inférieurs</description>
       <content:encoded><![CDATA[<h2 id="focus-sur-les-embouts-du-bas">Focus sur les embouts du bas</h2>
 <p><img loading="lazy" src="/posts/2023/01-25/01-percage.jpg#center" alt="Mèche métal pour Perçer les embouts de barre"  />
@@ -139,9 +139,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Collage, trous et embouts</title>
-      <link>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</link>
+      <link>http://localhost:1313/posts/2023/01/collage-trous-et-embouts/</link>
       <pubDate>Mon, 23 Jan 2023 15:23:05 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</guid>
+      <guid>http://localhost:1313/posts/2023/01/collage-trous-et-embouts/</guid>
       <description>Assemblage des barres du bord d&amp;#39;attaque, mise en place des élastiques et embouts</description>
       <content:encoded><![CDATA[<h2 id="barre-centrale-au-standard-31-en-rev-15">Barre centrale au standard 31&quot; en Rev 1.5</h2>
 <p>Avant de coller les raccords internes, il est recommandé de couper la barre centrale à sa taille définitive de 31&quot;. L&rsquo;objectif est de n&rsquo;avoir que des barres de 82,5 cm pour favoriser l&rsquo;interchangeabilité</p>
@@ -187,9 +187,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Bord de fuite</title>
-      <link>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</link>
+      <link>http://localhost:1313/posts/2023/01/bord-de-fuite/</link>
       <pubDate>Sat, 21 Jan 2023 01:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/bord-de-fuite/</guid>
+      <guid>http://localhost:1313/posts/2023/01/bord-de-fuite/</guid>
       <description>Définition: élément soumis à l&amp;#39;écoulement du vent. Sur un cerf-volant, il est à l&amp;#39;opposé du bord d&amp;#39;attaque</description>
       <content:encoded><![CDATA[<h2 id="préparation-et-couture">Préparation et couture</h2>
 <p><img loading="lazy" src="/posts/2023/01-21/01-bord-de-fuite.jpg#center" alt="Bord de fuite"  />
@@ -240,9 +240,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Renforts</title>
-      <link>https://gfakite.github.io/posts/2023/01/renforts/</link>
+      <link>http://localhost:1313/posts/2023/01/renforts/</link>
       <pubDate>Thu, 19 Jan 2023 12:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/renforts/</guid>
+      <guid>http://localhost:1313/posts/2023/01/renforts/</guid>
       <description>Assemblage de pièces en dacron pour protéger la voile</description>
       <content:encoded><![CDATA[<h2 id="distinction-des-deux-faces-de-la-voile">Distinction des deux faces de la voile</h2>
 <p>Notion à prendre en compte pour le sens des pièces à coudre:</p>
@@ -293,9 +293,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Bord d&#39;attaque</title>
-      <link>https://gfakite.github.io/posts/2023/01/bord-dattaque/</link>
+      <link>http://localhost:1313/posts/2023/01/bord-dattaque/</link>
       <pubDate>Tue, 17 Jan 2023 19:43:17 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/bord-dattaque/</guid>
+      <guid>http://localhost:1313/posts/2023/01/bord-dattaque/</guid>
       <description>Définition: partie avant d&amp;#39;un profil aérodynamique</description>
       <content:encoded><![CDATA[<h2 id="préparation">Préparation</h2>
 <p><img loading="lazy" src="/posts/2023/01-17/01-bord-attaque.jpg#center" alt="Bord d&amp;rsquo;attaque"  />
@@ -321,9 +321,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Voile et moustiquaire</title>
-      <link>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</link>
+      <link>http://localhost:1313/posts/2023/01/voile-et-moustiquaire/</link>
       <pubDate>Sun, 15 Jan 2023 09:53:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/voile-et-moustiquaire/</guid>
+      <guid>http://localhost:1313/posts/2023/01/voile-et-moustiquaire/</guid>
       <description>Une image vaut mieux qu&amp;#39;un long discours</description>
       <content:encoded><![CDATA[<h2 id="découpage-de-la-voile">Découpage de la voile</h2>
 <p>Premières découpes suivies du premier collage (bien droit et sans plis)</p>
@@ -362,9 +362,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Outils et fournitures</title>
-      <link>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</link>
+      <link>http://localhost:1313/posts/2023/01/outils-et-fournitures/</link>
       <pubDate>Fri, 13 Jan 2023 02:24:52 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</guid>
+      <guid>http://localhost:1313/posts/2023/01/outils-et-fournitures/</guid>
       <description>Quelques outils et matières premières confectionner son Rev 1.5</description>
       <content:encoded><![CDATA[<h2 id="outils">Outils</h2>
 <ul>
@@ -437,9 +437,9 @@ RAS, pas de plis visibles</p>
     </item>
     <item>
       <title>Introduction et plan</title>
-      <link>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</link>
+      <link>http://localhost:1313/posts/2023/01/introduction-et-plan/</link>
       <pubDate>Wed, 11 Jan 2023 11:08:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/introduction-et-plan/</guid>
+      <guid>http://localhost:1313/posts/2023/01/introduction-et-plan/</guid>
       <description>Modeste assemblage de pages, de textes et d&amp;#39;images</description>
       <content:encoded><![CDATA[<p>Travail d&rsquo;amateur sans prétentions aucune: construction illustrée en plusieurs étapes d&rsquo;un cerf-volant de type <em>Revolution 1.5</em></p>
 <p>Ce modèle est un pilotable à 4 lignes (quad lines stunt kite)</p>
@@ -478,7 +478,7 @@ RAS, pas de plis visibles</p>
 
 &ndash;&gt; Orientation des panneaux</p>
 <h2 id="plan-de-bridage">Plan de bridage</h2>
-<p>Étape détaillée ultérieurement dans la construction (confer page: <a href="https://gfakite.github.io/posts/2023/01/bridage-traditionnel/">Bridage traditionnel</a>)</p>
+<p>Étape détaillée ultérieurement dans la construction (confer page: <a href="http://localhost:1313/posts/2023/01/bridage-traditionnel/">Bridage traditionnel</a>)</p>
 <h2 id="impression-du-plan-à-léchelle-11">Impression du plan à l&rsquo;échelle 1:1</h2>
 <p>Le plan est imprimable en format paysage sur 9 pages A3</p>
 <p><img loading="lazy" src="/posts/2023/01-11/07-impression.png#center" alt="Taille 100%"  />

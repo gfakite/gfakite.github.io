@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GFAK 6 Standard on Go fly a kite</title>
-    <link>https://gfakite.github.io/tags/gfak-6-standard/</link>
+    <link>http://localhost:1313/tags/gfak-6-standard/</link>
     <description>Recent content in GFAK 6 Standard on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 04 Nov 2023 20:53:08 +0100</lastBuildDate>
-    <atom:link href="https://gfakite.github.io/tags/gfak-6-standard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gfak-6-standard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 6: standard</title>
-      <link>https://gfakite.github.io/posts/2023/11/gfak-6-standard/</link>
+      <link>http://localhost:1313/posts/2023/11/gfak-6-standard/</link>
       <pubDate>Sat, 04 Nov 2023 20:53:08 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/11/gfak-6-standard/</guid>
+      <guid>http://localhost:1313/posts/2023/11/gfak-6-standard/</guid>
       <description>Voile standard: construction N°6</description>
       <content:encoded><![CDATA[<h2 id="la-voile">La voile</h2>
 <p>Cerf-volant standard prévu pour voler entre 5 et 20 km/h de vent</p>

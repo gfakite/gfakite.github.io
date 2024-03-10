@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GFAK 3 Mid Vented on Go fly a kite</title>
-    <link>https://gfakite.github.io/tags/gfak-3-mid-vented/</link>
+    <link>http://localhost:1313/tags/gfak-3-mid-vented/</link>
     <description>Recent content in GFAK 3 Mid Vented on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 04 Dec 2023 20:53:08 +0100</lastBuildDate>
-    <atom:link href="https://gfakite.github.io/tags/gfak-3-mid-vented/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gfak-3-mid-vented/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 3: mid vented</title>
-      <link>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</link>
+      <link>http://localhost:1313/posts/2023/12/gfak-3-mid-vented/</link>
       <pubDate>Mon, 04 Dec 2023 20:53:08 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</guid>
+      <guid>http://localhost:1313/posts/2023/12/gfak-3-mid-vented/</guid>
       <description>Voile mid vented: construction N°3</description>
       <content:encoded><![CDATA[<h2 id="rectification-de-la-voile">Rectification de la voile</h2>
-<p>Après son premier vol, deux défauts de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
+<p>Après son premier vol, deux défauts de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="http://localhost:1313/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
 <ul>
 <li>5 cm trop courte sur le plan vertical</li>
 <li>Partie centrale pas parfaitement plane</li>
@@ -85,9 +85,9 @@
     </item>
     <item>
       <title>GFAK 3: connecteurs en T</title>
-      <link>https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/</link>
+      <link>http://localhost:1313/posts/2023/02/gfak-3-connecteurs-en-t/</link>
       <pubDate>Tue, 28 Feb 2023 00:01:01 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/</guid>
+      <guid>http://localhost:1313/posts/2023/02/gfak-3-connecteurs-en-t/</guid>
       <description>Nouvelle forme de voile et changement de liaison bord d&amp;#39;attaque / barre verticale</description>
       <content:encoded><![CDATA[<h2 id="voile-basée-sur-un-nouveau-plan">Voile basée sur un nouveau plan</h2>
 <p>La voile a plus de surface au centre pour accentuer la portance et la stabilité</p>

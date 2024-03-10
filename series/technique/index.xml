@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Technique on Go fly a kite</title>
-    <link>https://gfakite.github.io/series/technique/</link>
+    <link>http://localhost:1313/series/technique/</link>
     <description>Recent content in Technique on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 21 May 2023 09:40:02 +0200</lastBuildDate>
-    <atom:link href="https://gfakite.github.io/series/technique/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/technique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Housses</title>
-      <link>https://gfakite.github.io/posts/2023/05/housses/</link>
+      <link>http://localhost:1313/posts/2023/05/housses/</link>
       <pubDate>Sun, 21 May 2023 09:40:02 +0200</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/05/housses/</guid>
+      <guid>http://localhost:1313/posts/2023/05/housses/</guid>
       <description>Sujet: transport et de protection de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/05-21/01-housses.jpg#center" alt="4 housses pour transporter 2 cerfs-volants"  />
 
@@ -79,9 +79,9 @@
     </item>
     <item>
       <title>Subversion: tube carbone</title>
-      <link>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</link>
+      <link>http://localhost:1313/posts/2023/03/subversion-tube-carbone/</link>
       <pubDate>Thu, 16 Mar 2023 11:22:01 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
+      <guid>http://localhost:1313/posts/2023/03/subversion-tube-carbone/</guid>
       <description>Une alternative aux tubes de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  />
 
@@ -118,7 +118,7 @@
 <table>
 <thead>
 <tr>
-<th>model</th>
+<th>Sky Shark</th>
 <th>weight (gr)</th>
 <th>spine</th>
 <th>length (cm)</th>
@@ -129,7 +129,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Sky Shark P90</td>
+<td>P90</td>
 <td>10,5</td>
 <td>550</td>
 <td>82,5</td>
@@ -138,7 +138,7 @@
 <td>5,0</td>
 </tr>
 <tr>
-<td>Sky Shark P100</td>
+<td>P100</td>
 <td>13</td>
 <td>400</td>
 <td>82,5</td>
@@ -147,7 +147,7 @@
 <td>6,2</td>
 </tr>
 <tr>
-<td>Sky Shark P200</td>
+<td>P200</td>
 <td>14,5</td>
 <td>350</td>
 <td>82,5</td>
@@ -156,7 +156,7 @@
 <td>6,9</td>
 </tr>
 <tr>
-<td>Sky Shark P300</td>
+<td>P300</td>
 <td>17</td>
 <td>300</td>
 <td>82,5</td>
@@ -165,7 +165,7 @@
 <td>8,1</td>
 </tr>
 <tr>
-<td>Sky Shark P400</td>
+<td>P400</td>
 <td>18</td>
 <td>300</td>
 <td>82,5</td>
@@ -174,7 +174,7 @@
 <td>8,6</td>
 </tr>
 <tr>
-<td>Sky Shark P1X</td>
+<td>P1X</td>
 <td>13</td>
 <td>400</td>
 <td>82,5</td>
@@ -183,7 +183,7 @@
 <td>6,2</td>
 </tr>
 <tr>
-<td>Sky Shark P2X</td>
+<td>P2X</td>
 <td>15</td>
 <td>300</td>
 <td>82,5</td>
@@ -192,7 +192,7 @@
 <td>7,1</td>
 </tr>
 <tr>
-<td>Sky Shark P3X</td>
+<td>P3X</td>
 <td>17</td>
 <td>250</td>
 <td>82,5</td>
@@ -224,7 +224,6 @@
 <h2 id="bilan">Bilan</h2>
 <ul>
 <li>Prix correct, tube rectiligne et rigidité OK</li>
-<li>Erreur sur la longueur, les tubes font 30.5&quot; et non pas 31&quot;. Mince !</li>
 </ul>
 <p><img loading="lazy" src="/posts/2023/03-16/02-easton-powerflight-500.jpg#center" alt="Tube de flèche Easton PowerFlight 500"  />
 
@@ -238,9 +237,9 @@
     </item>
     <item>
       <title>Conseils et repentance</title>
-      <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
+      <link>http://localhost:1313/posts/2023/02/conseils-et-repentance/</link>
       <pubDate>Wed, 15 Feb 2023 05:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
+      <guid>http://localhost:1313/posts/2023/02/conseils-et-repentance/</guid>
       <description>Quelques indications pour éviter des écueils de fabrication</description>
       <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, <em>GFAK 1</em> vole très correctement. À 25 m du sol, un œil emmétrope aura du mal à voir les <em>imperfections cosmétiques</em> de la voile</p>
 <p><img loading="lazy" src="/posts/2023/02-15/00-gfak-1.jpg#center" alt="GFAK 1: prêt au décollage, en vol, le crash"  />
@@ -314,7 +313,7 @@
 <p><img loading="lazy" src="/posts/2023/02-15/07-controle-bridage.jpg#center" alt="Vérification bridage"  />
 
 &ndash;&gt; Vérification bridage</p>
-<p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/">GFAK 2: Assemblage final</a></p>
+<p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/">GFAK 2: Assemblage final</a></p>
 <p><strong>Solutions</strong>:</p>
 <ul>
 <li>Remesurer le bridage</li>
