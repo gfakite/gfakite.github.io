@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Go fly a kite</title>
-    <link>http://localhost:1313/categories/posts/</link>
+    <link>https://gfakite.github.io/categories/posts/</link>
     <description>Recent content in Posts on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 04 Feb 2024 20:53:08 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gfakite.github.io/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 7: extra vented</title>
-      <link>http://localhost:1313/posts/2024/02/gfak-7-extra-vented/</link>
+      <link>https://gfakite.github.io/posts/2024/02/gfak-7-extra-vented/</link>
       <pubDate>Sun, 04 Feb 2024 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2024/02/gfak-7-extra-vented/</guid>
+      <guid>https://gfakite.github.io/posts/2024/02/gfak-7-extra-vented/</guid>
       <description>Voile extra vented: construction N°7</description>
       <content:encoded><![CDATA[<p>Petite folie colorée pour voler par vent soutenu. La météo n&rsquo;a pas encore été en adéquation avec cette voile pour baptiser <em>GFAK 7</em></p>
 <p>En attente des nouvelles du livreur de barres et d&rsquo;un signe des dieux du vent pour tester cette construction</p>
@@ -65,12 +65,12 @@
     </item>
     <item>
       <title>GFAK 2: vented</title>
-      <link>http://localhost:1313/posts/2024/01/gfak-2-vented/</link>
+      <link>https://gfakite.github.io/posts/2024/01/gfak-2-vented/</link>
       <pubDate>Thu, 04 Jan 2024 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2024/01/gfak-2-vented/</guid>
+      <guid>https://gfakite.github.io/posts/2024/01/gfak-2-vented/</guid>
       <description>Voile vented: construction N°2</description>
-      <content:encoded><![CDATA[<p>En cumulé, c&rsquo;est le cerf-volant qui a le plus volé depuis sa <a href="http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/">présentation</a></p>
-<p>Après avoir découvert et testé un nouveau plan sur <a href="http://localhost:1313/posts/2023/02/gfak-3-connecteurs-en-t/">GFAK 3</a> puis sur <a href="http://localhost:1313/posts/2023/11/gfak-6-standard/">GFAK 6</a>, les défauts de cette voile sont ressortis (erreurs de construction liées à mes débuts)</p>
+      <content:encoded><![CDATA[<p>En cumulé, c&rsquo;est le cerf-volant qui a le plus volé depuis sa <a href="https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/">présentation</a></p>
+<p>Après avoir découvert et testé un nouveau plan sur <a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">GFAK 3</a> puis sur <a href="https://gfakite.github.io/posts/2023/11/gfak-6-standard/">GFAK 6</a>, les défauts de cette voile sont ressortis (erreurs de construction liées à mes débuts)</p>
 <p>Pour ne pas tout jeter, j&rsquo;ai retaillé la voile et refait le bord d&rsquo;attaque. Les bandes en vert fluo marquent l&rsquo;emplacement des anciennes barres verticales. Pour compléter la panoplie du parfait cerf-voliste, la voile est ventilée à 18 %</p>
 <p><img loading="lazy" src="/posts/2024/01-04/01-avant-apres.jpg#center" alt="GFAK 2 avant et après les découpes"  />
 
@@ -106,7 +106,7 @@
 </tr>
 <tr>
 <td>Barres verticales</td>
-<td><a href="http://localhost:1313/posts/2023/03/subversion-tube-carbone/">Easton PowerFlight 500 en 31&quot;</a></td>
+<td><a href="https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/">Easton PowerFlight 500 en 31&quot;</a></td>
 </tr>
 <tr>
 <td>Couleur(s)</td>
@@ -118,12 +118,12 @@
     </item>
     <item>
       <title>GFAK 3: mid vented</title>
-      <link>http://localhost:1313/posts/2023/12/gfak-3-mid-vented/</link>
+      <link>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</link>
       <pubDate>Mon, 04 Dec 2023 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/12/gfak-3-mid-vented/</guid>
+      <guid>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</guid>
       <description>Voile mid vented: construction N°3</description>
       <content:encoded><![CDATA[<h2 id="rectification-de-la-voile">Rectification de la voile</h2>
-<p>Après son premier vol, deux défauts de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="http://localhost:1313/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
+<p>Après son premier vol, deux défauts de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
 <ul>
 <li>5 cm trop courte sur le plan vertical</li>
 <li>Partie centrale pas parfaitement plane</li>
@@ -193,9 +193,9 @@
     </item>
     <item>
       <title>GFAK 6: standard</title>
-      <link>http://localhost:1313/posts/2023/11/gfak-6-standard/</link>
+      <link>https://gfakite.github.io/posts/2023/11/gfak-6-standard/</link>
       <pubDate>Sat, 04 Nov 2023 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/11/gfak-6-standard/</guid>
+      <guid>https://gfakite.github.io/posts/2023/11/gfak-6-standard/</guid>
       <description>Voile standard: construction N°6</description>
       <content:encoded><![CDATA[<h2 id="la-voile">La voile</h2>
 <p>Cerf-volant standard prévu pour voler entre 5 et 20 km/h de vent</p>
@@ -258,15 +258,15 @@
     </item>
     <item>
       <title>GFAK 5: ajustements mini revo</title>
-      <link>http://localhost:1313/posts/2023/09/gfak-5-ajustements-mini-revo/</link>
+      <link>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/</link>
       <pubDate>Fri, 29 Sep 2023 08:10:17 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2023/09/gfak-5-ajustements-mini-revo/</guid>
+      <guid>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
       <content:encoded><![CDATA[<p>Mini Revo a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas <em>révolutionnaire</em> avec son bord d&rsquo;attaque de 70 cm</p>
 <p>En 2 lignes (bridage 4-2) ou en 4 lignes, le cerf-volant décolle facilement. Dès qu&rsquo;il est dans les airs, impossible de faire un vol stationnaire. Il part comme une flèche et ensuite c&rsquo;est décrochage, piqué en ligne droite ou vrille infernale</p>
 <p>Excellente voile pour emmêler les lignes</p>
 <h2 id="bridage-4-2">Bridage &ldquo;4-2&rdquo;</h2>
-<p>Le bridage <a href="http://localhost:1313/posts/2023/05/gfak-5-nouveau-projet-mini-revo/">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (B3-B'3 et B4-B'4 sur le schéma)</p>
+<p>Le bridage <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (B3-B'3 et B4-B'4 sur le schéma)</p>
 <p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Malgré de nombreux essais et réglages, je n&rsquo;ai pas réussi à obtenir un pilotage correct</p>
 <h2 id="bridage-traditionnel-4-lignes-homothétie">Bridage traditionnel 4 lignes: homothétie</h2>
 <p>Un bridage classique 4 lignes n&rsquo;est pas adapté. Les commandes sont beaucoup trop sensibles pour faire un vol prolongé. Il est impossible de piloter Mini Revo</p>
@@ -287,9 +287,9 @@
     </item>
     <item>
       <title>GFAK 4: AirBow terminé</title>
-      <link>http://localhost:1313/posts/2023/06/gfak-4-airbow-termine/</link>
+      <link>https://gfakite.github.io/posts/2023/06/gfak-4-airbow-termine/</link>
       <pubDate>Mon, 26 Jun 2023 00:03:04 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2023/06/gfak-4-airbow-termine/</guid>
+      <guid>https://gfakite.github.io/posts/2023/06/gfak-4-airbow-termine/</guid>
       <description>Chantier AirBow fini, premier vol</description>
       <content:encoded><![CDATA[<p>31 pièces d&rsquo;accastillage composent ce cerf-volant inspiré d&rsquo;un AirBow. Un ajustement est à prévoir sur la tension du bridage horizontal (jonction gauche/droite)</p>
 <h2 id="airbow-sans-tension-de-voile">Airbow sans tension de voile</h2>
@@ -329,9 +329,9 @@
     </item>
     <item>
       <title>Housses</title>
-      <link>http://localhost:1313/posts/2023/05/housses/</link>
+      <link>https://gfakite.github.io/posts/2023/05/housses/</link>
       <pubDate>Sun, 21 May 2023 09:40:02 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2023/05/housses/</guid>
+      <guid>https://gfakite.github.io/posts/2023/05/housses/</guid>
       <description>Sujet: transport et de protection de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/05-21/01-housses.jpg#center" alt="4 housses pour transporter 2 cerfs-volants"  />
 
@@ -398,9 +398,9 @@
     </item>
     <item>
       <title>GFAK 5: nouveau projet mini Revo</title>
-      <link>http://localhost:1313/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</link>
+      <link>https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</link>
       <pubDate>Thu, 11 May 2023 05:13:07 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</guid>
+      <guid>https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
       <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan Rev 1.5 d&rsquo;<em>Yves Ganne</em> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
 <p>Exercice de style en miniature pour faire un test grandeur nature. Cette taille nécessite beaucoup de vent pour s&rsquo;exprimer et risque de ne pas être stable en vol</p>
@@ -514,9 +514,9 @@
     </item>
     <item>
       <title>GFAK 1: ventilation</title>
-      <link>http://localhost:1313/posts/2023/04/gfak-1-ventilation/</link>
+      <link>https://gfakite.github.io/posts/2023/04/gfak-1-ventilation/</link>
       <pubDate>Sat, 15 Apr 2023 22:50:03 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2023/04/gfak-1-ventilation/</guid>
+      <guid>https://gfakite.github.io/posts/2023/04/gfak-1-ventilation/</guid>
       <description>Versions de ventilation et mise en pratique</description>
       <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
 <p>Pour s&rsquo;adapter au vent, <em>Watty</em> a décliné plusieurs ventilations de voile:</p>
@@ -636,9 +636,9 @@
     </item>
     <item>
       <title>GFAK 4: suite du chantier</title>
-      <link>http://localhost:1313/posts/2023/03/gfak-4-suite-du-chantier/</link>
+      <link>https://gfakite.github.io/posts/2023/03/gfak-4-suite-du-chantier/</link>
       <pubDate>Sun, 26 Mar 2023 04:22:17 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/gfak-4-suite-du-chantier/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/gfak-4-suite-du-chantier/</guid>
       <description>Petites avancées sur la voile de l&amp;#39;AirBow</description>
       <content:encoded><![CDATA[<h2 id="msmd----monkey-see-monkey-do">MSMD &ndash;&gt; Monkey See Monkey Do</h2>
 <p>Modeste suite de la tentative de construction <em>GFAK 4</em> inspirée d&rsquo;un AirBow. Chantier lent. La recherche d&rsquo;informations sur les pièces, l&rsquo;assemblage et la construction prennent du temps</p>
@@ -675,9 +675,9 @@
     </item>
     <item>
       <title>GFAK 4: vidéocassette</title>
-      <link>http://localhost:1313/posts/2023/03/gfak-4-videocassette/</link>
+      <link>https://gfakite.github.io/posts/2023/03/gfak-4-videocassette/</link>
       <pubDate>Tue, 21 Mar 2023 14:03:47 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/gfak-4-videocassette/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/gfak-4-videocassette/</guid>
       <description>Vidéos au sol et en vol</description>
       <content:encoded><![CDATA[<p>Quelques vidéos de cerf-volant AirBow pour cerner ses capacités. Les vidéos datent mais le sujet et l&rsquo;expérience de vol sont intéressants</p>
 <h2 id="tim-bensons-airbow">Tim Benson&rsquo;s Airbow</h2>
@@ -716,9 +716,9 @@
     </item>
     <item>
       <title>Subversion: tube carbone</title>
-      <link>http://localhost:1313/posts/2023/03/subversion-tube-carbone/</link>
+      <link>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</link>
       <pubDate>Thu, 16 Mar 2023 11:22:01 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/subversion-tube-carbone/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
       <description>Une alternative aux tubes de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  />
 
@@ -874,9 +874,9 @@
     </item>
     <item>
       <title>GFAK 4: nouveau projet AirBow</title>
-      <link>http://localhost:1313/posts/2023/03/gfak-4-nouveau-projet-airbow/</link>
+      <link>https://gfakite.github.io/posts/2023/03/gfak-4-nouveau-projet-airbow/</link>
       <pubDate>Wed, 15 Mar 2023 13:33:25 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/gfak-4-nouveau-projet-airbow/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/gfak-4-nouveau-projet-airbow/</guid>
       <description>Cerf-volant à voile tendue et convexe</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/03-15/01_miaribow.jpg#center" alt="AirBow (crédit photo: Jordi Morella"  />
 
@@ -915,9 +915,9 @@
     </item>
     <item>
       <title>GFAK 3: connecteurs en T</title>
-      <link>http://localhost:1313/posts/2023/02/gfak-3-connecteurs-en-t/</link>
+      <link>https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/</link>
       <pubDate>Tue, 28 Feb 2023 00:01:01 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/02/gfak-3-connecteurs-en-t/</guid>
+      <guid>https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/</guid>
       <description>Nouvelle forme de voile et changement de liaison bord d&amp;#39;attaque / barre verticale</description>
       <content:encoded><![CDATA[<h2 id="voile-basée-sur-un-nouveau-plan">Voile basée sur un nouveau plan</h2>
 <p>La voile a plus de surface au centre pour accentuer la portance et la stabilité</p>
@@ -939,9 +939,9 @@
     </item>
     <item>
       <title>Conseils et repentance</title>
-      <link>http://localhost:1313/posts/2023/02/conseils-et-repentance/</link>
+      <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
       <pubDate>Wed, 15 Feb 2023 05:13:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/02/conseils-et-repentance/</guid>
+      <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
       <description>Quelques indications pour éviter des écueils de fabrication</description>
       <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, <em>GFAK 1</em> vole très correctement. À 25 m du sol, un œil emmétrope aura du mal à voir les <em>imperfections cosmétiques</em> de la voile</p>
 <p><img loading="lazy" src="/posts/2023/02-15/00-gfak-1.jpg#center" alt="GFAK 1: prêt au décollage, en vol, le crash"  />
@@ -1015,7 +1015,7 @@
 <p><img loading="lazy" src="/posts/2023/02-15/07-controle-bridage.jpg#center" alt="Vérification bridage"  />
 
 &ndash;&gt; Vérification bridage</p>
-<p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/">GFAK 2: Assemblage final</a></p>
+<p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/">GFAK 2: Assemblage final</a></p>
 <p><strong>Solutions</strong>:</p>
 <ul>
 <li>Remesurer le bridage</li>
@@ -1046,9 +1046,9 @@
     </item>
     <item>
       <title>GFAK 2: assemblage final</title>
-      <link>http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/</link>
+      <link>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</link>
       <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/</guid>
+      <guid>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<h2 id="contrôle-de-lalignement-du-bridage">Contrôle de l&rsquo;alignement du bridage</h2>
 <p>A effectuer en suspendant la voile via les points de tire du haut</p>

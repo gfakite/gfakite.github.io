@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GFAK 4 Airbow on Go fly a kite</title>
-    <link>http://localhost:1313/tags/gfak-4-airbow/</link>
+    <link>https://gfakite.github.io/tags/gfak-4-airbow/</link>
     <description>Recent content in GFAK 4 Airbow on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 26 Jun 2023 00:03:04 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gfak-4-airbow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gfakite.github.io/tags/gfak-4-airbow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 4: AirBow terminé</title>
-      <link>http://localhost:1313/posts/2023/06/gfak-4-airbow-termine/</link>
+      <link>https://gfakite.github.io/posts/2023/06/gfak-4-airbow-termine/</link>
       <pubDate>Mon, 26 Jun 2023 00:03:04 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2023/06/gfak-4-airbow-termine/</guid>
+      <guid>https://gfakite.github.io/posts/2023/06/gfak-4-airbow-termine/</guid>
       <description>Chantier AirBow fini, premier vol</description>
       <content:encoded><![CDATA[<p>31 pièces d&rsquo;accastillage composent ce cerf-volant inspiré d&rsquo;un AirBow. Un ajustement est à prévoir sur la tension du bridage horizontal (jonction gauche/droite)</p>
 <h2 id="airbow-sans-tension-de-voile">Airbow sans tension de voile</h2>
@@ -52,9 +52,9 @@
     </item>
     <item>
       <title>GFAK 4: suite du chantier</title>
-      <link>http://localhost:1313/posts/2023/03/gfak-4-suite-du-chantier/</link>
+      <link>https://gfakite.github.io/posts/2023/03/gfak-4-suite-du-chantier/</link>
       <pubDate>Sun, 26 Mar 2023 04:22:17 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/gfak-4-suite-du-chantier/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/gfak-4-suite-du-chantier/</guid>
       <description>Petites avancées sur la voile de l&amp;#39;AirBow</description>
       <content:encoded><![CDATA[<h2 id="msmd----monkey-see-monkey-do">MSMD &ndash;&gt; Monkey See Monkey Do</h2>
 <p>Modeste suite de la tentative de construction <em>GFAK 4</em> inspirée d&rsquo;un AirBow. Chantier lent. La recherche d&rsquo;informations sur les pièces, l&rsquo;assemblage et la construction prennent du temps</p>
@@ -91,9 +91,9 @@
     </item>
     <item>
       <title>GFAK 4: vidéocassette</title>
-      <link>http://localhost:1313/posts/2023/03/gfak-4-videocassette/</link>
+      <link>https://gfakite.github.io/posts/2023/03/gfak-4-videocassette/</link>
       <pubDate>Tue, 21 Mar 2023 14:03:47 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/gfak-4-videocassette/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/gfak-4-videocassette/</guid>
       <description>Vidéos au sol et en vol</description>
       <content:encoded><![CDATA[<p>Quelques vidéos de cerf-volant AirBow pour cerner ses capacités. Les vidéos datent mais le sujet et l&rsquo;expérience de vol sont intéressants</p>
 <h2 id="tim-bensons-airbow">Tim Benson&rsquo;s Airbow</h2>
@@ -132,9 +132,9 @@
     </item>
     <item>
       <title>GFAK 4: nouveau projet AirBow</title>
-      <link>http://localhost:1313/posts/2023/03/gfak-4-nouveau-projet-airbow/</link>
+      <link>https://gfakite.github.io/posts/2023/03/gfak-4-nouveau-projet-airbow/</link>
       <pubDate>Wed, 15 Mar 2023 13:33:25 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/gfak-4-nouveau-projet-airbow/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/gfak-4-nouveau-projet-airbow/</guid>
       <description>Cerf-volant à voile tendue et convexe</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/03-15/01_miaribow.jpg#center" alt="AirBow (crédit photo: Jordi Morella"  />
 

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Technique on Go fly a kite</title>
-    <link>http://localhost:1313/series/technique/</link>
+    <link>https://gfakite.github.io/series/technique/</link>
     <description>Recent content in Technique on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 21 May 2023 09:40:02 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/technique/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gfakite.github.io/series/technique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Housses</title>
-      <link>http://localhost:1313/posts/2023/05/housses/</link>
+      <link>https://gfakite.github.io/posts/2023/05/housses/</link>
       <pubDate>Sun, 21 May 2023 09:40:02 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2023/05/housses/</guid>
+      <guid>https://gfakite.github.io/posts/2023/05/housses/</guid>
       <description>Sujet: transport et de protection de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/05-21/01-housses.jpg#center" alt="4 housses pour transporter 2 cerfs-volants"  />
 
@@ -79,9 +79,9 @@
     </item>
     <item>
       <title>Subversion: tube carbone</title>
-      <link>http://localhost:1313/posts/2023/03/subversion-tube-carbone/</link>
+      <link>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</link>
       <pubDate>Thu, 16 Mar 2023 11:22:01 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/03/subversion-tube-carbone/</guid>
+      <guid>https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/</guid>
       <description>Une alternative aux tubes de cerf-volant</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/posts/2023/03-16/01-subversion-tube-carbone.png#center" alt="Fûts en carbone"  />
 
@@ -237,9 +237,9 @@
     </item>
     <item>
       <title>Conseils et repentance</title>
-      <link>http://localhost:1313/posts/2023/02/conseils-et-repentance/</link>
+      <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
       <pubDate>Wed, 15 Feb 2023 05:13:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2023/02/conseils-et-repentance/</guid>
+      <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
       <description>Quelques indications pour éviter des écueils de fabrication</description>
       <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, <em>GFAK 1</em> vole très correctement. À 25 m du sol, un œil emmétrope aura du mal à voir les <em>imperfections cosmétiques</em> de la voile</p>
 <p><img loading="lazy" src="/posts/2023/02-15/00-gfak-1.jpg#center" alt="GFAK 1: prêt au décollage, en vol, le crash"  />
@@ -313,7 +313,7 @@
 <p><img loading="lazy" src="/posts/2023/02-15/07-controle-bridage.jpg#center" alt="Vérification bridage"  />
 
 &ndash;&gt; Vérification bridage</p>
-<p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/">GFAK 2: Assemblage final</a></p>
+<p>Confer: <em>Contrôle de l’alignement du bridage</em> de la page &ndash;&gt; <a href="https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/">GFAK 2: Assemblage final</a></p>
 <p><strong>Solutions</strong>:</p>
 <ul>
 <li>Remesurer le bridage</li>

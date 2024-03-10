@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Go fly a kite</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://gfakite.github.io/tags/</link>
     <description>Recent content in Tags on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 04 Feb 2024 20:53:08 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gfakite.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 7 Extra Vented</title>
-      <link>http://localhost:1313/tags/gfak-7-extra-vented/</link>
+      <link>https://gfakite.github.io/tags/gfak-7-extra-vented/</link>
       <pubDate>Sun, 04 Feb 2024 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/gfak-7-extra-vented/</guid>
+      <guid>https://gfakite.github.io/tags/gfak-7-extra-vented/</guid>
       <description></description>
     </item>
     <item>
       <title>GFAK 2 Vented</title>
-      <link>http://localhost:1313/tags/gfak-2-vented/</link>
+      <link>https://gfakite.github.io/tags/gfak-2-vented/</link>
       <pubDate>Thu, 04 Jan 2024 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/gfak-2-vented/</guid>
+      <guid>https://gfakite.github.io/tags/gfak-2-vented/</guid>
       <description></description>
     </item>
     <item>
       <title>GFAK 3 Mid Vented</title>
-      <link>http://localhost:1313/tags/gfak-3-mid-vented/</link>
+      <link>https://gfakite.github.io/tags/gfak-3-mid-vented/</link>
       <pubDate>Mon, 04 Dec 2023 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/gfak-3-mid-vented/</guid>
+      <guid>https://gfakite.github.io/tags/gfak-3-mid-vented/</guid>
       <description></description>
     </item>
     <item>
       <title>GFAK 6 Standard</title>
-      <link>http://localhost:1313/tags/gfak-6-standard/</link>
+      <link>https://gfakite.github.io/tags/gfak-6-standard/</link>
       <pubDate>Sat, 04 Nov 2023 20:53:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/gfak-6-standard/</guid>
+      <guid>https://gfakite.github.io/tags/gfak-6-standard/</guid>
       <description></description>
     </item>
     <item>
       <title>GFAK 5 Mini Revo</title>
-      <link>http://localhost:1313/tags/gfak-5-mini-revo/</link>
+      <link>https://gfakite.github.io/tags/gfak-5-mini-revo/</link>
       <pubDate>Fri, 29 Sep 2023 08:10:17 +0200</pubDate>
-      <guid>http://localhost:1313/tags/gfak-5-mini-revo/</guid>
+      <guid>https://gfakite.github.io/tags/gfak-5-mini-revo/</guid>
       <description></description>
     </item>
     <item>
       <title>GFAK 4 Airbow</title>
-      <link>http://localhost:1313/tags/gfak-4-airbow/</link>
+      <link>https://gfakite.github.io/tags/gfak-4-airbow/</link>
       <pubDate>Mon, 26 Jun 2023 00:03:04 +0200</pubDate>
-      <guid>http://localhost:1313/tags/gfak-4-airbow/</guid>
+      <guid>https://gfakite.github.io/tags/gfak-4-airbow/</guid>
       <description></description>
     </item>
     <item>
       <title>Technique</title>
-      <link>http://localhost:1313/tags/technique/</link>
+      <link>https://gfakite.github.io/tags/technique/</link>
       <pubDate>Sun, 21 May 2023 09:40:02 +0200</pubDate>
-      <guid>http://localhost:1313/tags/technique/</guid>
+      <guid>https://gfakite.github.io/tags/technique/</guid>
       <description></description>
     </item>
     <item>
       <title>GFAK 1 Vented</title>
-      <link>http://localhost:1313/tags/gfak-1-vented/</link>
+      <link>https://gfakite.github.io/tags/gfak-1-vented/</link>
       <pubDate>Sat, 15 Apr 2023 22:50:03 +0200</pubDate>
-      <guid>http://localhost:1313/tags/gfak-1-vented/</guid>
+      <guid>https://gfakite.github.io/tags/gfak-1-vented/</guid>
       <description></description>
     </item>
     <item>
       <title>Essentials</title>
-      <link>http://localhost:1313/tags/essentials/</link>
+      <link>https://gfakite.github.io/tags/essentials/</link>
       <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
-      <guid>http://localhost:1313/tags/essentials/</guid>
+      <guid>https://gfakite.github.io/tags/essentials/</guid>
       <description></description>
     </item>
   </channel>
