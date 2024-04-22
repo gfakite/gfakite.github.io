@@ -6,8 +6,15 @@
     <description>Recent content in Séries on Go fly a kite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 04 Feb 2024 20:53:08 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 22:13:07 +0200</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GFAK 5 Mini Revo</title>
+      <link>https://gfakite.github.io/series/gfak-5-mini-revo/</link>
+      <pubDate>Sun, 10 Mar 2024 22:13:07 +0200</pubDate>
+      <guid>https://gfakite.github.io/series/gfak-5-mini-revo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>GFAK 7 Extra Vented</title>
       <link>https://gfakite.github.io/series/gfak-7-extra-vented/</link>
@@ -34,13 +41,6 @@
       <link>https://gfakite.github.io/series/gfak-6-standard/</link>
       <pubDate>Sat, 04 Nov 2023 20:53:08 +0100</pubDate>
       <guid>https://gfakite.github.io/series/gfak-6-standard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GFAK 5 Mini Revo</title>
-      <link>https://gfakite.github.io/series/gfak-5-mini-revo/</link>
-      <pubDate>Fri, 29 Sep 2023 08:10:17 +0200</pubDate>
-      <guid>https://gfakite.github.io/series/gfak-5-mini-revo/</guid>
       <description></description>
     </item>
     <item>
