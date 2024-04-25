@@ -22,15 +22,16 @@
       ></iframe>
     </div>
 
-<h2 id="heading"></h2>
-<p>Vidéo peu qualitative (son et cadrage), néanmoins, elle donne un aperçu du comportement de mini revo: instable et rapide</p>
-<p>Les deux ajustements (<a href="https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/">détaillés ici</a>) permettent d&rsquo;améliorer le pilotage de ce cerf-volant. Cependant, il est impossible de faire un vol stationnaire sur le dos. Mini revo a un comportement trop fougueux et un caractère assurément viril</p>
+<h2 id="vidéo-brute">Vidéo brute</h2>
+<p>Vidéo peu qualitative (son et cadrage), néanmoins, elle donne un bon aperçu du comportement de <em>mini revo</em>: instable et rapide</p>
+<p>Les deux ajustements (<a href="https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/">détaillés ici</a>) permettent d&rsquo;améliorer le pilotage de ce cerf-volant. Cependant, il est impossible de faire un vol stationnaire sur le dos. <em>Mini revo</em> a un comportement trop fougueux et un caractère assurément viril</p>
 <p>Au cours de la séance d&rsquo;essai, il a beaucoup vrillé et chuté:</p>
 <ul>
 <li>les lignes sont à démêler</li>
 <li>le bord d&rsquo;attaque est à réparer (coupures coquillages)</li>
 </ul>
-<p>Avec ce vent, la voile a vieilli de presque 5 ans en l&rsquo;espace d&rsquo;une heure</p>
+<h2 id="faseyement">Faseyement</h2>
+<p>La voile a vieilli de 5 ans en l&rsquo;espace d&rsquo;une heure</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -64,7 +65,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Rev 1.5 / 2,36 m</td>
+<td>Revo 1.5 / 2,36 m</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -120,7 +121,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Rev 1.5 / 2,36 m</td>
+<td>Revo 1.5 / 2,36 m</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -195,7 +196,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Rev 1.5 / 2,36 m</td>
+<td>Revo 1.5 / 2,36 m</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -260,7 +261,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Rev 1.5 / 2,36 m</td>
+<td>Revo 1.5 / 2,36 m</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -292,14 +293,14 @@
       <pubDate>Fri, 29 Sep 2023 08:10:17 +0200</pubDate>
       <guid>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
-      <content:encoded><![CDATA[<p>Mini Revo a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas <em>révolutionnaire</em> avec son bord d&rsquo;attaque de 70 cm</p>
+      <content:encoded><![CDATA[<p><em>Mini revo</em> a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas <em>révolutionnaire</em> avec son bord d&rsquo;attaque de 70 cm</p>
 <p>En 2 lignes (bridage 4-2) ou en 4 lignes, le cerf-volant décolle facilement. Dès qu&rsquo;il est dans les airs, impossible de faire un vol stationnaire. Il part comme une flèche et ensuite c&rsquo;est décrochage, piqué en ligne droite ou vrille infernale</p>
 <p>Excellente voile pour emmêler les lignes</p>
 <h2 id="bridage-4-2">Bridage &ldquo;4-2&rdquo;</h2>
 <p>Le bridage <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (B3-B'3 et B4-B'4 sur le schéma)</p>
 <p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Malgré de nombreux essais et réglages, je n&rsquo;ai pas réussi à obtenir un pilotage correct</p>
 <h2 id="bridage-traditionnel-4-lignes-homothétie">Bridage traditionnel 4 lignes: homothétie</h2>
-<p>Un bridage classique 4 lignes n&rsquo;est pas adapté. Les commandes sont beaucoup trop sensibles pour faire un vol prolongé. Il est impossible de piloter Mini Revo</p>
+<p>Un bridage classique 4 lignes n&rsquo;est pas adapté. Les commandes sont beaucoup trop sensibles pour faire un vol prolongé. Il est impossible de piloter <em>mini revo</em></p>
 <h2 id="ajustements-pour-piloter-la-bête">Ajustements pour piloter la bête</h2>
 <p>Pour améliorer le pilotage, il est prévu de tester deux ajustements:</p>
 <ul>
@@ -348,7 +349,7 @@
 <h2 id="en-définitive">En définitive</h2>
 <p>La voile tendue et les formes courbées sont délicates à ajuster/coudre. Il y a des plis autour du centre, pourtant le plan a été respecté</p>
 <p>La symétrie de la voile est très sympa en vol</p>
-<p>Par rapport à un Rev classique, l&rsquo;absence de notion haut/bas est déroutante. Mais cette forme de voile permet une autre expérience de vol:</p>
+<p>Par rapport à un Revo classique, l&rsquo;absence de notion haut/bas est déroutante. Mais cette forme de voile permet une autre expérience de vol:</p>
 <ul>
 <li>plané sur le coté</li>
 <li>rotation rapide</li>
@@ -367,7 +368,7 @@
 
 &ndash;&gt; 4 housses pour transporter 2 cerfs-volants</p>
 <h2 id="longue-pochette-de-transport-noire">Longue pochette de transport noire</h2>
-<p>En bas sur la photo &ndash;&gt; Housse de transport de cerfs-volants confectionnée à partir d&rsquo;une longue chute de <em>Duncan</em> en coton Cordura. Construction basique qui permet d&rsquo;emporter deux Rev et leurs barres</p>
+<p>En bas sur la photo &ndash;&gt; Housse de transport de cerfs-volants confectionnée à partir d&rsquo;une longue chute de <em>Duncan</em> en coton Cordura. Construction basique qui permet d&rsquo;emporter deux Revo et leurs barres</p>
 <p>Fermeture ultra simple via lacet (source: <a href="https://www.google.com/search?q=tuto&#43;couture&#43;pochon&amp;oq=tuto&#43;couture&#43;pochon&amp;aqs=chrome..69i57j0i512l9.4470j0j7&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank" rel="nofollow noopener noreferrer">google.fr/tuto+couture+pochon</a>)</p>
 <h2 id="fine-housse-de-protection-de-barres">Fine housse de protection de barres</h2>
 <p>2ème position en partant du bas sur la photo &ndash;&gt;  Longue housse pour ranger les barres avec fermeture par scratch. La couture centrale forme deux compartiments pour les barres</p>
@@ -432,13 +433,13 @@
       <pubDate>Thu, 11 May 2023 05:13:07 +0200</pubDate>
       <guid>https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
-      <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan Rev 1.5 d&rsquo;<em>Yves Ganne</em> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
+      <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan Revo 1.5 d&rsquo;<em>Yves Ganne</em> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
 <p>Exercice de style en miniature pour faire un test grandeur nature. Cette taille nécessite beaucoup de vent pour s&rsquo;exprimer et risque de ne pas être stable en vol</p>
 <p><img loading="lazy" src="/posts/2023/05-11/01-mini-revo.jpg#center" alt="GFAK 5 alias mini revo avec sa mini housse"  />
 
-&ndash;&gt; <em>GFAK 5</em> alias mini revo avec sa mini housse</p>
+&ndash;&gt; <em>GFAK 5</em> alias <em>mini revo</em> avec sa mini housse</p>
 <h2 id="caractéristiques-communes">Caractéristiques communes</h2>
-<p>Mini revo partage les points suivants avec un cerf-volant 4 lignes Rev 1.5:</p>
+<p><em>Mini revo</em> partage les points suivants avec un cerf-volant 4 lignes Revo 1.5:</p>
 <ul>
 <li>Voile en Icarex</li>
 <li>Bord d&rsquo;attaque courbe en Icarex avec renforts en Dacron</li>
@@ -448,15 +449,15 @@
 </ul>
 <p><img loading="lazy" src="/posts/2023/05-11/02-taille-voile.jpg#center" alt="Mini revo (GFAK 5) avec un homologue 1.5 (GFAK 2)"  />
 
-&ndash;&gt; Mini revo (<em>GFAK 5</em>) avec un homologue 1.5 (<em>GFAK 2</em>)</p>
+&ndash;&gt; <em>Mini revo</em> (<em>GFAK 5</em>) avec un homologue 1.5 (<em>GFAK 2</em>)</p>
 <h2 id="différences">Différences</h2>
-<p>Mini Revo fait l&rsquo;objet d&rsquo;ajustements par rapport à un exemplaire au standard 1.5:</p>
+<p><em>Mini revo</em> fait l&rsquo;objet d&rsquo;ajustements par rapport à un exemplaire au standard 1.5:</p>
 <table>
 <thead>
 <tr>
 <th>Zone</th>
-<th>Mini revo</th>
-<th>Rev standard 1.5</th>
+<th><em>Mini revo</em></th>
+<th>Revo standard 1.5</th>
 </tr>
 </thead>
 <tbody>
@@ -483,7 +484,7 @@
 </tbody>
 </table>
 <h2 id="bridage">Bridage</h2>
-<p>Pour satisfaire les exigences d&rsquo;utilisation, deux bridages sont prévus sur Mini revo:</p>
+<p>Pour satisfaire les exigences d&rsquo;utilisation, deux bridages sont prévus sur <em>Mini revo</em>:</p>
 <ul>
 <li>
 <p>4-2 &ndash;&gt; bridage pour piloter un 4 lignes avec 2 lignes</p>
@@ -539,7 +540,7 @@
 <p>Bridage réalisé à partir de celui d&rsquo;<em>Yves Ganne</em> et ajusté au 70 cm du cerf-volant. En attente d&rsquo;un vent soutenu pour s&rsquo;élancer dans le ciel</p>
 <p><img loading="lazy" src="/posts/2023/05-11/04-mini-revo.jpg#center" alt="GFAK 5 mini revo prêt à voler"  />
 
-&ndash;&gt; <em>GFAK 5</em> mini revo prêt à voler</p>
+&ndash;&gt; <em>GFAK 5</em> <em>mini revo</em> prêt à voler</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -638,7 +639,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Rev 1.5 / 2,36 m</td>
+<td>Revo 1.5 / 2,36 m</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -913,7 +914,7 @@
 <h2 id="la-suite">La suite</h2>
 <ul>
 <li>Nijora Tokala Long 36&quot; à tester sur un SUL</li>
-<li>Aurel Agil 31&quot; à tester sur un Rev 1.5 ventilé à 50%</li>
+<li>Aurel Agil 31&quot; à tester sur un Revo 1.5 ventilé à 50%</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1224,7 +1225,7 @@ RAS, pas de plis visibles</p>
       <pubDate>Mon, 23 Jan 2023 15:23:05 +0100</pubDate>
       <guid>https://gfakite.github.io/posts/2023/01/collage-trous-et-embouts/</guid>
       <description>Assemblage des barres du bord d&amp;#39;attaque, mise en place des élastiques et embouts</description>
-      <content:encoded><![CDATA[<h2 id="barre-centrale-au-standard-31-en-rev-15">Barre centrale au standard 31&quot; en Rev 1.5</h2>
+      <content:encoded><![CDATA[<h2 id="barre-centrale-au-standard-31-en-revo-15">Barre centrale au standard 31&quot; en Revo 1.5</h2>
 <p>Avant de coller les raccords internes, il est recommandé de couper la barre centrale à sa taille définitive de 31&quot;. L&rsquo;objectif est de n&rsquo;avoir que des barres de 82,5 cm pour favoriser l&rsquo;interchangeabilité</p>
 <p><img loading="lazy" src="/posts/2023/01-23/01-barre-centrale.jpg#center" alt="Détail des 5 barres"  />
 
@@ -1446,7 +1447,7 @@ RAS, pas de plis visibles</p>
       <link>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</link>
       <pubDate>Fri, 13 Jan 2023 02:24:52 +0100</pubDate>
       <guid>https://gfakite.github.io/posts/2023/01/outils-et-fournitures/</guid>
-      <description>Quelques outils et matières premières confectionner son Rev 1.5</description>
+      <description>Quelques outils et matières premières confectionner son Revo 1.5</description>
       <content:encoded><![CDATA[<h2 id="outils">Outils</h2>
 <ul>
 <li>Machine à coudre:
