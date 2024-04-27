@@ -6,8 +6,39 @@
     <description>Recent content in Technique on Go fly a kite</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 21 May 2023 09:40:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 09:40:02 +0200</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/technique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chaussette de barre</title>
+      <link>https://gfakite.github.io/posts/2024/04/chaussette-de-barre/</link>
+      <pubDate>Thu, 04 Apr 2024 09:40:02 +0200</pubDate>
+      <guid>https://gfakite.github.io/posts/2024/04/chaussette-de-barre/</guid>
+      <description>Sujet: limiter l&amp;#39;usure de la voile</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>Honor to whom honor is due</p>
+<p>À tout seigneur, tout honneur</p>
+</blockquote>
+<p>Merci <a href="https://www.polokites.com/" target="_blank" rel="nofollow noopener noreferrer">Polo Kites</a> pour le partage communautaire Facebook sur la <em>chaussette en Icarex</em></p>
+<h2 id="c2x-mirai-versus-icarex">C2X Mirai versus Icarex</h2>
+<p>Choix du Spinnaker CX2 (Mirai) au lieu de l&rsquo;Icarex car il est moins cher au mètre</p>
+<p><img loading="lazy" src="/posts/2024/04-04/01-chaussette.jpg#center" alt="Couture de la chaussette"  />
+
+&ndash;&gt; Couture de la chaussette</p>
+<p>L&rsquo;autre avantage du C2X Mirai est de ne pas marquer à la pliure (contrairement à l&rsquo;Icarex). Caractéristique importante du fait de l&rsquo;étape obligatoire de retournement de chaussette</p>
+<p>Le blanc permet de voir en transparence la référence de barre. En vol, cette couleur se fond dans le ciel</p>
+<p><img loading="lazy" src="/posts/2024/04-04/02-marque-retournement.jpg#center" alt="Pliures: Icarex bleu versus C2X Mirai blanc/noir"  />
+
+&ndash;&gt; Pliures: Icarex bleu versus C2X Mirai blanc/noir</p>
+<h2 id="dynamique-de-la-voile">Dynamique de la voile</h2>
+<p>Très content d&rsquo;avoir découvert cette technique qui limite l&rsquo;usure de la voile</p>
+<p>La chaussette se substitue à une bande de protection en Mylar ou Dacron. Bande qui nuit au comportement dynamique de la voile car elle:</p>
+<ul>
+<li>Empêche la voile de se déformer naturellement</li>
+<li>Rend rigide deux zones verticales sur la voile</li>
+</ul>
+<p>Lorsque le vent fait pression sur la voile, elle se déforme en créant naturellement une <em>poche</em> ce qui <em>diminue</em> la superficie de la voile. Cette caractéristique permet au cerf-volant de mieux encaisser une bourrasque de vent</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Housses</title>
       <link>https://gfakite.github.io/posts/2023/05/housses/</link>

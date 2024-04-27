@@ -6,8 +6,15 @@
     <description>Recent content in Séries on Go fly a kite</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 10 Mar 2024 22:13:07 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 09:40:02 +0200</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technique</title>
+      <link>https://gfakite.github.io/series/technique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/series/technique/</guid>
+      <description></description>
+    </item>
     <item>
       <title>GFAK 5 Mini Revo</title>
       <link>https://gfakite.github.io/series/gfak-5-mini-revo/</link>
@@ -48,13 +55,6 @@
       <link>https://gfakite.github.io/series/gfak-4-airbow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gfakite.github.io/series/gfak-4-airbow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technique</title>
-      <link>https://gfakite.github.io/series/technique/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gfakite.github.io/series/technique/</guid>
       <description></description>
     </item>
     <item>
