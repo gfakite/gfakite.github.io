@@ -4,10 +4,41 @@
     <title>Posts on Go fly a kite</title>
     <link>https://gfakite.github.io/posts/</link>
     <description>Recent content in Posts on Go fly a kite</description>
-    <generator>Hugo -- 0.125.4</generator>
+    <generator>Hugo -- 0.123.7</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 04 Apr 2024 09:40:02 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 12:10:01 +0100</lastBuildDate>
     <atom:link href="https://gfakite.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finition révolutionnaire</title>
+      <link>https://gfakite.github.io/posts/2024/11/finition-r%C3%A9volutionnaire/</link>
+      <pubDate>Sat, 23 Nov 2024 12:10:01 +0100</pubDate>
+      <guid>https://gfakite.github.io/posts/2024/11/finition-r%C3%A9volutionnaire/</guid>
+      <description>Sujet: améliorer la qualité d&amp;#39;un cerf-volant de Revolution</description>
+      <content:encoded><![CDATA[<p>3 ajustements sur un Revolution RX pour:</p>
+<ul>
+<li>Renforcer la voile</li>
+<li>Améliorer la finition</li>
+<li>Augmenter la précision de vol</li>
+</ul>
+<p>Pour la disymétrie historique de plus d'1 cm au centre de la voile (marque de fabrique Revolution ?), cela va rester en l&rsquo;état</p>
+<h2 id="renforcer-la-voile">Renforcer la voile</h2>
+<p>Ajout de protections en dacron sur le centre de la voile et sur les 2 zones de pliure. L&rsquo;objectif est de prévenir une déchirure prématurée de la gaze</p>
+<p><img loading="lazy" src="/posts/2024/23-11/01-test.jpg#center" alt="test"  />
+
+&ndash;&gt; Protections en dacron</p>
+<h2 id="améliorer-la-finition">Améliorer la finition</h2>
+<p>De base, la couture du bord de fuite est assurée par un <em>point droit</em> avec une trajectoire qui oscile &ldquo;vaguement&rdquo; le long du bord de fuite. Pour limiter le risque de vibrations, une couture <em>3 points zigzag</em> vient finir le bord de fuite (et couvrir le <em>vague</em> point droit)</p>
+<p><img loading="lazy" src="/posts/2024/23-11/02-test.jpg#center" alt="test"  />
+
+&ndash;&gt; Focus sur le bord de fuite</p>
+<h2 id="augmenter-la-précision-de-vol">Augmenter la précision de vol</h2>
+<p>Le bridage standard Revolution a été remplacé par une bride Liros DSL (plus fine et tout aussi résistante). Nouveau bridage <em>héritage Now&rsquo;Air</em> de <a href="https://www.facebook.com/jean.apostolides/" target="_blank" rel="nofollow noopener noreferrer">Jean Apostolides</a></p>
+<p>Ce bridage rend ce Revolution réactif et plus précis sur les virages 180</p>
+<p><img loading="lazy" src="/posts/2024/23-11/03-test.jpg#center" alt="test"  />
+
+&ndash;&gt; Détail du bridage</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Chaussette de barre</title>
       <link>https://gfakite.github.io/posts/2024/04/chaussette-de-barre/</link>
@@ -15,28 +46,24 @@
       <guid>https://gfakite.github.io/posts/2024/04/chaussette-de-barre/</guid>
       <description>Sujet: limiter l&amp;#39;usure de la voile</description>
       <content:encoded><![CDATA[<blockquote>
-<p>Honor to whom honor is due</p>
-<p>À tout seigneur, tout honneur</p>
+<p>Honor to whom honor is due - À tout seigneur, tout honneur</p>
 </blockquote>
-<p>Merci <a href="https://www.polokites.com/" target="_blank" rel="nofollow noopener noreferrer">Polo Kites</a> pour le partage communautaire Facebook sur la <em>chaussette en Icarex</em></p>
-<h2 id="c2x-mirai-versus-icarex">C2X Mirai versus Icarex</h2>
-<p>Choix du Spinnaker CX2 (Mirai) au lieu de l&rsquo;Icarex car il est moins cher au mètre</p>
+<p>Merci <a href="https://www.facebook.com/polosite" target="_blank" rel="nofollow noopener noreferrer">Polo Kites</a> pour le partage communautaire Facebook de la <em>chaussette en Icarex</em></p>
+<h2 id="choix-du-tissus">Choix du tissus</h2>
+<p>Mise en pratique sur du Spinnaker CX2 (Mirai) au lieu de l&rsquo;Icarex (disponible et moins cher au mètre)</p>
 <p><img loading="lazy" src="/posts/2024/04-04/01-chaussette.jpg#center" alt="Couture de la chaussette"  />
 
 &ndash;&gt; Couture de la chaussette</p>
-<p>L&rsquo;autre avantage du C2X Mirai est de ne pas marquer à la pliure (contrairement à l&rsquo;Icarex). Caractéristique importante du fait de l&rsquo;étape obligatoire de retournement de chaussette</p>
+<p>Le C2X Mirai a l&rsquo;avantage de ne pas marquer à la pliure (contrairement à l&rsquo;Icarex). Détail important car il faut retourner la chaussette pour l&rsquo;utiliser</p>
 <p>Le blanc permet de voir en transparence la référence de barre. En vol, cette couleur se fond dans le ciel</p>
+<p>Délicat à voir sur la photo mais l&rsquo;Icarex bleu est moins lisse et plus marqué que ses homologues blancs et noirs en Spinnaker CX2</p>
 <p><img loading="lazy" src="/posts/2024/04-04/02-marque-retournement.jpg#center" alt="Pliures: Icarex bleu versus C2X Mirai blanc/noir"  />
 
 &ndash;&gt; Pliures: Icarex bleu versus C2X Mirai blanc/noir</p>
 <h2 id="dynamique-de-la-voile">Dynamique de la voile</h2>
-<p>Très content d&rsquo;avoir découvert cette technique qui limite l&rsquo;usure de la voile</p>
-<p>La chaussette se substitue à une bande de protection en Mylar ou Dacron. Bande qui nuit au comportement dynamique de la voile car elle:</p>
-<ul>
-<li>Empêche la voile de se déformer naturellement</li>
-<li>Rend rigide deux zones verticales sur la voile</li>
-</ul>
-<p>Lorsque le vent fait pression sur la voile, elle se déforme en créant naturellement une <em>poche</em> ce qui <em>diminue</em> la superficie de la voile. Cette caractéristique permet au cerf-volant de mieux encaisser une bourrasque de vent</p>
+<p>Content d&rsquo;avoir découvert cette technique simple qui préserve une zone de frottement (barres verticales sur la voile)</p>
+<p>Une chaussette se substitue à une bande de protection verticale en Mylar ou Dacron. Bande qui nuit au comportement dynamique de la voile car elle empêche la voile de se déformer naturellement</p>
+<p>Lorsque le vent fait pression sur la voile, celle-ci se déforme (création d&rsquo;une <em>poche</em> au centre) ce qui <em>diminue</em> légèrement la superficie de la voile. Cette caractéristique permet au cerf-volant de sensiblement mieux encaisser une bourrasque de vent</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -46,23 +73,20 @@
       <guid>https://gfakite.github.io/posts/2024/03/gfak-5-mini-revo-en-vol/</guid>
       <description>Court vol par 50 km/h de vent et plus</description>
       <content:encoded><![CDATA[
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/aRoGWeDQmwY?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/aRoGWeDQmwY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 <h2 id="vidéo-brute">Vidéo brute</h2>
-<p>Vidéo peu qualitative (son et cadrage), néanmoins, elle donne un bon aperçu du comportement instable de <em>mini revo</em></p>
-<p>Les deux ajustements (<a href="https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/">détaillés ici</a>) permettent d&rsquo;améliorer le pilotage de ce cerf-volant. Cependant, il est impossible de faire un vol stationnaire sur le dos. <em>Mini revo</em> a un comportement trop fougueux et un caractère assurément viril</p>
+<p>Vidéo peu qualitative (son et cadrage), néanmoins, elle donne un fidèle aperçu du comportement instable de <em>mini revo</em></p>
+<p>Les deux ajustements (<a href="https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/">détaillés ici</a>) permettent d&rsquo;améliorer le pilotage de ce cerf-volant. Cependant, il est impossible de faire un vol stationnaire (même sur le dos). <em>Mini revo</em> a un comportement trop fougueux et un caractère assurément viril</p>
 <p>Au cours de la séance d&rsquo;essai, il a beaucoup vrillé et chuté:</p>
 <ul>
 <li>les lignes sont à démêler</li>
 <li>le bord d&rsquo;attaque est à réparer (coupures de coquillages)</li>
 </ul>
-<h2 id="faseyement">Faseyement</h2>
-<p>La voile de <em>mini revo</em> a vieilli de 5 ans en l&rsquo;espace d&rsquo;une heure</p>
+<h2 id="vibrations-de-voile">Vibrations de voile</h2>
+<p>La voile de <em>mini revo</em> a vieilli de 5 ans en l&rsquo;espace d&rsquo;une heure de vol</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -96,7 +120,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Revo 1.5 / 2,36 m</td>
+<td>1.5</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -104,15 +128,19 @@
 </tr>
 <tr>
 <td>Ventilation</td>
-<td>35 % (estimation)</td>
+<td>≃ 30 %</td>
 </tr>
 <tr>
 <td>Bord d&rsquo;attaque</td>
-<td>Sky Shark P200 en 31&quot;</td>
+<td>Sky Shark P200</td>
 </tr>
 <tr>
 <td>Barres verticales</td>
-<td>Sky Shark P200 en 31&quot;</td>
+<td>Sky Shark P200</td>
+</tr>
+<tr>
+<td>Masse</td>
+<td>281 gr</td>
 </tr>
 <tr>
 <td>Couleur(s)</td>
@@ -129,8 +157,8 @@
       <guid>https://gfakite.github.io/posts/2024/01/gfak-2-vented/</guid>
       <description>Voile vented: construction N°2</description>
       <content:encoded><![CDATA[<p>En cumulé, c&rsquo;est le cerf-volant qui a le plus volé depuis sa <a href="https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/">présentation</a></p>
-<p>Après avoir découvert et testé un nouveau plan sur <a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">GFAK 3</a> puis sur <a href="https://gfakite.github.io/posts/2023/11/gfak-6-standard/">GFAK 6</a>, les défauts de cette voile sont ressortis (erreurs de construction liées à mes débuts)</p>
-<p>Pour ne pas tout jeter, j&rsquo;ai retaillé la voile et refait le bord d&rsquo;attaque. Les bandes en vert fluo marquent l&rsquo;emplacement des anciennes barres verticales. La voile est ventilée à 18 %</p>
+<p>Après avoir découvert et testé un nouveau plan sur <a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">GFAK 3</a> puis sur <a href="https://gfakite.github.io/posts/2023/11/gfak-6-standard/">GFAK 6</a>, les défauts de cette voile sont ressortis</p>
+<p>Pour optimiser cette construction, le haut de la voile et le bord d&rsquo;attaque ont été refaits. Les bandes en vert fluo marquent l&rsquo;emplacement des anciennes barres verticales. Cette nouvelle version est ventilée à 18 %</p>
 <p><img loading="lazy" src="/posts/2024/01-04/01-gfak-2-avant-apres.jpg#center" alt="GFAK 2 avant et après les découpes"  />
 
 &ndash;&gt; <em>GFAK 2</em> avant et après les découpes</p>
@@ -152,7 +180,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Revo 1.5 / 2,36 m</td>
+<td>1.5</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -164,11 +192,15 @@
 </tr>
 <tr>
 <td>Bord d&rsquo;attaque</td>
-<td>Sky Shark P200 en 31&quot;</td>
+<td>Sky Shark P200</td>
 </tr>
 <tr>
 <td>Barres verticales</td>
-<td><a href="https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/">Easton PowerFlight 500 en 31&quot;</a></td>
+<td>Revolution EXP 3 wrap</td>
+</tr>
+<tr>
+<td>Masse</td>
+<td>239 gr</td>
 </tr>
 <tr>
 <td>Couleur(s)</td>
@@ -185,15 +217,15 @@
       <guid>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</guid>
       <description>Voile mid vented: construction N°3</description>
       <content:encoded><![CDATA[<h2 id="rectification-de-la-voile">Rectification de la voile</h2>
-<p>Après son premier vol, deux défauts de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
+<p>Après son premier vol, deux erreurs de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
 <ul>
 <li>5 cm trop courte sur le plan vertical</li>
-<li>Partie centrale pas parfaitement plane</li>
+<li>Planéité discutable de la zone centrale</li>
 </ul>
 <p>Les barres verticales qui dépassent trop de la voile, les élastiques anormalement longs, le manque de surface de voile et la légère poche ont eu 2 effets:</p>
 <ol>
-<li>Vibration la voile</li>
-<li>Diminution de la stabilité en vol</li>
+<li>Vibration excessive de la voile</li>
+<li>Légère diminution de la stabilité en vol</li>
 </ol>
 <p>Pour remédier à ces problèmes:</p>
 <ul>
@@ -227,7 +259,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Revo 1.5 / 2,36 m</td>
+<td>1.5</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -243,7 +275,11 @@
 </tr>
 <tr>
 <td>Barres verticales</td>
-<td>Sky Shark P100 en 31&quot;</td>
+<td><a href="https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/">Easton PowerFlight 500 en 31&quot;</a></td>
+</tr>
+<tr>
+<td>Masse</td>
+<td>204 gr</td>
 </tr>
 <tr>
 <td>Couleur(s)</td>
@@ -264,10 +300,10 @@
 <p><img loading="lazy" src="/posts/2023/11-04/01-au-repos.jpg#center" alt="Sortie par 8°C"  />
 
 &ndash;&gt; Sortie par 8°C</p>
-<p>Avec mon modeste niveau de vol, son comportement est satisfaisant. Ce cerf-volant est homogène, il est plaisant à piloter</p>
-<p><img loading="lazy" src="/posts/2023/11-04/02-pret-a-decoller.jpg#center" alt="Prêt à décoller par 13km/h de vent"  />
+<p>Avec mon modeste niveau de vol, son comportement est satisfaisant. Ce cerf-volant est homogène. Il est plaisant à piloter</p>
+<p><img loading="lazy" src="/posts/2023/11-04/02-pret-a-decoller.jpg#center" alt="Prêt à décoller par 10km/h de vent"  />
 
-&ndash;&gt; Prêt à décoller par 13km/h de vent</p>
+&ndash;&gt; Prêt à décoller par 10km/h de vent</p>
 <h2 id="le-bridage">Le bridage</h2>
 <p>L&rsquo;âme en dyneema sort de la gaine en polyester à de multiples endroits. À voir pour remédier à ce désagrément de bride Climax 140kg</p>
 <p><img loading="lazy" src="/posts/2023/11-04/03-bride-ko.jpg#center" alt="Focus choisis de bride"  />
@@ -277,6 +313,9 @@
 <p><img loading="lazy" src="/posts/2023/11-04/04-bride-hs.jpg#center" alt="Boucle de bride, rupture de la gaine après 5 vols"  />
 
 &ndash;&gt; Boucle de bride, rupture de la gaine après 5 vols</p>
+<blockquote>
+<p>Edit: problème résolu avec de la Liros DSL 70</p>
+</blockquote>
 <h2 id="caractéristiques">Caractéristiques</h2>
 <table>
 <thead>
@@ -292,7 +331,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Revo 1.5 / 2,36 m</td>
+<td>1.5</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -304,11 +343,15 @@
 </tr>
 <tr>
 <td>Bord d&rsquo;attaque</td>
-<td>Sky Shark P100 en 31&quot;</td>
+<td>Sky Shark P100</td>
 </tr>
 <tr>
 <td>Barres verticales</td>
-<td>Aurel agil à commander</td>
+<td>Sky Shark P100</td>
+</tr>
+<tr>
+<td>Masse</td>
+<td>209 gr</td>
 </tr>
 <tr>
 <td>Couleur(s)</td>
@@ -325,11 +368,11 @@
       <guid>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
       <content:encoded><![CDATA[<p><em>Mini revo</em> a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas <em>révolutionnaire</em> avec son bord d&rsquo;attaque de 70 cm</p>
-<p>En 2 lignes (bridage 4-2) ou en 4 lignes, le cerf-volant décolle facilement. Dès qu&rsquo;il est dans les airs, impossible de faire un vol stationnaire. Il part comme une flèche et ensuite c&rsquo;est décrochage, piqué en ligne droite ou vrille infernale</p>
+<p>En <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-4-2">2 lignes (bridage 4-2)</a> ou en <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-traditionnel-4-lignes">4 lignes</a>, le cerf-volant décolle facilement. Dès qu&rsquo;il est dans les airs, impossible de faire un vol stationnaire. Il part comme une flèche et ensuite c&rsquo;est décrochage, piqué en ligne droite ou vrille infernale</p>
 <p>Excellente voile pour emmêler les lignes</p>
 <h2 id="bridage-4-2">Bridage &ldquo;4-2&rdquo;</h2>
-<p>Le bridage <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (B3-B'3 et B4-B'4 sur le schéma)</p>
-<p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Malgré de nombreux essais et réglages, je n&rsquo;ai pas réussi à obtenir un pilotage correct</p>
+<p>Le bridage <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-4-2">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (<a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#longueurs-de-bridage-pour-un-revolution-15-taille-standard">B3-B'3 et B4-B'4 sur le schéma</a>)</p>
+<p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Malgré de nombreux essais et réglages, jimpossible d&rsquo;avoir un pilotage correct</p>
 <h2 id="bridage-traditionnel-4-lignes-homothétie">Bridage traditionnel 4 lignes: homothétie</h2>
 <p>Un bridage classique 4 lignes n&rsquo;est pas adapté. Les commandes sont beaucoup trop sensibles pour faire un vol prolongé. Il est impossible de piloter <em>mini revo</em></p>
 <h2 id="ajustements-pour-piloter-la-bête">Ajustements pour piloter la bête</h2>
@@ -341,10 +384,11 @@
 <p><img loading="lazy" src="/posts/2023/09-29/01-poignees.jpg#center" alt="Prototype de poignées des éditions pour nains"  />
 
 &ndash;&gt; Prototype de poignées des éditions pour nains</p>
+<p>Bridage simplifié à l&rsquo;extrême. Assurément minimaliste par rapport à sa <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-traditionnel-4-lignes">version initiale</a></p>
 <p><img loading="lazy" src="/posts/2023/09-29/02-mini-revo.jpg#center" alt="Bridage minimaliste"  />
 
-&ndash;&gt; Bridage 4 points (orange), assurément minimaliste</p>
-<p>Vivement la prochaine session avec du vent soutenu</p>
+&ndash;&gt; Bridage 4 points (orange)</p>
+<p>Vivement la prochaine session avec du <a href="https://gfakite.github.io/posts/2024/03/gfak-5-mini-revo-en-vol/">vent soutenu</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -360,7 +404,7 @@
 
 &ndash;&gt; Recto et verso de la voile sans tension</p>
 <h2 id="tendeurs-en-place">Tendeurs en place</h2>
-<p>La tension de la voile reporte beaucoup d&rsquo;efforts sur les raccords et les barres. Déjà une barre <em>Sky Shark P400 XL</em> de cassée au cours des ajustements. Tension de la voile à ajuster à l&rsquo;issue du premier vol (réglagle par velcro)</p>
+<p>La pression du vent sur la voile reporte beaucoup d&rsquo;efforts sur les raccords et les barres. Déjà une barre <em>Sky Shark P400 XL</em> de cassée au cours des ajustements. Tension de la voile à ajuster à l&rsquo;issue du premier vol (réglagle par velcro)</p>
 <p><img loading="lazy" src="/posts/2023/06-25/02-recto-verso-voile-tendue.jpg#center" alt="recto et verso de la voile avec les tendeurs"  />
 
 &ndash;&gt; Recto et verso de la voile avec les tendeurs</p>
@@ -370,7 +414,7 @@
 
 &ndash;&gt; Vue de côté et pointe</p>
 <h2 id="premier-vol">Premier vol</h2>
-<p>Depuis ce vol, la bride qui pend (à droite) est coupée et la tension de voile est au max</p>
+<p>Depuis ce vol, la bride qui pend (à droite) est coupée et la tension de voile est réglée au max</p>
 <p><img loading="lazy" src="/posts/2023/06-25/04-voile-airbow-avant.jpg#center" alt="Vue face avant"  />
 
 &ndash;&gt; Vue face avant</p>
@@ -380,7 +424,7 @@
 <h2 id="en-définitive">En définitive</h2>
 <p>La voile tendue et les formes courbées sont délicates à ajuster/coudre. Il y a des plis autour du centre, pourtant le plan a été respecté</p>
 <p>La symétrie de la voile est très sympa en vol</p>
-<p>Par rapport à un Revo classique, l&rsquo;absence de notion haut/bas est déroutante. Mais cette forme de voile permet une autre expérience de vol:</p>
+<p>Par rapport à un Revo classique, l&rsquo;absence de repère haut/bas est déroutant. Mais cette forme de voile permet une autre expérience de vol:</p>
 <ul>
 <li>plané sur le coté</li>
 <li>rotation rapide</li>
@@ -402,9 +446,9 @@
 <p>En bas sur la photo &ndash;&gt; Housse de transport de cerfs-volants confectionnée à partir d&rsquo;une longue chute de <em>Duncan</em> en coton Cordura. Construction basique qui permet d&rsquo;emporter deux Revo et leurs barres</p>
 <p>Fermeture ultra simple via lacet (source: <a href="https://www.google.com/search?q=tuto&#43;couture&#43;pochon&amp;oq=tuto&#43;couture&#43;pochon&amp;aqs=chrome..69i57j0i512l9.4470j0j7&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank" rel="nofollow noopener noreferrer">google.fr/tuto+couture+pochon</a>)</p>
 <h2 id="fine-housse-de-protection-de-barres">Fine housse de protection de barres</h2>
-<p>2ème position en partant du bas sur la photo &ndash;&gt;  Longue housse pour ranger les barres avec fermeture par scratch. La couture centrale forme deux compartiments pour les barres</p>
-<p>Un renfort est positionné en haut et en bas pour préserver les extrémités des barres</p>
-<h2 id="housse-individuelle-de-revolution">Housse individuelle de Revolution</h2>
+<p>2ème position en partant du bas sur la photo &ndash;&gt;  Longue housse pour ranger les barres avec fermeture par scratch. La couture centrale forme deux compartiments</p>
+<p>Un renfort est positionné en haut et en bas pour préserver l&rsquo;extrémité des barres</p>
+<h2 id="housse-individuelle-de-type-carquois">Housse individuelle de type carquois</h2>
 <p>Pour emporter un cerf-volant Revolution, une housse individuelle est recommandée afin de protéger la voile et de ne pas perdre de pièces</p>
 <p>Après un vol à la plage ou en environement humide, le cerf-volant a besoin de sécher</p>
 <p>J&rsquo;ai expérimenté, je déconseille. Utiliser les chutes d&rsquo;<em>Icarex</em>, de <em>spinnaker CX2 mirai</em>, d&rsquo;un dérivé du nylon imperméable à l&rsquo;air, etc. pour fabriquer une housse n&rsquo;est pas recommandé car ces tissus ne permettent à l&rsquo;air de circuler</p>
@@ -463,8 +507,8 @@
       <link>https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</link>
       <pubDate>Thu, 11 May 2023 05:13:07 +0200</pubDate>
       <guid>https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</guid>
-      <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
-      <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan Revo 1.5 d&rsquo;<em>Yves Ganne</em> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
+      <description>Revo modèle réduit à l&amp;#39;échelle 1/3</description>
+      <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan Revo 1.5 d&rsquo;<a href="https://www.facebook.com/yvesganne/" target="_blank" rel="nofollow noopener noreferrer">Yves Ganne</a> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
 <p>Exercice de style en miniature pour faire un test grandeur nature. Cette taille nécessite beaucoup de vent pour s&rsquo;exprimer et risque de ne pas être stable en vol</p>
 <p><img loading="lazy" src="/posts/2023/05-11/01-mini-revo.jpg#center" alt="GFAK 5 alias mini revo avec sa mini housse"  />
 
@@ -728,12 +772,9 @@
 <h2 id="vidéo-airbow-by-benson">Vidéo: Airbow by BENSON</h2>
 <p>Assemblage de photos montées en vidéo pour présenter des focus d&rsquo;AirBow
 
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/AY2Z039L-4Q?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/AY2Z039L-4Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 <a href="https://www.youtube.com/@Stuntkiting" target="_blank" rel="nofollow noopener noreferrer">Crédit: Paul May</a> | 25 août 2014</p>
 ]]></content:encoded>
@@ -748,45 +789,33 @@
 <h2 id="tim-bensons-airbow">Tim Benson&rsquo;s Airbow</h2>
 <p>Vidéo Benson Kites filmée en 2004. Pilotage par <em>Andy Wardley</em> (concepteur de l&rsquo;AirBow). Démonstration de vol qui montre les figures qu&rsquo;un AirBow est capable de faire
 
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/jEehIVy48Fo?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/jEehIVy48Fo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 15 septembre 2007 | Crédit: <a href="https://www.youtube.com/@c2thew" target="_blank" rel="nofollow noopener noreferrer">c2thew</a></p>
 <h2 id="airbow-4-line-trick-kite">AirBow 4-line trick kite</h2>
 <p>Interview d&rsquo;<em>Andy Wardley</em> et démonstration de vol du prototype de 2006
 
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/61Z3oWqp3UU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/61Z3oWqp3UU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 21 juin 2008 | Crédit: <a href="https://www.youtube.com/@Paajtor/" target="_blank" rel="nofollow noopener noreferrer">Paajtor</a></p>
 <h2 id="benson-kite">Benson kite</h2>
 <p>AirBow en vol
 
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kPlk8GeTzac?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/kPlk8GeTzac" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 3 mars 2013 | Crédit: <a href="https://www.youtube.com/@RobinMcCracken" target="_blank" rel="nofollow noopener noreferrer">Robin McCracken</a></p>
 <h2 id="airbow">Airbow</h2>
 <p>Démonstration de vol d&rsquo;un AirBow
 
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/mVO541K5z2E?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/mVO541K5z2E" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 25 novembre 2013 | Crédit: <a href="https://www.youtube.com/@timothyrohn2906" target="_blank" rel="nofollow noopener noreferrer">Timothy Rohn</a></p>
 ]]></content:encoded>
@@ -1019,7 +1048,7 @@
       <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
       <pubDate>Wed, 15 Feb 2023 05:13:07 +0100</pubDate>
       <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
-      <description>Quelques indications pour éviter des écueils de fabrication</description>
+      <description>Sujet: quelques indications pour éviter des écueils de fabrication</description>
       <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, <em>GFAK 1</em> vole très correctement. À 25 m du sol, un œil emmétrope aura du mal à voir les <em>imperfections cosmétiques</em> de la voile</p>
 <p><img loading="lazy" src="/posts/2023/02-15/00-gfak-1.jpg#center" alt="GFAK 1: prêt au décollage, en vol, le crash"  />
 

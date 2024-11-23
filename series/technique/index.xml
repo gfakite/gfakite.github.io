@@ -4,10 +4,41 @@
     <title>Technique on Go fly a kite</title>
     <link>https://gfakite.github.io/series/technique/</link>
     <description>Recent content in Technique on Go fly a kite</description>
-    <generator>Hugo -- 0.125.4</generator>
+    <generator>Hugo -- 0.123.7</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 04 Apr 2024 09:40:02 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 12:10:01 +0100</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/technique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finition révolutionnaire</title>
+      <link>https://gfakite.github.io/posts/2024/11/finition-r%C3%A9volutionnaire/</link>
+      <pubDate>Sat, 23 Nov 2024 12:10:01 +0100</pubDate>
+      <guid>https://gfakite.github.io/posts/2024/11/finition-r%C3%A9volutionnaire/</guid>
+      <description>Sujet: améliorer la qualité d&amp;#39;un cerf-volant de Revolution</description>
+      <content:encoded><![CDATA[<p>3 ajustements sur un Revolution RX pour:</p>
+<ul>
+<li>Renforcer la voile</li>
+<li>Améliorer la finition</li>
+<li>Augmenter la précision de vol</li>
+</ul>
+<p>Pour la disymétrie historique de plus d'1 cm au centre de la voile (marque de fabrique Revolution ?), cela va rester en l&rsquo;état</p>
+<h2 id="renforcer-la-voile">Renforcer la voile</h2>
+<p>Ajout de protections en dacron sur le centre de la voile et sur les 2 zones de pliure. L&rsquo;objectif est de prévenir une déchirure prématurée de la gaze</p>
+<p><img loading="lazy" src="/posts/2024/23-11/01-test.jpg#center" alt="test"  />
+
+&ndash;&gt; Protections en dacron</p>
+<h2 id="améliorer-la-finition">Améliorer la finition</h2>
+<p>De base, la couture du bord de fuite est assurée par un <em>point droit</em> avec une trajectoire qui oscile &ldquo;vaguement&rdquo; le long du bord de fuite. Pour limiter le risque de vibrations, une couture <em>3 points zigzag</em> vient finir le bord de fuite (et couvrir le <em>vague</em> point droit)</p>
+<p><img loading="lazy" src="/posts/2024/23-11/02-test.jpg#center" alt="test"  />
+
+&ndash;&gt; Focus sur le bord de fuite</p>
+<h2 id="augmenter-la-précision-de-vol">Augmenter la précision de vol</h2>
+<p>Le bridage standard Revolution a été remplacé par une bride Liros DSL (plus fine et tout aussi résistante). Nouveau bridage <em>héritage Now&rsquo;Air</em> de <a href="https://www.facebook.com/jean.apostolides/" target="_blank" rel="nofollow noopener noreferrer">Jean Apostolides</a></p>
+<p>Ce bridage rend ce Revolution réactif et plus précis sur les virages 180</p>
+<p><img loading="lazy" src="/posts/2024/23-11/03-test.jpg#center" alt="test"  />
+
+&ndash;&gt; Détail du bridage</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Chaussette de barre</title>
       <link>https://gfakite.github.io/posts/2024/04/chaussette-de-barre/</link>
@@ -15,28 +46,24 @@
       <guid>https://gfakite.github.io/posts/2024/04/chaussette-de-barre/</guid>
       <description>Sujet: limiter l&amp;#39;usure de la voile</description>
       <content:encoded><![CDATA[<blockquote>
-<p>Honor to whom honor is due</p>
-<p>À tout seigneur, tout honneur</p>
+<p>Honor to whom honor is due - À tout seigneur, tout honneur</p>
 </blockquote>
-<p>Merci <a href="https://www.polokites.com/" target="_blank" rel="nofollow noopener noreferrer">Polo Kites</a> pour le partage communautaire Facebook sur la <em>chaussette en Icarex</em></p>
-<h2 id="c2x-mirai-versus-icarex">C2X Mirai versus Icarex</h2>
-<p>Choix du Spinnaker CX2 (Mirai) au lieu de l&rsquo;Icarex car il est moins cher au mètre</p>
+<p>Merci <a href="https://www.facebook.com/polosite" target="_blank" rel="nofollow noopener noreferrer">Polo Kites</a> pour le partage communautaire Facebook de la <em>chaussette en Icarex</em></p>
+<h2 id="choix-du-tissus">Choix du tissus</h2>
+<p>Mise en pratique sur du Spinnaker CX2 (Mirai) au lieu de l&rsquo;Icarex (disponible et moins cher au mètre)</p>
 <p><img loading="lazy" src="/posts/2024/04-04/01-chaussette.jpg#center" alt="Couture de la chaussette"  />
 
 &ndash;&gt; Couture de la chaussette</p>
-<p>L&rsquo;autre avantage du C2X Mirai est de ne pas marquer à la pliure (contrairement à l&rsquo;Icarex). Caractéristique importante du fait de l&rsquo;étape obligatoire de retournement de chaussette</p>
+<p>Le C2X Mirai a l&rsquo;avantage de ne pas marquer à la pliure (contrairement à l&rsquo;Icarex). Détail important car il faut retourner la chaussette pour l&rsquo;utiliser</p>
 <p>Le blanc permet de voir en transparence la référence de barre. En vol, cette couleur se fond dans le ciel</p>
+<p>Délicat à voir sur la photo mais l&rsquo;Icarex bleu est moins lisse et plus marqué que ses homologues blancs et noirs en Spinnaker CX2</p>
 <p><img loading="lazy" src="/posts/2024/04-04/02-marque-retournement.jpg#center" alt="Pliures: Icarex bleu versus C2X Mirai blanc/noir"  />
 
 &ndash;&gt; Pliures: Icarex bleu versus C2X Mirai blanc/noir</p>
 <h2 id="dynamique-de-la-voile">Dynamique de la voile</h2>
-<p>Très content d&rsquo;avoir découvert cette technique qui limite l&rsquo;usure de la voile</p>
-<p>La chaussette se substitue à une bande de protection en Mylar ou Dacron. Bande qui nuit au comportement dynamique de la voile car elle:</p>
-<ul>
-<li>Empêche la voile de se déformer naturellement</li>
-<li>Rend rigide deux zones verticales sur la voile</li>
-</ul>
-<p>Lorsque le vent fait pression sur la voile, elle se déforme en créant naturellement une <em>poche</em> ce qui <em>diminue</em> la superficie de la voile. Cette caractéristique permet au cerf-volant de mieux encaisser une bourrasque de vent</p>
+<p>Content d&rsquo;avoir découvert cette technique simple qui préserve une zone de frottement (barres verticales sur la voile)</p>
+<p>Une chaussette se substitue à une bande de protection verticale en Mylar ou Dacron. Bande qui nuit au comportement dynamique de la voile car elle empêche la voile de se déformer naturellement</p>
+<p>Lorsque le vent fait pression sur la voile, celle-ci se déforme (création d&rsquo;une <em>poche</em> au centre) ce qui <em>diminue</em> légèrement la superficie de la voile. Cette caractéristique permet au cerf-volant de sensiblement mieux encaisser une bourrasque de vent</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -52,9 +79,9 @@
 <p>En bas sur la photo &ndash;&gt; Housse de transport de cerfs-volants confectionnée à partir d&rsquo;une longue chute de <em>Duncan</em> en coton Cordura. Construction basique qui permet d&rsquo;emporter deux Revo et leurs barres</p>
 <p>Fermeture ultra simple via lacet (source: <a href="https://www.google.com/search?q=tuto&#43;couture&#43;pochon&amp;oq=tuto&#43;couture&#43;pochon&amp;aqs=chrome..69i57j0i512l9.4470j0j7&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank" rel="nofollow noopener noreferrer">google.fr/tuto+couture+pochon</a>)</p>
 <h2 id="fine-housse-de-protection-de-barres">Fine housse de protection de barres</h2>
-<p>2ème position en partant du bas sur la photo &ndash;&gt;  Longue housse pour ranger les barres avec fermeture par scratch. La couture centrale forme deux compartiments pour les barres</p>
-<p>Un renfort est positionné en haut et en bas pour préserver les extrémités des barres</p>
-<h2 id="housse-individuelle-de-revolution">Housse individuelle de Revolution</h2>
+<p>2ème position en partant du bas sur la photo &ndash;&gt;  Longue housse pour ranger les barres avec fermeture par scratch. La couture centrale forme deux compartiments</p>
+<p>Un renfort est positionné en haut et en bas pour préserver l&rsquo;extrémité des barres</p>
+<h2 id="housse-individuelle-de-type-carquois">Housse individuelle de type carquois</h2>
 <p>Pour emporter un cerf-volant Revolution, une housse individuelle est recommandée afin de protéger la voile et de ne pas perdre de pièces</p>
 <p>Après un vol à la plage ou en environement humide, le cerf-volant a besoin de sécher</p>
 <p>J&rsquo;ai expérimenté, je déconseille. Utiliser les chutes d&rsquo;<em>Icarex</em>, de <em>spinnaker CX2 mirai</em>, d&rsquo;un dérivé du nylon imperméable à l&rsquo;air, etc. pour fabriquer une housse n&rsquo;est pas recommandé car ces tissus ne permettent à l&rsquo;air de circuler</p>
@@ -271,7 +298,7 @@
       <link>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</link>
       <pubDate>Wed, 15 Feb 2023 05:13:07 +0100</pubDate>
       <guid>https://gfakite.github.io/posts/2023/02/conseils-et-repentance/</guid>
-      <description>Quelques indications pour éviter des écueils de fabrication</description>
+      <description>Sujet: quelques indications pour éviter des écueils de fabrication</description>
       <content:encoded><![CDATA[<p>Les âmes sensibles du cerf-volant peuvent se rassurer, <em>GFAK 1</em> vole très correctement. À 25 m du sol, un œil emmétrope aura du mal à voir les <em>imperfections cosmétiques</em> de la voile</p>
 <p><img loading="lazy" src="/posts/2023/02-15/00-gfak-1.jpg#center" alt="GFAK 1: prêt au décollage, en vol, le crash"  />
 

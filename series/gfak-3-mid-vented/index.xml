@@ -4,7 +4,7 @@
     <title>GFAK 3 Mid Vented on Go fly a kite</title>
     <link>https://gfakite.github.io/series/gfak-3-mid-vented/</link>
     <description>Recent content in GFAK 3 Mid Vented on Go fly a kite</description>
-    <generator>Hugo -- 0.125.4</generator>
+    <generator>Hugo -- 0.123.7</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 04 Dec 2023 20:53:08 +0100</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/gfak-3-mid-vented/index.xml" rel="self" type="application/rss+xml" />
@@ -15,15 +15,15 @@
       <guid>https://gfakite.github.io/posts/2023/12/gfak-3-mid-vented/</guid>
       <description>Voile mid vented: construction N°3</description>
       <content:encoded><![CDATA[<h2 id="rectification-de-la-voile">Rectification de la voile</h2>
-<p>Après son premier vol, deux défauts de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
+<p>Après son premier vol, deux erreurs de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
 <ul>
 <li>5 cm trop courte sur le plan vertical</li>
-<li>Partie centrale pas parfaitement plane</li>
+<li>Planéité discutable de la zone centrale</li>
 </ul>
 <p>Les barres verticales qui dépassent trop de la voile, les élastiques anormalement longs, le manque de surface de voile et la légère poche ont eu 2 effets:</p>
 <ol>
-<li>Vibration la voile</li>
-<li>Diminution de la stabilité en vol</li>
+<li>Vibration excessive de la voile</li>
+<li>Légère diminution de la stabilité en vol</li>
 </ol>
 <p>Pour remédier à ces problèmes:</p>
 <ul>
@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td>Taille</td>
-<td>Revo 1.5 / 2,36 m</td>
+<td>1.5</td>
 </tr>
 <tr>
 <td>Plage vent</td>
@@ -73,7 +73,11 @@
 </tr>
 <tr>
 <td>Barres verticales</td>
-<td>Sky Shark P100 en 31&quot;</td>
+<td><a href="https://gfakite.github.io/posts/2023/03/subversion-tube-carbone/">Easton PowerFlight 500 en 31&quot;</a></td>
+</tr>
+<tr>
+<td>Masse</td>
+<td>204 gr</td>
 </tr>
 <tr>
 <td>Couleur(s)</td>

@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gfakite.github.io/posts/</loc>
-    <lastmod>2025-06-01T20:53:08+01:00</lastmod>
+    <lastmod>2025-11-23T12:10:01+01:00</lastmod>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/posts/2024/11/finition-r%C3%A9volutionnaire/</loc>
+    <lastmod>2024-11-23T12:10:01+01:00</lastmod>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/categories/posts/</loc>
+    <lastmod>2024-11-23T12:10:01+01:00</lastmod>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/tags/technique/</loc>
+    <lastmod>2024-11-23T12:10:01+01:00</lastmod>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://gfakite.github.io/series/technique/</loc>
+    <lastmod>2024-11-23T12:10:01+01:00</lastmod>
     <priority>1</priority>
   </url><url>
     <loc>https://gfakite.github.io/kites/</loc>
@@ -11,18 +27,6 @@
     <priority>1</priority>
   </url><url>
     <loc>https://gfakite.github.io/posts/2024/04/chaussette-de-barre/</loc>
-    <lastmod>2024-04-04T09:40:02+02:00</lastmod>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/categories/posts/</loc>
-    <lastmod>2024-04-04T09:40:02+02:00</lastmod>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/tags/technique/</loc>
-    <lastmod>2024-04-04T09:40:02+02:00</lastmod>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://gfakite.github.io/series/technique/</loc>
     <lastmod>2024-04-04T09:40:02+02:00</lastmod>
     <priority>1</priority>
   </url><url>
