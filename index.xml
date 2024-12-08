@@ -23,20 +23,23 @@
 <p>Pour la disymétrie historique de plus d'1 cm au centre de la voile (marque de fabrique Revolution ?), cela va rester en l&rsquo;état</p>
 <h2 id="renforcer-la-voile">Renforcer la voile</h2>
 <p>Ajout de protections en dacron sur le centre de la voile et sur les 2 zones de pliure. L&rsquo;objectif est de prévenir une déchirure prématurée de la gaze</p>
-<p><img loading="lazy" src="/posts/2024/23-11/01-test.jpg#center" alt="test"  />
+<p><img loading="lazy" src="/posts/2024/23-11/01-centre.jpg#center" alt="Dacron au centre"  />
 
-&ndash;&gt; Protections en dacron</p>
+&ndash;&gt; Dacron au centre</p>
+<p><img loading="lazy" src="/posts/2024/23-11/02-pliure.jpg#center" alt="Dacron sur la zone de pliure"  />
+
+&ndash;&gt; Dacron sur la zone de pliure</p>
 <h2 id="améliorer-la-finition">Améliorer la finition</h2>
 <p>De base, la couture du bord de fuite est assurée par un <em>point droit</em> avec une trajectoire qui oscile &ldquo;vaguement&rdquo; le long du bord de fuite. Pour limiter le risque de vibrations, une couture <em>3 points zigzag</em> vient finir le bord de fuite (et couvrir le <em>vague</em> point droit)</p>
-<p><img loading="lazy" src="/posts/2024/23-11/02-test.jpg#center" alt="test"  />
+<p><img loading="lazy" src="/posts/2024/23-11/03-bord-de-fuite.jpg#center" alt="Bord de fuite"  />
 
 &ndash;&gt; Focus sur le bord de fuite</p>
 <h2 id="augmenter-la-précision-de-vol">Augmenter la précision de vol</h2>
-<p>Le bridage standard Revolution a été remplacé par une bride Liros DSL (plus fine et tout aussi résistante). Nouveau bridage <em>héritage Now&rsquo;Air</em> de <a href="https://www.facebook.com/jean.apostolides/" target="_blank" rel="nofollow noopener noreferrer">Jean Apostolides</a></p>
-<p>Ce bridage rend ce Revolution RX réactif et plus précis sur les virages 180</p>
-<p><img loading="lazy" src="/posts/2024/23-11/03-test.jpg#center" alt="test"  />
+<p>Le bridage standard a été remplacé par une bride Liros DSL (plus fine et tout aussi résistante) et un nouveau bridage <em>héritage Now&rsquo;Air</em> de <a href="https://www.facebook.com/jean.apostolides/" target="_blank" rel="nofollow noopener noreferrer">Jean Apostolides</a></p>
+<p>Petit changement qui rend ce RX réactif et plus précis sur les virages 180</p>
+<p><img loading="lazy" src="/posts/2024/23-11/03-test.jpg#center" alt="Nouveau bridage"  />
 
-&ndash;&gt; Détail du bridage</p>
+&ndash;&gt; Nouveau bridage</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -47,119 +50,15 @@
       <description>Sujet: améliorer les housses</description>
       <content:encoded><![CDATA[<p>2 évolutions sur les housses existantes (<a href="https://gfakite.github.io/posts/2023/05/housses/">version initiale ici</a>)</p>
 <h2 id="pochette-de-barre-verticale">Pochette de barre verticale</h2>
-<p>Fermeture via scratch</p>
-<p><img loading="lazy" src="/posts/2024/06-07/01.jpg#center" alt="01"  />
+<p>Ajout d&rsquo;une pochette de barre verticale avec une fermeture via scratch</p>
+<p><img loading="lazy" src="/posts/2024/06-07/01-housses.jpg#center" alt="Pochette de barre verticale"  />
 
-![01](/posts/2024/06-07/01.jpg
-&ndash;&gt; 01</p>
-<h2 id="pochette-de-barre-verticale-1">Pochette de barre verticale</h2>
-<p>Ajout d&rsquo;une trappe en bas pour laisser le sable à la plage</p>
-<p><img loading="lazy" src="/posts/2024/06-07/02.jpg#center" alt="02"  />
+&ndash;&gt; Pochette de barre verticale</p>
+<h2 id="trappe-pour-le-sable">Trappe pour le sable</h2>
+<p>Ajout d&rsquo;une trappe en bas pour limiter l&rsquo;emport de sable de plage</p>
+<p><img loading="lazy" src="/posts/2024/06-07/02-trappe-sable.jpg#center" alt="Trappe pour le sable"  />
 
-&ndash;&gt; 02</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Cerfs-volants</title>
-      <link>https://gfakite.github.io/kites/</link>
-      <pubDate>Sat, 27 Apr 2024 00:08:34 +0200</pubDate>
-      <guid>https://gfakite.github.io/kites/</guid>
-      <description>Tableau récapitulatif des Revo GFAK et consorts</description>
-      <content:encoded><![CDATA[<h2 id="la-passion-du-4-lignes">La passion du 4 lignes</h2>
-<table>
-<thead>
-<tr>
-<th>GFAK</th>
-<th>Plan</th>
-<th>Voile</th>
-<th>Type</th>
-<th>Ventilation</th>
-<th>Liens</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>GFAK 9</td>
-<td>TBD</td>
-<td>ultra light</td>
-<td>UL</td>
-<td>0%</td>
-<td><em>Construction à venir</em></td>
-</tr>
-<tr>
-<td>GFAK 6</td>
-<td>Custom</td>
-<td>standard</td>
-<td>STD</td>
-<td>0%</td>
-<td><a href="/series/gfak-6-standard/">Série &ndash;&gt; <em>GFAK 6</em></a></td>
-</tr>
-<tr>
-<td>GFAK 3</td>
-<td>Custom</td>
-<td>mid-vented</td>
-<td>MVTD</td>
-<td>8%</td>
-<td><a href="/series/gfak-3-mid-vented/">Série &ndash;&gt; <em>GFAK 3</em></a></td>
-</tr>
-<tr>
-<td>GFAK 2</td>
-<td>Custom</td>
-<td>vented</td>
-<td>VTD</td>
-<td>18%</td>
-<td><a href="/series/gfak-2-vented/">Série &ndash;&gt; <em>GFAK 2</em></a></td>
-</tr>
-<tr>
-<td>GFAK 1</td>
-<td>Essentials</td>
-<td>vented</td>
-<td>VTD</td>
-<td>24%</td>
-<td><a href="/series/gfak-1-vented/">Série &ndash;&gt; <em>GFAK 1</em></a></td>
-</tr>
-<tr>
-<td>GFAK 7</td>
-<td>Custom</td>
-<td>extra-vented</td>
-<td>XVTD</td>
-<td>35%</td>
-<td><a href="/series/gfak-7-extra-vented/">Série &ndash;&gt; <em>GFAK 7</em></a></td>
-</tr>
-<tr>
-<td>GFAK 8</td>
-<td>TBD</td>
-<td>ultra-vented</td>
-<td>UVTD</td>
-<td>50%</td>
-<td><em>Construction à venir</em></td>
-</tr>
-<tr>
-<td>GFAK 4</td>
-<td>Benson</td>
-<td>standard</td>
-<td>STD</td>
-<td>0%</td>
-<td><a href="/series/gfak-4-airbow/">Série &ndash;&gt; <em>AirBow</em></a></td>
-</tr>
-<tr>
-<td>GFAK 5</td>
-<td>Yves Ganne</td>
-<td>standard</td>
-<td>STD</td>
-<td>0%</td>
-<td><a href="/series/gfak-5-mini-revo/">Série &ndash;&gt; <em>mini revo</em></a></td>
-</tr>
-<tr>
-<td>Supersonic</td>
-<td>Revolution</td>
-<td>standard</td>
-<td>STD</td>
-<td>0%</td>
-<td><a href="https://revkites.com/product/supersonic/" target="_blank" rel="nofollow noopener noreferrer">Caractéristiques</a></td>
-</tr>
-</tbody>
-</table>
+&ndash;&gt; Trappe pour le sable</p>
 ]]></content:encoded>
     </item>
     <item>
