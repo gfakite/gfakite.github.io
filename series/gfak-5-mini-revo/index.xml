@@ -4,7 +4,7 @@
     <title>GFAK 5 Mini Revo on Go fly a kite</title>
     <link>https://gfakite.github.io/series/gfak-5-mini-revo/</link>
     <description>Recent content in GFAK 5 Mini Revo on Go fly a kite</description>
-    <generator>Hugo -- 0.123.7</generator>
+    <generator>Hugo -- 0.129.0</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 01 Mar 2024 22:13:07 +0200</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/gfak-5-mini-revo/index.xml" rel="self" type="application/rss+xml" />
@@ -15,11 +15,14 @@
       <guid>https://gfakite.github.io/posts/2024/03/gfak-5-mini-revo-en-vol/</guid>
       <description>Court vol par 50 km/h de vent et plus</description>
       <content:encoded><![CDATA[
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/aRoGWeDQmwY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
 
-<h2 id="vidéo-brute">Vidéo brute</h2>
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/aRoGWeDQmwY?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<h2 id="media-brut">Media brut</h2>
 <p>Vidéo peu qualitative (son et cadrage), néanmoins, elle donne un fidèle aperçu du comportement instable de <em>mini revo</em></p>
 <p>Les deux ajustements (<a href="https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/">détaillés ici</a>) permettent d&rsquo;améliorer le pilotage de ce cerf-volant. Cependant, il est impossible de faire un vol stationnaire (même sur le dos). <em>Mini revo</em> a un comportement trop fougueux et un caractère assurément viril</p>
 <p>Au cours de la séance d&rsquo;essai, il a beaucoup vrillé et chuté:</p>
@@ -27,7 +30,7 @@
 <li>les lignes sont à démêler</li>
 <li>le bord d&rsquo;attaque est à réparer (coupures de coquillages)</li>
 </ul>
-<h2 id="vibrations-de-voile">Vibrations de voile</h2>
+<h2 id="usure">Usure</h2>
 <p>La voile de <em>mini revo</em> a vieilli de 5 ans en l&rsquo;espace d&rsquo;une heure de vol</p>
 ]]></content:encoded>
     </item>
@@ -37,27 +40,25 @@
       <pubDate>Fri, 29 Sep 2023 08:10:17 +0200</pubDate>
       <guid>https://gfakite.github.io/posts/2023/09/gfak-5-ajustements-mini-revo/</guid>
       <description>Cerf-volant modèle réduit à l&amp;#39;échelle 1/3</description>
-      <content:encoded><![CDATA[<p><em>Mini revo</em> a effectué son premier vol en bord de mer avec un vent de 50 km/h et plus. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas <em>révolutionnaire</em> avec son bord d&rsquo;attaque de 70 cm</p>
+      <content:encoded><![CDATA[<p><em>Mini revo</em> a effectué son premier vol en bord de mer par 50 km/h de vent. L&rsquo;expérience de pilotage 4 lignes n&rsquo;est pas <em>révolutionnaire</em> avec son bord d&rsquo;attaque de 70 cm</p>
 <p>En <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-4-2">2 lignes (bridage 4-2)</a> ou en <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-traditionnel-4-lignes">4 lignes</a>, le cerf-volant décolle facilement. Dès qu&rsquo;il est dans les airs, impossible de faire un vol stationnaire. Il part comme une flèche et ensuite c&rsquo;est décrochage, piqué en ligne droite ou vrille infernale</p>
 <p>Excellente voile pour emmêler les lignes</p>
 <h2 id="bridage-4-2">Bridage &ldquo;4-2&rdquo;</h2>
 <p>Le bridage <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-4-2">détaillé ici</a> est fonctionnel avec 2 lignes. Le réglage est délicat sur le bas (<a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#longueurs-de-bridage-pour-un-revolution-15-taille-standard">B3-B'3 et B4-B'4 sur le schéma</a>)</p>
-<p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Malgré de nombreux essais et réglages, jimpossible d&rsquo;avoir un pilotage correct</p>
+<p>L&rsquo;expérience de vol avec 2 lignes est sans plus par rapport à un 4 lignes. Malgré de nombreux essais et réglages, impossible d’avoir un pilotage correct</p>
 <h2 id="bridage-traditionnel-4-lignes-homothétie">Bridage traditionnel 4 lignes: homothétie</h2>
 <p>Un bridage classique 4 lignes n&rsquo;est pas adapté. Les commandes sont beaucoup trop sensibles pour faire un vol prolongé. Il est impossible de piloter <em>mini revo</em></p>
 <h2 id="ajustements-pour-piloter-la-bête">Ajustements pour piloter la bête</h2>
-<p>Pour améliorer le pilotage, il est prévu de tester deux ajustements:</p>
+<p>2 ajustements sont prévus pour espérer un vol prolongé:</p>
 <ul>
 <li>Utiliser des poignées 4 lignes très courtes (10 cm)</li>
 <li>Fixer les lignes directement sur les 4 extrémités des barres verticales</li>
 </ul>
-<p><img loading="lazy" src="/posts/2023/09-29/01-poignees.jpg#center" alt="Prototype de poignées des éditions pour nains"  />
-
+<p><img alt="Prototype de poignées des éditions pour nains" loading="lazy" src="/posts/2023/09-29/01-poignees.jpg#center">
 &ndash;&gt; Prototype de poignées des éditions pour nains</p>
 <p>Bridage simplifié à l&rsquo;extrême. Assurément minimaliste par rapport à sa <a href="https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/#détail-du-bridage-traditionnel-4-lignes">version initiale</a></p>
-<p><img loading="lazy" src="/posts/2023/09-29/02-mini-revo.jpg#center" alt="Bridage minimaliste"  />
-
-&ndash;&gt; Bridage 4 points (orange)</p>
+<p><img alt="Bridage minimaliste 4 points" loading="lazy" src="/posts/2023/09-29/02-mini-revo.jpg#center">
+&ndash;&gt; Bridage 4 points</p>
 <p>Vivement la prochaine session avec du <a href="https://gfakite.github.io/posts/2024/03/gfak-5-mini-revo-en-vol/">vent soutenu</a></p>
 ]]></content:encoded>
     </item>
@@ -68,9 +69,8 @@
       <guid>https://gfakite.github.io/posts/2023/05/gfak-5-nouveau-projet-mini-revo/</guid>
       <description>Revo modèle réduit à l&amp;#39;échelle 1/3</description>
       <content:encoded><![CDATA[<p>Petit Revolution de 70 cm de largeur pour 22 cm de hauteur basé sur le plan Revo 1.5 d&rsquo;<a href="https://www.facebook.com/yvesganne/" target="_blank" rel="nofollow noopener noreferrer">Yves Ganne</a> (source: <a href="https://quadkites.org/build/build-your-kite/tutorial-by-yves-ganne" target="_blank" rel="nofollow noopener noreferrer">quadkites.org</a>)</p>
-<p>Exercice de style en miniature pour faire un test grandeur nature. Cette taille nécessite beaucoup de vent pour s&rsquo;exprimer et risque de ne pas être stable en vol</p>
-<p><img loading="lazy" src="/posts/2023/05-11/01-mini-revo.jpg#center" alt="GFAK 5 alias mini revo avec sa mini housse"  />
-
+<p>Exercice de style en miniature pour faire un test grandeur nature. Cette taille nécessite beaucoup de vent pour s&rsquo;exprimer</p>
+<p><img alt="GFAK 5 alias mini revo avec sa mini housse" loading="lazy" src="/posts/2023/05-11/01-mini-revo.jpg#center">
 &ndash;&gt; <em>GFAK 5</em> alias <em>mini revo</em> avec sa mini housse</p>
 <h2 id="caractéristiques-communes">Caractéristiques communes</h2>
 <p><em>Mini revo</em> partage les points suivants avec un cerf-volant 4 lignes Revo 1.5:</p>
@@ -81,8 +81,7 @@
 <li>Renforts Mylar sur le bas</li>
 <li>Bord de fuite avec ourlet double rempli piqué 3 points zigzag</li>
 </ul>
-<p><img loading="lazy" src="/posts/2023/05-11/02-taille-voile.jpg#center" alt="Mini revo (GFAK 5) avec un homologue 1.5 (GFAK 2)"  />
-
+<p><img alt="Mini revo (GFAK 5) avec un homologue 1.5 (GFAK 2)" loading="lazy" src="/posts/2023/05-11/02-taille-voile.jpg#center">
 &ndash;&gt; <em>Mini revo</em> (<em>GFAK 5</em>) avec un homologue 1.5 (<em>GFAK 2</em>)</p>
 <h2 id="différences">Différences</h2>
 <p><em>Mini revo</em> fait l&rsquo;objet d&rsquo;ajustements par rapport à un exemplaire au standard 1.5:</p>
@@ -131,8 +130,7 @@
 <h2 id="détail-du-bridage-4-2">Détail du bridage <em>&ldquo;4-2&rdquo;</em></h2>
 <p>Les 4 points de fixation du bridage sur la voile sont: <strong>B1</strong>, <strong>B2</strong>, <strong>B3</strong> et <strong>B4</strong></p>
 <p><strong>C</strong> est un anneau de 12 mm dans lequel passe le bridage de <strong>G</strong> vers <strong>D</strong> (coulissement via <strong>C</strong>)</p>
-<p><img loading="lazy" src="/posts/2023/05-11/03-bridage-4-2.png#center" alt="Bridage 4-2"  />
-
+<p><img alt="Bridage 4-2" loading="lazy" src="/posts/2023/05-11/03-bridage-4-2.png#center">
 &ndash;&gt; Bridage 4-2</p>
 <h3 id="longueurs-de-bridage-pour-un-revolution-15-taille-standard">Longueurs de bridage pour un Revolution 1.5 (taille standard)</h3>
 <ul>
@@ -172,8 +170,7 @@
 </ul>
 <h2 id="détail-du-bridage-traditionnel-4-lignes">Détail du bridage traditionnel 4 lignes</h2>
 <p>Bridage réalisé à partir de celui d&rsquo;<em>Yves Ganne</em> et ajusté au 70 cm du cerf-volant. En attente d&rsquo;un vent soutenu pour s&rsquo;élancer dans le ciel</p>
-<p><img loading="lazy" src="/posts/2023/05-11/04-mini-revo.jpg#center" alt="GFAK 5 mini revo prêt à voler"  />
-
+<p><img alt="GFAK 5 mini revo prêt à voler" loading="lazy" src="/posts/2023/05-11/04-mini-revo.jpg#center">
 &ndash;&gt; <em>GFAK 5</em> <em>mini revo</em> prêt à voler</p>
 ]]></content:encoded>
     </item>

@@ -4,7 +4,7 @@
     <title>GFAK 3 Mid Vented on Go fly a kite</title>
     <link>https://gfakite.github.io/series/gfak-3-mid-vented/</link>
     <description>Recent content in GFAK 3 Mid Vented on Go fly a kite</description>
-    <generator>Hugo -- 0.123.7</generator>
+    <generator>Hugo -- 0.129.0</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 04 Dec 2023 20:53:08 +0100</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/gfak-3-mid-vented/index.xml" rel="self" type="application/rss+xml" />
@@ -18,29 +18,21 @@
 <p>Après son premier vol, deux erreurs de construction sont remontés sur la voile <em>GFAK 3</em> (<a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">présentée ici</a>):</p>
 <ul>
 <li>5 cm trop courte sur le plan vertical</li>
-<li>Planéité discutable de la zone centrale</li>
+<li>Planéité discutable sur le centre</li>
 </ul>
-<p>Les barres verticales qui dépassent trop de la voile, les élastiques anormalement longs, le manque de surface de voile et la légère poche ont eu 2 effets:</p>
-<ol>
-<li>Vibration excessive de la voile</li>
-<li>Légère diminution de la stabilité en vol</li>
-</ol>
-<p>Pour remédier à ces problèmes:</p>
+<p>Pour remédier aux élastiques anormalement longs, aux barres verticales qui dépassent et aux vibrations de la voile:</p>
 <ul>
 <li>Le haut de la voile a été rallongé</li>
 <li>La jonction voile/moustiquaire a été refaite</li>
 <li>Le bord d&rsquo;attaque a été changé</li>
 </ul>
-<p><img loading="lazy" src="/posts/2023/12-04/01-bandes.jpg#center" alt="Rallongement sur GFAK 3: devant et derrière"  />
-
+<p><img alt="Rallongement sur GFAK 3: devant et derrière" loading="lazy" src="/posts/2023/12-04/01-bandes.jpg#center">
 &ndash;&gt; Rallongement sur <em>GFAK 3</em>: devant et derrière</p>
 <h2 id="ventilation-en-mvt-mid-vented">Ventilation en MVT (Mid Vented)</h2>
-<p><em>GFAK 3</em> a été ventilé à 8 %. Il est agréable à piloter sur sa plage de vent</p>
-<p><img loading="lazy" src="/posts/2023/12-04/02-au-repos.jpg#center" alt="GFAK 3 au repos"  />
-
+<p>Dans sa nouvelle version, <em>GFAK 3</em> a été ventilé à 8 %. Il est agréable à piloter sur sa plage de vent</p>
+<p><img alt="GFAK 3 au repos" loading="lazy" src="/posts/2023/12-04/02-au-repos.jpg#center">
 &ndash;&gt; <em>GFAK 3</em> au repos</p>
-<p><img loading="lazy" src="/posts/2023/12-04/03-pret-a-decoller.jpg#center" alt="GFAK 3 prêt à décoller"  />
-
+<p><img alt="GFAK 3 prêt à décoller" loading="lazy" src="/posts/2023/12-04/03-pret-a-decoller.jpg#center">
 &ndash;&gt; <em>GFAK 3</em>  prêt à décoller</p>
 <h2 id="caractéristiques">Caractéristiques</h2>
 <table>
@@ -94,21 +86,18 @@
       <guid>https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/</guid>
       <description>Nouvelle forme de voile et changement de liaison bord d&amp;#39;attaque / barre verticale</description>
       <content:encoded><![CDATA[<h2 id="voile-basée-sur-un-nouveau-plan">Voile basée sur un nouveau plan</h2>
-<p>La voile a plus de surface au centre pour accentuer la portance et la stabilité</p>
-<p><img loading="lazy" src="/posts/2023/02-28/01-voile-v2.jpg#center" alt="Nouvelle forme de voile"  />
-
+<p>La voile a plus de surface au centre pour accentuer la portance et la stabilité de vol</p>
+<p><img alt="Nouvelle forme de voile" loading="lazy" src="/posts/2023/02-28/01-voile-v2.jpg#center">
 &ndash;&gt; Nouvelle forme de voile</p>
 <h2 id="nouveau-système-de-fixation">Nouveau système de fixation</h2>
 <p>Fixation d&rsquo;un connecteur en T au bord d&rsquo;attaque. Ajout d&rsquo;un couche de dacron avec couture zigzag 2 points pour renforcer la zone</p>
 <p>Le montage est ajusté (serré serré) avec une barre de 8 mm et un bord d&rsquo;attaque de 5 cm</p>
-<p><img loading="lazy" src="/posts/2023/02-28/02-connecteur-t.jpg#center" alt="Connecteur en T"  />
-
+<p><img alt="Connecteur en T" loading="lazy" src="/posts/2023/02-28/02-connecteur-t.jpg#center">
 &ndash;&gt; Connecteur en T</p>
 <p>Note: en attente d&rsquo;un jeu de barres pour le recouper</p>
-<p>Une machine à coudre de qualité, c&rsquo;est un détail qui fait la différence sur les finitions.</p>
-<p><img loading="lazy" src="/posts/2023/02-28/03-detail-couture.jpg#center" alt="Coutures renfort bas"  />
-
-&ndash;&gt; Coutures renfort bas</p>
+<p>Une machine à coudre de qualité est appréciable pour les finitions</p>
+<p><img alt="Coutures du renfort bas" loading="lazy" src="/posts/2023/02-28/03-detail-couture.jpg#center">
+&ndash;&gt; Coutures du renfort bas</p>
 ]]></content:encoded>
     </item>
   </channel>

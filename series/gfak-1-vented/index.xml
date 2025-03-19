@@ -4,7 +4,7 @@
     <title>GFAK 1 Vented on Go fly a kite</title>
     <link>https://gfakite.github.io/series/gfak-1-vented/</link>
     <description>Recent content in GFAK 1 Vented on Go fly a kite</description>
-    <generator>Hugo -- 0.123.7</generator>
+    <generator>Hugo -- 0.129.0</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 15 Apr 2023 22:50:03 +0200</lastBuildDate>
     <atom:link href="https://gfakite.github.io/series/gfak-1-vented/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +16,7 @@
       <description>Versions de ventilation et mise en pratique</description>
       <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
 <p>Pour s&rsquo;adapter au vent, <em>Watty</em> a décliné plusieurs ventilations de voile:</p>
-<p><img loading="lazy" src="/posts/2023/04-15/01-essentials-versions.png#center" alt="Détail des 4 versions"  />
-
+<p><img alt="Détail des 4 versions" loading="lazy" src="/posts/2023/04-15/01-essentials-versions.png#center">
 &ndash;&gt; Détail des 4 versions</p>
 <p>Ces 4 déclinaisons de voile sont données pour les plages de vent suivantes:</p>
 <table>
@@ -79,15 +78,12 @@
 </ul>
 <h2 id="mise-en-pratique-sur-le-cobaye-gfak-1">Mise en pratique sur le cobaye <em>GFAK 1</em></h2>
 <p>Le challenge consiste à garder la voile plate et à ne pas exposer de ruban adhésif double-face à l&rsquo;air libre (contact irréversible avec le sable)</p>
-<p><img loading="lazy" src="/posts/2023/04-15/02-intrados.jpg#center" alt="Au vent = côté lignes"  />
-
+<p><img alt="Au vent = côté lignes" loading="lazy" src="/posts/2023/04-15/02-intrados.jpg#center">
 &ndash;&gt; Au vent = côté lignes</p>
 <p>Ajout d&rsquo;un biais de 6 mm en Icarex pour optimiser l&rsquo;adhérence du double-face. La ventilation est délicate sur une voile pas plate et avec des plis</p>
-<p><img loading="lazy" src="/posts/2023/04-15/03-extrados.jpg#center" alt="Côté extrados"  />
-
+<p><img alt="Côté extrados" loading="lazy" src="/posts/2023/04-15/03-extrados.jpg#center">
 &ndash;&gt; Sous le vent</p>
-<p><img loading="lazy" src="/posts/2023/04-15/04-gfak-1-extra-vented.jpg#center" alt="GFAK 1 en version extra vented"  />
-
+<p><img alt="GFAK 1 en version extra vented" loading="lazy" src="/posts/2023/04-15/04-gfak-1-extra-vented.jpg#center">
 &ndash;&gt; <em>GFAK 1</em> en version extra vented</p>
 <h2 id="caractéristiques">Caractéristiques</h2>
 <table>
@@ -120,7 +116,7 @@
 </tr>
 <tr>
 <td>Barres verticales</td>
-<td>Sky Shark P2x - 31&quot;</td>
+<td>Sky Shark P2x</td>
 </tr>
 <tr>
 <td>Couleurs</td>
