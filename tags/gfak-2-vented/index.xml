@@ -2,70 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GFAK 2 Vented on Go fly a kite</title>
-    <link>https://gfakite.github.io/tags/gfak-2-vented/</link>
+    <link>http://localhost:1313/tags/gfak-2-vented/</link>
     <description>Recent content in GFAK 2 Vented on Go fly a kite</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 04 Jan 2024 20:53:08 +0100</lastBuildDate>
-    <atom:link href="https://gfakite.github.io/tags/gfak-2-vented/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GFAK 2: vented</title>
-      <link>https://gfakite.github.io/posts/2024/01/gfak-2-vented/</link>
-      <pubDate>Thu, 04 Jan 2024 20:53:08 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2024/01/gfak-2-vented/</guid>
-      <description>Voile vented: construction N°2</description>
-      <content:encoded><![CDATA[<p>Après avoir découvert et testé un nouveau plan sur <a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">GFAK 3</a> puis sur <a href="https://gfakite.github.io/posts/2023/11/gfak-6-standard/">GFAK 6</a>, les défauts de cette voile sur plan Essentials sont ressortis</p>
-<p>Pour optimiser cette construction, le haut de la voile et le bord d&rsquo;attaque ont été refaits. Les bandes en vert fluo marquent l&rsquo;emplacement des anciennes barres verticales. Cette nouvelle version est ventilée à 18 %</p>
-<p><img alt="GFAK 2 avant et après les découpes" loading="lazy" src="/posts/2024/01-04/01-gfak-2-avant-apres.jpg#center">
-&ndash;&gt; <em>GFAK 2</em> avant et après les découpes</p>
-<p><img alt="GFAK 2 avant et après les découpes" loading="lazy" src="/posts/2024/01-04/02-gfak-2-plage.jpg#center">
-&ndash;&gt; <em>GFAK 2</em> avec son nouveau bridage sur la plage</p>
-<h2 id="caractéristiques">Caractéristiques</h2>
-<table>
-<thead>
-<tr>
-<th>Nom</th>
-<th><em>GFAK 2</em></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Version</td>
-<td>Vented</td>
-</tr>
-<tr>
-<td>Taille</td>
-<td>1.5</td>
-</tr>
-<tr>
-<td>Plage vent</td>
-<td>15 - 35 km/h</td>
-</tr>
-<tr>
-<td>Ventilation</td>
-<td>18 %</td>
-</tr>
-<tr>
-<td>Bord d&rsquo;attaque</td>
-<td>Sky Shark P200</td>
-</tr>
-<tr>
-<td>Barres verticales</td>
-<td>Revolution EXP 3 wrap</td>
-</tr>
-<tr>
-<td>Masse</td>
-<td>239 gr</td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-    </item>
+    <lastBuildDate>Tue, 31 Jan 2023 05:13:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gfak-2-vented/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GFAK 2: assemblage final</title>
-      <link>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</link>
+      <link>http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/</link>
       <pubDate>Tue, 31 Jan 2023 05:13:07 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2023/01/gfak-2-assemblage-final/</guid>
+      <guid>http://localhost:1313/posts/2023/01/gfak-2-assemblage-final/</guid>
       <description>Montage et vérifications sur la voile avant le premier vol</description>
       <content:encoded><![CDATA[<h2 id="contrôle-de-lalignement-du-bridage">Contrôle de l&rsquo;alignement du bridage</h2>
 <p>A effectuer en suspendant la voile via les points de tire du haut</p>

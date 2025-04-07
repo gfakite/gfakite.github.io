@@ -113,11 +113,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>GFAK 7: extra vented</title>
-      <link>https://gfakite.github.io/posts/2024/02/gfak-7-extra-vented/</link>
+      <title>GFAK 7: vented</title>
+      <link>https://gfakite.github.io/posts/2024/02/gfak-7-vented/</link>
       <pubDate>Sun, 04 Feb 2024 20:53:08 +0100</pubDate>
-      <guid>https://gfakite.github.io/posts/2024/02/gfak-7-extra-vented/</guid>
-      <description>Voile extra vented: construction N°7</description>
+      <guid>https://gfakite.github.io/posts/2024/02/gfak-7-vented/</guid>
+      <description>Voile vented: construction N°7</description>
       <content:encoded><![CDATA[<p>Voile ventilée et colorée pour <em>GFAK 7</em></p>
 <p><img alt="En attente d&rsquo;un bridage et d’un signe des dieux du vent pour voler" loading="lazy" src="/posts/2024/02-04/01-gfak-7-voile.jpg#center">
 &ndash;&gt; En attente d&rsquo;un bridage et d’un signe des dieux du vent pour voler</p>
@@ -136,7 +136,7 @@
 <tbody>
 <tr>
 <td>Version</td>
-<td>Extra vented</td>
+<td>Vented</td>
 </tr>
 <tr>
 <td>Taille</td>
@@ -144,11 +144,11 @@
 </tr>
 <tr>
 <td>Plage vent</td>
-<td>À évaluer</td>
+<td>20 - 35 km/h</td>
 </tr>
 <tr>
 <td>Ventilation</td>
-<td>≃ 30 %</td>
+<td>30 %</td>
 </tr>
 <tr>
 <td>Bord d&rsquo;attaque</td>
@@ -171,7 +171,7 @@
       <link>https://gfakite.github.io/posts/2024/01/gfak-2-vented/</link>
       <pubDate>Thu, 04 Jan 2024 20:53:08 +0100</pubDate>
       <guid>https://gfakite.github.io/posts/2024/01/gfak-2-vented/</guid>
-      <description>Voile vented: construction N°2</description>
+      <description>Voile mid vented: construction N°2</description>
       <content:encoded><![CDATA[<p>Après avoir découvert et testé un nouveau plan sur <a href="https://gfakite.github.io/posts/2023/02/gfak-3-connecteurs-en-t/">GFAK 3</a> puis sur <a href="https://gfakite.github.io/posts/2023/11/gfak-6-standard/">GFAK 6</a>, les défauts de cette voile sur plan Essentials sont ressortis</p>
 <p>Pour optimiser cette construction, le haut de la voile et le bord d&rsquo;attaque ont été refaits. Les bandes en vert fluo marquent l&rsquo;emplacement des anciennes barres verticales. Cette nouvelle version est ventilée à 18 %</p>
 <p><img alt="GFAK 2 avant et après les découpes" loading="lazy" src="/posts/2024/01-04/01-gfak-2-avant-apres.jpg#center">
@@ -189,7 +189,7 @@
 <tbody>
 <tr>
 <td>Version</td>
-<td>Vented</td>
+<td>Mid vented</td>
 </tr>
 <tr>
 <td>Taille</td>
@@ -264,7 +264,7 @@
 </tr>
 <tr>
 <td>Plage vent</td>
-<td>8 - 26 km/h</td>
+<td>9 - 25 km/h</td>
 </tr>
 <tr>
 <td>Ventilation</td>
@@ -328,7 +328,7 @@
 </tr>
 <tr>
 <td>Plage vent</td>
-<td>5 - 20 km/h</td>
+<td>5 - 19 km/h</td>
 </tr>
 <tr>
 <td>Ventilation</td>
@@ -600,7 +600,7 @@
       <guid>https://gfakite.github.io/posts/2023/04/gfak-1-ventilation/</guid>
       <description>Versions de ventilation et mise en pratique</description>
       <content:encoded><![CDATA[<h2 id="détail-des-versions-du-plan-essentials">Détail des versions du plan Essentials</h2>
-<p>Pour s&rsquo;adapter au vent, <em>Watty</em> a décliné plusieurs ventilations de voile:</p>
+<p>Pour s&rsquo;adapter au vent, <a href="https://watty.us/kite-plans/2022/3/13/essentials" target="_blank" rel="nofollow noopener noreferrer">Watty</a> a décliné plusieurs ventilations de voile:</p>
 <p><img alt="Détail des 4 versions" loading="lazy" src="/posts/2023/04-15/01-essentials-versions.png#center">
 &ndash;&gt; Détail des 4 versions</p>
 <p>Ces 4 déclinaisons de voile sont données pour les plages de vent suivantes:</p>
@@ -629,7 +629,7 @@
 <tr>
 <td>V</td>
 <td>Vented</td>
-<td>13 %</td>
+<td>12,5 %</td>
 <td>2 - 3</td>
 <td>5 - 12</td>
 <td>4 - 10</td>
@@ -647,7 +647,7 @@
 <tr>
 <td>XXV</td>
 <td>Double Extra Vented</td>
-<td>41 %</td>
+<td>40,7 %</td>
 <td>4 - 5</td>
 <td>15 - 25</td>
 <td>13 - 21</td>
@@ -693,7 +693,7 @@
 </tr>
 <tr>
 <td>Ventilation</td>
-<td>24 %</td>
+<td>26 %</td>
 </tr>
 <tr>
 <td>Bord d&rsquo;attaque</td>
