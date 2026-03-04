@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on gO fLY a kITE</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on gO fLY a kITE</description>
+    <title>Handmade on gO fLY a kITE</title>
+    <link>http://localhost:1313/categories/handmade/</link>
+    <description>Recent content in Handmade on gO fLY a kITE</description>
     <image>
       <title>gO fLY a kITE</title>
       <url>http://localhost:1313/img/cover.jpg</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/handmade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gfak #7: Hardcore Vent rev 1.5</title>
       <link>http://localhost:1313/posts/gfak-7/</link>
@@ -21,25 +21,11 @@
       <description>An octagon pattern for strong winds</description>
     </item>
     <item>
-      <title>revolution SLE</title>
-      <link>http://localhost:1313/posts/revolution-sle/</link>
-      <pubDate>Thu, 10 Jul 2025 14:47:29 +0000</pubDate>
-      <guid>http://localhost:1313/posts/revolution-sle/</guid>
-      <description>Purchase date --&amp;gt; 07-10-2025</description>
-    </item>
-    <item>
       <title>gfak #6: eXtra-Vented rev 1.5</title>
       <link>http://localhost:1313/posts/gfak-6/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/gfak-6/</guid>
       <description>Icarex strips for flying in strong winds</description>
-    </item>
-    <item>
-      <title>revolution RX</title>
-      <link>http://localhost:1313/posts/revolution-rx/</link>
-      <pubDate>Sat, 23 Nov 2024 14:47:29 +0000</pubDate>
-      <guid>http://localhost:1313/posts/revolution-rx/</guid>
-      <description>Purchase date --&amp;gt; 07-13-2023</description>
     </item>
     <item>
       <title>gfak #5: VenTed rev 1.5</title>
@@ -54,13 +40,6 @@
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/gfak-4/</guid>
       <description>A standard sail version for flying in light/all days wind</description>
-    </item>
-    <item>
-      <title>revolution Supersonic</title>
-      <link>http://localhost:1313/posts/revolution-supersonic/</link>
-      <pubDate>Thu, 13 Jul 2023 14:47:29 +0000</pubDate>
-      <guid>http://localhost:1313/posts/revolution-supersonic/</guid>
-      <description>Purchase date --&amp;gt; 07-13-2023</description>
     </item>
     <item>
       <title>gfak #3: Mid-Vented rev 1.5</title>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Manufactured on gO fLY a kITE</title>
+    <link>http://localhost:1313/categories/manufactured/</link>
+    <description>Recent content in Manufactured on gO fLY a kITE</description>
+    <image>
+      <title>gO fLY a kITE</title>
+      <url>http://localhost:1313/img/cover.jpg</url>
+      <link>http://localhost:1313/img/cover.jpg</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jul 2025 14:47:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/manufactured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>revolution SLE</title>
+      <link>http://localhost:1313/posts/revolution-sle/</link>
+      <pubDate>Thu, 10 Jul 2025 14:47:29 +0000</pubDate>
+      <guid>http://localhost:1313/posts/revolution-sle/</guid>
+      <description>Purchase date --&amp;gt; 07-10-2025</description>
+    </item>
+    <item>
+      <title>revolution RX</title>
+      <link>http://localhost:1313/posts/revolution-rx/</link>
+      <pubDate>Sat, 23 Nov 2024 14:47:29 +0000</pubDate>
+      <guid>http://localhost:1313/posts/revolution-rx/</guid>
+      <description>Purchase date --&amp;gt; 07-13-2023</description>
+    </item>
+    <item>
+      <title>revolution Supersonic</title>
+      <link>http://localhost:1313/posts/revolution-supersonic/</link>
+      <pubDate>Thu, 13 Jul 2023 14:47:29 +0000</pubDate>
+      <guid>http://localhost:1313/posts/revolution-supersonic/</guid>
+      <description>Purchase date --&amp;gt; 07-13-2023</description>
+    </item>
+  </channel>
+</rss>
