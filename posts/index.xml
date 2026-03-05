@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Go Fly A KITE</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://gfakite.github.io/posts/</link>
     <description>Recent content in Posts on Go Fly A KITE</description>
     <image>
       <title>Go Fly A KITE</title>
-      <url>http://localhost:1313/img/cover.jpg</url>
-      <link>http://localhost:1313/img/cover.jpg</link>
+      <url>https://gfakite.github.io/img/cover.jpg</url>
+      <link>https://gfakite.github.io/img/cover.jpg</link>
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gfakite.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gfak #7: Hardcore Vent rev 1.5</title>
-      <link>http://localhost:1313/posts/gfak-7/</link>
+      <link>https://gfakite.github.io/posts/gfak-7/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gfak-7/</guid>
+      <guid>https://gfakite.github.io/posts/gfak-7/</guid>
       <description>An octagon pattern for strong winds</description>
     </item>
     <item>
       <title>revolution SLE</title>
-      <link>http://localhost:1313/posts/revolution-sle/</link>
+      <link>https://gfakite.github.io/posts/revolution-sle/</link>
       <pubDate>Thu, 10 Jul 2025 14:47:29 +0000</pubDate>
-      <guid>http://localhost:1313/posts/revolution-sle/</guid>
+      <guid>https://gfakite.github.io/posts/revolution-sle/</guid>
       <description>Purchase date --&amp;gt; 07-10-2025</description>
     </item>
     <item>
       <title>gfak #6: eXtra-Vented rev 1.5</title>
-      <link>http://localhost:1313/posts/gfak-6/</link>
+      <link>https://gfakite.github.io/posts/gfak-6/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gfak-6/</guid>
+      <guid>https://gfakite.github.io/posts/gfak-6/</guid>
       <description>Icarex strips for flying in strong winds</description>
     </item>
     <item>
       <title>revolution RX</title>
-      <link>http://localhost:1313/posts/revolution-rx/</link>
+      <link>https://gfakite.github.io/posts/revolution-rx/</link>
       <pubDate>Sat, 23 Nov 2024 14:47:29 +0000</pubDate>
-      <guid>http://localhost:1313/posts/revolution-rx/</guid>
+      <guid>https://gfakite.github.io/posts/revolution-rx/</guid>
       <description>Purchase date --&amp;gt; 07-13-2023</description>
     </item>
     <item>
       <title>gfak #5: VenTed rev 1.5</title>
-      <link>http://localhost:1313/posts/gfak-5/</link>
+      <link>https://gfakite.github.io/posts/gfak-5/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gfak-5/</guid>
+      <guid>https://gfakite.github.io/posts/gfak-5/</guid>
       <description>A heavy sail or a stable kite that flies very slowly</description>
     </item>
     <item>
       <title>gfak #4: STandard rev 1.5</title>
-      <link>http://localhost:1313/posts/gfak-4/</link>
+      <link>https://gfakite.github.io/posts/gfak-4/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gfak-4/</guid>
+      <guid>https://gfakite.github.io/posts/gfak-4/</guid>
       <description>A standard sail version for flying in light/all days wind</description>
     </item>
     <item>
       <title>revolution Supersonic</title>
-      <link>http://localhost:1313/posts/revolution-supersonic/</link>
+      <link>https://gfakite.github.io/posts/revolution-supersonic/</link>
       <pubDate>Thu, 13 Jul 2023 14:47:29 +0000</pubDate>
-      <guid>http://localhost:1313/posts/revolution-supersonic/</guid>
+      <guid>https://gfakite.github.io/posts/revolution-supersonic/</guid>
       <description>Purchase date --&amp;gt; 07-13-2023</description>
     </item>
     <item>
       <title>gfak #3: Mid-Vented rev 1.5</title>
-      <link>http://localhost:1313/posts/gfak-3/</link>
+      <link>https://gfakite.github.io/posts/gfak-3/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gfak-3/</guid>
+      <guid>https://gfakite.github.io/posts/gfak-3/</guid>
       <description>Third version with T connectors</description>
     </item>
     <item>
       <title>gfak #2: Mid-Vented rev 1.5</title>
-      <link>http://localhost:1313/posts/gfak-2/</link>
+      <link>https://gfakite.github.io/posts/gfak-2/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gfak-2/</guid>
+      <guid>https://gfakite.github.io/posts/gfak-2/</guid>
       <description>Second version with a few improvements</description>
     </item>
     <item>
       <title>gfak #1: VenTed rev 1.5</title>
-      <link>http://localhost:1313/posts/gfak-1/</link>
+      <link>https://gfakite.github.io/posts/gfak-1/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gfak-1/</guid>
+      <guid>https://gfakite.github.io/posts/gfak-1/</guid>
       <description>First kite made</description>
     </item>
   </channel>
