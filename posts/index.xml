@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Go fly a kite</title>
+    <title>Posts on Go Fly A KITE</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Go fly a kite</description>
+    <description>Recent content in Posts on Go Fly A KITE</description>
     <image>
-      <title>Go fly a kite</title>
+      <title>Go Fly A KITE</title>
       <url>http://localhost:1313/img/cover.jpg</url>
       <link>http://localhost:1313/img/cover.jpg</link>
     </image>
     <generator>Hugo -- 0.156.0</generator>
-    <language>fr-fr</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
