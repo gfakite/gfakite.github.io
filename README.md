@@ -8,4 +8,4 @@ Static pages stuff powered by hugo
 
 Make and fly your own kite
 
-Kite Doe
+_Kite Doe_ for _GFAKite_, alias _GFAKiteDoe_
