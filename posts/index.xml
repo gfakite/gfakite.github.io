@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Go Fly A Kite</title>
+    <link>https://gfakite.github.io/posts/</link>
+    <description>Recent content in Posts on Go Fly A Kite</description>
+    <image>
+      <title>Go Fly A Kite</title>
+      <url>https://gfakite.github.io/img/cover.jpg</url>
+      <link>https://gfakite.github.io/img/cover.jpg</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gfakite.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GFAKite #7: Hardcore Vent</title>
+      <link>https://gfakite.github.io/posts/gfakite-7/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/gfakite-7/</guid>
+      <description>An octagon pattern for strong winds</description>
+    </item>
+    <item>
+      <title>revolution SLE</title>
+      <link>https://gfakite.github.io/posts/revolution-sle/</link>
+      <pubDate>Thu, 10 Jul 2025 14:47:29 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/revolution-sle/</guid>
+      <description>Bought to test &amp;#34;SLE&amp;#34; --&amp;gt; Super Leading Edge</description>
+    </item>
+    <item>
+      <title>GFAkite #6: eXtra Vent</title>
+      <link>https://gfakite.github.io/posts/gfakite-6/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/gfakite-6/</guid>
+      <description>Icarex strips for flying in strong winds</description>
+    </item>
+    <item>
+      <title>revolution RX</title>
+      <link>https://gfakite.github.io/posts/revolution-rx/</link>
+      <pubDate>Sat, 23 Nov 2024 14:47:29 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/revolution-rx/</guid>
+      <description>Bought to test 5/16&amp;#34; rods and reflex springs</description>
+    </item>
+    <item>
+      <title>GFAKite #5: full VenT</title>
+      <link>https://gfakite.github.io/posts/gfakite-5/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/gfakite-5/</guid>
+      <description>A stable kite that flies slowly</description>
+    </item>
+    <item>
+      <title>GFAKite #4: STandard</title>
+      <link>https://gfakite.github.io/posts/gfakite-4/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/gfakite-4/</guid>
+      <description>A standard sail version for flying in light/all days wind</description>
+    </item>
+    <item>
+      <title>revolution Supersonic</title>
+      <link>https://gfakite.github.io/posts/revolution-supersonic/</link>
+      <pubDate>Thu, 13 Jul 2023 14:47:29 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/revolution-supersonic/</guid>
+      <description>Bought for speed and fun</description>
+    </item>
+    <item>
+      <title>GFAKite #3: Mid Vent</title>
+      <link>https://gfakite.github.io/posts/gfakite-3/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/gfakite-3/</guid>
+      <description>Version with T connectors</description>
+    </item>
+    <item>
+      <title>GFAKite #2: Mid Vent</title>
+      <link>https://gfakite.github.io/posts/gfakite-2/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/gfakite-2/</guid>
+      <description>Second version with a few improvements</description>
+    </item>
+    <item>
+      <title>GFAKite #1: full VenT</title>
+      <link>https://gfakite.github.io/posts/gfakite-1/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://gfakite.github.io/posts/gfakite-1/</guid>
+      <description>First kite made</description>
+    </item>
+  </channel>
+</rss>
